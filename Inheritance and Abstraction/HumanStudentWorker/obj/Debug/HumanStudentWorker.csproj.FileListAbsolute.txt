@@ -1,1 +1,0 @@
-C:\Users\Iliyan\Dropbox\Fundamentals [OOP]\HM\Inheritance and Abstraction\HumanStudentWorker\bin\Debug\HumanStudentWorker.exe.config

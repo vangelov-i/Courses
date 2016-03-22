@@ -1,6 +1,0 @@
-C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Other Types\02FractionCalculator\bin\Debug\02FractionCalculator.exe.config
-C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Other Types\02FractionCalculator\bin\Debug\02FractionCalculator.exe
-C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Other Types\02FractionCalculator\bin\Debug\02FractionCalculator.pdb
-C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Other Types\02FractionCalculator\obj\Debug\02FractionCalculator.csprojResolveAssemblyReference.cache
-C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Other Types\02FractionCalculator\obj\Debug\02FractionCalculator.exe
-C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Other Types\02FractionCalculator\obj\Debug\02FractionCalculator.pdb

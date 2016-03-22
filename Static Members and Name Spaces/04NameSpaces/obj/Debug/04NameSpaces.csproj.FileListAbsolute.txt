@@ -1,6 +1,0 @@
-C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Static Members and Name Spaces\04NameSpaces\bin\Debug\04NameSpaces.exe.config
-C:\Users\Iliyan\Dropbox\Fundamentals [OOP]\HM\Static Members and Name Spaces\04NameSpaces\bin\Debug\04NameSpaces.exe.config
-C:\Users\Iliyan\Dropbox\Fundamentals [OOP]\HM\Static Members and Name Spaces\04NameSpaces\bin\Debug\04NameSpaces.exe
-C:\Users\Iliyan\Dropbox\Fundamentals [OOP]\HM\Static Members and Name Spaces\04NameSpaces\bin\Debug\04NameSpaces.pdb
-C:\Users\Iliyan\Dropbox\Fundamentals [OOP]\HM\Static Members and Name Spaces\04NameSpaces\obj\Debug\04NameSpaces.exe
-C:\Users\Iliyan\Dropbox\Fundamentals [OOP]\HM\Static Members and Name Spaces\04NameSpaces\obj\Debug\04NameSpaces.pdb

@@ -1,6 +1,0 @@
-C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Other Types\GenericList\bin\Debug\GenericList.exe.config
-C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Other Types\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
-C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Other Types\GenericList\bin\Debug\GenericList.exe
-C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Other Types\GenericList\bin\Debug\GenericList.pdb
-C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Other Types\GenericList\obj\Debug\GenericList.exe
-C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Other Types\GenericList\obj\Debug\GenericList.pdb
