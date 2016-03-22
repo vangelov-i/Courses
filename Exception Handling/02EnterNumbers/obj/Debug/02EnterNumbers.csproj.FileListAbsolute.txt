@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Exception Handling\02EnterNumbers\bin\Debug\02EnterNumbers.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Exception Handling\02EnterNumbers\obj\Debug\02EnterNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Exception Handling\02EnterNumbers\bin\Debug\02EnterNumbers.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Exception Handling\02EnterNumbers\bin\Debug\02EnterNumbers.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Exception Handling\02EnterNumbers\obj\Debug\02EnterNumbers.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Exception Handling\02EnterNumbers\obj\Debug\02EnterNumbers.pdb

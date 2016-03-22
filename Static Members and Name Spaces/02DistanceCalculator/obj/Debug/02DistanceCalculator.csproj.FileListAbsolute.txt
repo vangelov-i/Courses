@@ -1,0 +1,16 @@
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Static Members and Name Spaces\02DistanceCalculator\bin\Debug\02DistanceCalculator.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Static Members and Name Spaces\02DistanceCalculator\bin\Debug\02DistanceCalculator.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Static Members and Name Spaces\02DistanceCalculator\bin\Debug\02DistanceCalculator.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Static Members and Name Spaces\02DistanceCalculator\bin\Debug\01Point3D.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Static Members and Name Spaces\02DistanceCalculator\bin\Debug\01Point3D.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Static Members and Name Spaces\02DistanceCalculator\obj\Debug\02DistanceCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Static Members and Name Spaces\02DistanceCalculator\obj\Debug\02DistanceCalculator.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Static Members and Name Spaces\02DistanceCalculator\obj\Debug\02DistanceCalculator.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [OOP]\HM\Static Members and Name Spaces\02DistanceCalculator\bin\Debug\02DistanceCalculator.exe.config
+C:\Users\Iliyan\Dropbox\Fundamentals [OOP]\HM\Static Members and Name Spaces\02DistanceCalculator\obj\Debug\02DistanceCalculator.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [OOP]\HM\Static Members and Name Spaces\02DistanceCalculator\obj\Debug\02DistanceCalculator.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [OOP]\HM\Static Members and Name Spaces\02DistanceCalculator\bin\Debug\02DistanceCalculator.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [OOP]\HM\Static Members and Name Spaces\02DistanceCalculator\bin\Debug\02DistanceCalculator.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [OOP]\HM\Static Members and Name Spaces\02DistanceCalculator\bin\Debug\01Point3D.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [OOP]\HM\Static Members and Name Spaces\02DistanceCalculator\bin\Debug\01Point3D.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [OOP]\HM\Static Members and Name Spaces\02DistanceCalculator\obj\Debug\02DistanceCalculator.csprojResolveAssemblyReference.cache
