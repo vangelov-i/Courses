@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\02ReplaceATag\bin\Debug\02ReplaceATag.exe.config
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\02ReplaceATag\bin\Debug\02ReplaceATag.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\02ReplaceATag\bin\Debug\02ReplaceATag.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\02ReplaceATag\obj\Debug\02ReplaceATag.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\02ReplaceATag\obj\Debug\02ReplaceATag.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\02ReplaceATag\obj\Debug\02ReplaceATag.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\02ReplaceATag\bin\Debug\02ReplaceATag.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\02ReplaceATag\obj\Debug\02ReplaceATag.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\02ReplaceATag\obj\Debug\02ReplaceATag.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\02ReplaceATag\bin\Debug\02ReplaceATag.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\02ReplaceATag\bin\Debug\02ReplaceATag.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\02ReplaceATag\obj\Debug\02ReplaceATag.csprojResolveAssemblyReference.cache

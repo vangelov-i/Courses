@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\05CollectTheCoins\bin\Debug\05CollectTheCoins.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\05CollectTheCoins\bin\Debug\05CollectTheCoins.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\05CollectTheCoins\bin\Debug\05CollectTheCoins.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\05CollectTheCoins\obj\Debug\05CollectTheCoins.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\05CollectTheCoins\obj\Debug\05CollectTheCoins.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\05CollectTheCoins\obj\Debug\05CollectTheCoins.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\05CollectTheCoins\bin\Debug\05CollectTheCoins.exe.config
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\05CollectTheCoins\obj\Debug\05CollectTheCoins.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\05CollectTheCoins\obj\Debug\05CollectTheCoins.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\05CollectTheCoins\bin\Debug\05CollectTheCoins.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\05CollectTheCoins\bin\Debug\05CollectTheCoins.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\05CollectTheCoins\obj\Debug\05CollectTheCoins.csprojResolveAssemblyReference.cache

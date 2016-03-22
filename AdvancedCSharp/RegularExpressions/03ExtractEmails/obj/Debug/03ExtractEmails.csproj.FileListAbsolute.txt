@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\03ExtractEmails\bin\Debug\03ExtractEmails.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\03ExtractEmails\bin\Debug\03ExtractEmails.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\03ExtractEmails\bin\Debug\03ExtractEmails.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\03ExtractEmails\obj\Debug\03ExtractEmails.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\03ExtractEmails\obj\Debug\03ExtractEmails.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\03ExtractEmails\obj\Debug\03ExtractEmails.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\03ExtractEmails\bin\Debug\03ExtractEmails.exe.config
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\03ExtractEmails\obj\Debug\03ExtractEmails.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\03ExtractEmails\obj\Debug\03ExtractEmails.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\03ExtractEmails\bin\Debug\03ExtractEmails.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\03ExtractEmails\bin\Debug\03ExtractEmails.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\03ExtractEmails\obj\Debug\03ExtractEmails.csprojResolveAssemblyReference.cache

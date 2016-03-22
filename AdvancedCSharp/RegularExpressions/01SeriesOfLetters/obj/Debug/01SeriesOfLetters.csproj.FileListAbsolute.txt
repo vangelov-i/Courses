@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\01SeriesOfLetters\bin\Debug\01SeriesOfLetters.exe.config
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\01SeriesOfLetters\bin\Debug\01SeriesOfLetters.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\01SeriesOfLetters\bin\Debug\01SeriesOfLetters.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\01SeriesOfLetters\obj\Debug\01SeriesOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\01SeriesOfLetters\obj\Debug\01SeriesOfLetters.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\01SeriesOfLetters\obj\Debug\01SeriesOfLetters.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\01SeriesOfLetters\bin\Debug\01SeriesOfLetters.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\01SeriesOfLetters\obj\Debug\01SeriesOfLetters.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\01SeriesOfLetters\obj\Debug\01SeriesOfLetters.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\01SeriesOfLetters\bin\Debug\01SeriesOfLetters.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\01SeriesOfLetters\bin\Debug\01SeriesOfLetters.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\01SeriesOfLetters\obj\Debug\01SeriesOfLetters.csprojResolveAssemblyReference.cache

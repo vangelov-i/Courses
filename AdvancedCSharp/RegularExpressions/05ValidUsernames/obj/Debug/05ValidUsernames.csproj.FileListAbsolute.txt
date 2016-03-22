@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\05ValidUsernames\bin\Debug\05ValidUsernames.exe.config
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\05ValidUsernames\bin\Debug\05ValidUsernames.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\05ValidUsernames\bin\Debug\05ValidUsernames.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\05ValidUsernames\obj\Debug\05ValidUsernames.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\05ValidUsernames\obj\Debug\05ValidUsernames.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\05ValidUsernames\obj\Debug\05ValidUsernames.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\05ValidUsernames\bin\Debug\05ValidUsernames.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\05ValidUsernames\obj\Debug\05ValidUsernames.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\05ValidUsernames\obj\Debug\05ValidUsernames.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\05ValidUsernames\bin\Debug\05ValidUsernames.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\05ValidUsernames\bin\Debug\05ValidUsernames.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\05ValidUsernames\obj\Debug\05ValidUsernames.csprojResolveAssemblyReference.cache

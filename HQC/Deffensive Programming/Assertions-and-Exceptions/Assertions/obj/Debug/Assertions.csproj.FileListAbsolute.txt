@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Deffensive Programming\Assertions-and-Exceptions\Assertions\bin\Debug\Assertions-Homework.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Deffensive Programming\Assertions-and-Exceptions\Assertions\bin\Debug\Assertions-Homework.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Deffensive Programming\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Deffensive Programming\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions-Homework.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Deffensive Programming\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions-Homework.pdb

@@ -1,0 +1,7 @@
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\09SemanticHTML\bin\Debug\09SemanticHTML.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\09SemanticHTML\bin\Debug\09SemanticHTML.exe.config
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\09SemanticHTML\bin\Debug\09SemanticHTML.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\09SemanticHTML\bin\Debug\09SemanticHTML.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\09SemanticHTML\obj\Debug\09SemanticHTML.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\09SemanticHTML\obj\Debug\09SemanticHTML.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\09SemanticHTML\obj\Debug\09SemanticHTML.pdb

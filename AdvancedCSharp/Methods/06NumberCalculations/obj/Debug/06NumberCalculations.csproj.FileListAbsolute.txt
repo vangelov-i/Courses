@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\06NumberCalculations\bin\Debug\06NumberCalculations.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\06NumberCalculations\bin\Debug\06NumberCalculations.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\06NumberCalculations\bin\Debug\06NumberCalculations.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\06NumberCalculations\obj\Debug\06NumberCalculations.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\06NumberCalculations\obj\Debug\06NumberCalculations.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\06NumberCalculations\obj\Debug\06NumberCalculations.pdb

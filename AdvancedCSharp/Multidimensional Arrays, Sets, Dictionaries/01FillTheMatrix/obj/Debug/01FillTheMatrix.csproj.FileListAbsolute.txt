@@ -1,0 +1,9 @@
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\01FillTheMatrix\bin\Debug\01FillTheMatrix.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\01FillTheMatrix\bin\Debug\01FillTheMatrix.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\01FillTheMatrix\bin\Debug\01FillTheMatrix.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\01FillTheMatrix\obj\Debug\01FillTheMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\01FillTheMatrix\obj\Debug\01FillTheMatrix.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\01FillTheMatrix\obj\Debug\01FillTheMatrix.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\01FillTheMatrix\bin\Debug\01FillTheMatrix.exe.config
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\01FillTheMatrix\obj\Debug\01FillTheMatrix.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\01FillTheMatrix\obj\Debug\01FillTheMatrix.pdb

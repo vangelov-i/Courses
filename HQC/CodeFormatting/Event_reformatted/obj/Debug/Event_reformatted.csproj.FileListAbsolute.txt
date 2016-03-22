@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\CodeFormatting\Event_reformatted\bin\Debug\Event_reformatted.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\CodeFormatting\Event_reformatted\bin\Debug\Event_reformatted.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\CodeFormatting\Event_reformatted\bin\Debug\Event_reformatted.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\CodeFormatting\Event_reformatted\obj\Debug\Event_reformatted.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\CodeFormatting\Event_reformatted\obj\Debug\Event_reformatted.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\CodeFormatting\Event_reformatted\obj\Debug\Event_reformatted.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Fundamentals [HQC]\HW\CodeFormatting\Event_reformatted\bin\Debug\Event_reformatted.exe.config
+C:\Users\Iliyan\Dropbox\Fundamentals [HQC]\HW\CodeFormatting\Event_reformatted\obj\Debug\Event_reformatted.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [HQC]\HW\CodeFormatting\Event_reformatted\obj\Debug\Event_reformatted.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [HQC]\HW\CodeFormatting\Event_reformatted\bin\Debug\Event_reformatted.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [HQC]\HW\CodeFormatting\Event_reformatted\bin\Debug\Event_reformatted.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [HQC]\HW\CodeFormatting\Event_reformatted\obj\Debug\Event_reformatted.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Arrays Lists Stacks Queues\05LongestIncreasingSequence\bin\Debug\05LongestIncreasingSequence.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Arrays Lists Stacks Queues\05LongestIncreasingSequence\bin\Debug\05LongestIncreasingSequence.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Arrays Lists Stacks Queues\05LongestIncreasingSequence\bin\Debug\05LongestIncreasingSequence.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Arrays Lists Stacks Queues\05LongestIncreasingSequence\obj\Debug\05LongestIncreasingSequence.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Arrays Lists Stacks Queues\05LongestIncreasingSequence\obj\Debug\05LongestIncreasingSequence.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Arrays Lists Stacks Queues\05LongestIncreasingSequence\obj\Debug\05LongestIncreasingSequence.pdb

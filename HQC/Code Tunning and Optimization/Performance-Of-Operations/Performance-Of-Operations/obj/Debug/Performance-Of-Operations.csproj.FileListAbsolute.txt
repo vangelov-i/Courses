@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Code Tunning and Optimization\Performance-Of-Operations\Performance-Of-Operations\bin\Debug\Performance-Of-Operations.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Code Tunning and Optimization\Performance-Of-Operations\Performance-Of-Operations\bin\Debug\Performance-Of-Operations.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Code Tunning and Optimization\Performance-Of-Operations\Performance-Of-Operations\bin\Debug\Performance-Of-Operations.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Code Tunning and Optimization\Performance-Of-Operations\Performance-Of-Operations\obj\Debug\Performance-Of-Operations.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Code Tunning and Optimization\Performance-Of-Operations\Performance-Of-Operations\obj\Debug\Performance-Of-Operations.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Code Tunning and Optimization\Performance-Of-Operations\Performance-Of-Operations\obj\Debug\Performance-Of-Operations.pdb

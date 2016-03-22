@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Other Types\01GalacticGPS\bin\Debug\01GalacticGPS.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Other Types\01GalacticGPS\bin\Debug\01GalacticGPS.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Other Types\01GalacticGPS\bin\Debug\01GalacticGPS.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Other Types\01GalacticGPS\obj\Debug\01GalacticGPS.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Other Types\01GalacticGPS\obj\Debug\01GalacticGPS.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [OOP]\HM\Other Types\01GalacticGPS\obj\Debug\01GalacticGPS.pdb

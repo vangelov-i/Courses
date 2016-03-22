@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\05ReverseNumber\bin\Debug\05ReverseNumber.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\05ReverseNumber\bin\Debug\05ReverseNumber.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\05ReverseNumber\bin\Debug\05ReverseNumber.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\05ReverseNumber\obj\Debug\05ReverseNumber.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\05ReverseNumber\obj\Debug\05ReverseNumber.pdb

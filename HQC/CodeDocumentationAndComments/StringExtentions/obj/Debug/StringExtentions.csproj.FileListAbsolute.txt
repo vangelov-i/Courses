@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Dropbox\Fundamentals [HQC]\HW\CodeDocumentationAndComments\StringExtentions\bin\Debug\StringExtentions.exe.config
+C:\Users\Iliyan\Dropbox\Fundamentals [HQC]\HW\CodeDocumentationAndComments\StringExtentions\bin\Debug\StringExtentions.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [HQC]\HW\CodeDocumentationAndComments\StringExtentions\bin\Debug\StringExtentions.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [HQC]\HW\CodeDocumentationAndComments\StringExtentions\obj\Debug\StringExtentions.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Fundamentals [HQC]\HW\CodeDocumentationAndComments\StringExtentions\obj\Debug\StringExtentions.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [HQC]\HW\CodeDocumentationAndComments\StringExtentions\obj\Debug\StringExtentions.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\CodeDocumentationAndComments\StringExtentions\bin\Debug\StringExtentions.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\CodeDocumentationAndComments\StringExtentions\obj\Debug\StringExtentions.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\CodeDocumentationAndComments\StringExtentions\obj\Debug\StringExtentions.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\CodeDocumentationAndComments\StringExtentions\bin\Debug\StringExtentions.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\CodeDocumentationAndComments\StringExtentions\bin\Debug\StringExtentions.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\CodeDocumentationAndComments\StringExtentions\obj\Debug\StringExtentions.csprojResolveAssemblyReference.cache

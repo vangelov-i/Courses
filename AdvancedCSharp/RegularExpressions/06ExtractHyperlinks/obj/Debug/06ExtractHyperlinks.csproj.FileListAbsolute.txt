@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\06ExtractHyperlinks\bin\Debug\06ExtractHyperlinks.exe.config
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\06ExtractHyperlinks\bin\Debug\06ExtractHyperlinks.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\06ExtractHyperlinks\bin\Debug\06ExtractHyperlinks.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\06ExtractHyperlinks\obj\Debug\06ExtractHyperlinks.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\06ExtractHyperlinks\obj\Debug\06ExtractHyperlinks.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\06ExtractHyperlinks\obj\Debug\06ExtractHyperlinks.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\06ExtractHyperlinks\bin\Debug\06ExtractHyperlinks.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\06ExtractHyperlinks\obj\Debug\06ExtractHyperlinks.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\06ExtractHyperlinks\obj\Debug\06ExtractHyperlinks.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\06ExtractHyperlinks\bin\Debug\06ExtractHyperlinks.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\06ExtractHyperlinks\bin\Debug\06ExtractHyperlinks.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\RegularExpressions\06ExtractHyperlinks\obj\Debug\06ExtractHyperlinks.csprojResolveAssemblyReference.cache

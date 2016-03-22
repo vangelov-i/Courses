@@ -1,0 +1,11 @@
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\06CountSymbols\bin\Debug\06CountSymbols.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\06CountSymbols\bin\Debug\06CountSymbols.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\06CountSymbols\bin\Debug\06CountSymbols.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\06CountSymbols\obj\Debug\06CountSymbols.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\06CountSymbols\obj\Debug\06CountSymbols.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\06CountSymbols\bin\Debug\06CountSymbols.exe.config
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\06CountSymbols\obj\Debug\06CountSymbols.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\06CountSymbols\obj\Debug\06CountSymbols.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\06CountSymbols\bin\Debug\06CountSymbols.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\06CountSymbols\bin\Debug\06CountSymbols.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\06CountSymbols\obj\Debug\06CountSymbols.csprojResolveAssemblyReference.cache

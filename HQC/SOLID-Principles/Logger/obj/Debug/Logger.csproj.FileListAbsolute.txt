@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Desktop\Dropbox\Basics January-2016\SOLID-Principles\Logger\bin\Debug\SimpleLogger.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Basics January-2016\SOLID-Principles\Logger\bin\Debug\SimpleLogger.exe
+C:\Users\Iliyan\Desktop\Dropbox\Basics January-2016\SOLID-Principles\Logger\bin\Debug\SimpleLogger.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Basics January-2016\SOLID-Principles\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\Basics January-2016\SOLID-Principles\Logger\obj\Debug\SimpleLogger.exe
+C:\Users\Iliyan\Desktop\Dropbox\Basics January-2016\SOLID-Principles\Logger\obj\Debug\SimpleLogger.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\SOLID-Principles\Logger\bin\Debug\SimpleLogger.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\SOLID-Principles\Logger\obj\Debug\SimpleLogger.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\SOLID-Principles\Logger\obj\Debug\SimpleLogger.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\SOLID-Principles\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\SOLID-Principles\Logger\bin\Debug\SimpleLogger.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\SOLID-Principles\Logger\bin\Debug\SimpleLogger.pdb

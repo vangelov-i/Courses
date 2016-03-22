@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\SequenceInMatrix\bin\Debug\SequenceInMatrix.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\SequenceInMatrix\obj\Debug\SequenceInMatrix.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\SequenceInMatrix\obj\Debug\SequenceInMatrix.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\SequenceInMatrix\obj\Debug\04SequenceInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe.config
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\SequenceInMatrix\obj\Debug\SequenceInMatrix.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\SequenceInMatrix\obj\Debug\SequenceInMatrix.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\SequenceInMatrix\bin\Debug\SequenceInMatrix.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\SequenceInMatrix\obj\Debug\04SequenceInMatrix.csprojResolveAssemblyReference.cache

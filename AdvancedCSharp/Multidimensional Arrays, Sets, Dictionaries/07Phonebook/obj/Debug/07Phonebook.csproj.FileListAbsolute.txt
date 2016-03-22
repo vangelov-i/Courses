@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\07Phonebook\bin\Debug\07Phonebook.exe.config
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\07Phonebook\bin\Debug\07Phonebook.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\07Phonebook\bin\Debug\07Phonebook.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\07Phonebook\obj\Debug\07Phonebook.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\07Phonebook\obj\Debug\07Phonebook.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\07Phonebook\obj\Debug\07Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\07Phonebook\bin\Debug\07Phonebook.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\07Phonebook\obj\Debug\07Phonebook.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\07Phonebook\obj\Debug\07Phonebook.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\07Phonebook\bin\Debug\07Phonebook.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\07Phonebook\bin\Debug\07Phonebook.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Multidimensional Arrays, Sets, Dictionaries\07Phonebook\obj\Debug\07Phonebook.csprojResolveAssemblyReference.cache

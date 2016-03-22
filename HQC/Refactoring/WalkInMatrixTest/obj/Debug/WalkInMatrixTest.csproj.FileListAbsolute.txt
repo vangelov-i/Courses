@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Refactoring\WalkInMatrixTest\bin\Debug\WalkInMatrixTest.dll
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Refactoring\WalkInMatrixTest\bin\Debug\WalkInMatrixTest.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Refactoring\WalkInMatrixTest\bin\Debug\MatrixWalk.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Refactoring\WalkInMatrixTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Refactoring\WalkInMatrixTest\bin\Debug\MatrixWalk.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Refactoring\WalkInMatrixTest\obj\Debug\WalkInMatrixTest.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Refactoring\WalkInMatrixTest\obj\Debug\WalkInMatrixTest.dll
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Refactoring\WalkInMatrixTest\obj\Debug\WalkInMatrixTest.pdb

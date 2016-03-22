@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\04FirstLargerThanNeighbours\bin\Debug\04FirstLargerThanNeighbours.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\04FirstLargerThanNeighbours\bin\Debug\04FirstLargerThanNeighbours.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\04FirstLargerThanNeighbours\bin\Debug\04FirstLargerThanNeighbours.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\04FirstLargerThanNeighbours\bin\Debug\03LargerThanNeighbours.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\04FirstLargerThanNeighbours\bin\Debug\03LargerThanNeighbours.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\04FirstLargerThanNeighbours\obj\Debug\04FirstLargerThanNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\04FirstLargerThanNeighbours\obj\Debug\04FirstLargerThanNeighbours.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\04FirstLargerThanNeighbours\obj\Debug\04FirstLargerThanNeighbours.pdb

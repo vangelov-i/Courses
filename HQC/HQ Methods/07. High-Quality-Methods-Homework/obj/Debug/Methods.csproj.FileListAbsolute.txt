@@ -1,0 +1,7 @@
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\HQ Methods\07. High-Quality-Methods-Homework\bin\Debug\Methods.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\HQ Methods\07. High-Quality-Methods-Homework\bin\Debug\Methods.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\HQ Methods\07. High-Quality-Methods-Homework\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\HQ Methods\07. High-Quality-Methods-Homework\obj\Debug\Methods.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\HQ Methods\07. High-Quality-Methods-Homework\obj\Debug\Methods.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [HQC]\HW\HQ Methods\07. High-Quality-Methods-Homework\obj\Debug\Methods.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [HQC]\HW\HQ Methods\07. High-Quality-Methods-Homework\obj\Debug\Methods.pdb

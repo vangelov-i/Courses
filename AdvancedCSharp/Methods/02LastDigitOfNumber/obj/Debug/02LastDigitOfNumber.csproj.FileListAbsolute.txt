@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\02LastDigitOfNumber\bin\Debug\02LastDigitOfNumber.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\02LastDigitOfNumber\bin\Debug\02LastDigitOfNumber.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\02LastDigitOfNumber\bin\Debug\02LastDigitOfNumber.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\02LastDigitOfNumber\obj\Debug\02LastDigitOfNumber.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\Methods\02LastDigitOfNumber\obj\Debug\02LastDigitOfNumber.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Methods\02LastDigitOfNumber\bin\Debug\02LastDigitOfNumber.exe.config
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Methods\02LastDigitOfNumber\obj\Debug\02LastDigitOfNumber.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\Methods\02LastDigitOfNumber\obj\Debug\02LastDigitOfNumber.pdb

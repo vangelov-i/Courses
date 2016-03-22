@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Refactoring\Matrica\bin\Debug\MatrixWalk.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Refactoring\Matrica\bin\Debug\MatrixWalk.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Refactoring\Matrica\obj\x86\Debug\MatrixWalk.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Refactoring\Matrica\obj\x86\Debug\MatrixWalk.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [HQC]\HW\Refactoring\Matrica\obj\x86\Debug\Matrix.csprojResolveAssemblyReference.cache

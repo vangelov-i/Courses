@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\FunctionalProgramming\01ClassStudent\bin\Debug\01ClassStudent.exe.config
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\FunctionalProgramming\01ClassStudent\bin\Debug\01ClassStudent.exe.config
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\FunctionalProgramming\01ClassStudent\bin\Debug\01ClassStudent.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\FunctionalProgramming\01ClassStudent\bin\Debug\01ClassStudent.pdb
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\FunctionalProgramming\01ClassStudent\obj\Debug\01ClassStudent.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\FunctionalProgramming\01ClassStudent\obj\Debug\01ClassStudent.exe
+C:\Users\Iliyan\Dropbox\Fundamentals [Advanced C#]\HW\FunctionalProgramming\01ClassStudent\obj\Debug\01ClassStudent.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\FunctionalProgramming\01ClassStudent\obj\Debug\01ClassStudent.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\FunctionalProgramming\01ClassStudent\obj\Debug\01ClassStudent.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\FunctionalProgramming\01ClassStudent\bin\Debug\01ClassStudent.exe
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\FunctionalProgramming\01ClassStudent\bin\Debug\01ClassStudent.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Fundamentals [Advanced C#]\HW\FunctionalProgramming\01ClassStudent\obj\Debug\01ClassStudent.csprojResolveAssemblyReference.cache
