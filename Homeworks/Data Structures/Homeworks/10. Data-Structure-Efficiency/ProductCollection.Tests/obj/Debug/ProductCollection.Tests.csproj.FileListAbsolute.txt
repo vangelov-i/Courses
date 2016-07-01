@@ -1,0 +1,10 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\ProductCollection.Tests\bin\Debug\ProductCollection.Tests.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\ProductCollection.Tests\bin\Debug\ProductCollection.Tests.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\ProductCollection.Tests\bin\Debug\Collection-Of-Products.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\ProductCollection.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\ProductCollection.Tests\bin\Debug\PowerCollections.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\ProductCollection.Tests\bin\Debug\Collection-Of-Products.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\ProductCollection.Tests\bin\Debug\PowerCollections.xml
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\ProductCollection.Tests\obj\Debug\ProductCollection.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\ProductCollection.Tests\obj\Debug\ProductCollection.Tests.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\ProductCollection.Tests\obj\Debug\ProductCollection.Tests.pdb

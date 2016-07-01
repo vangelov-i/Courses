@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\5. Tree-Traversal-DFS-BFS\Find-The-Root\bin\Debug\Find-The-Root.exe.config
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\5. Tree-Traversal-DFS-BFS\Find-The-Root\bin\Debug\Find-The-Root.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\5. Tree-Traversal-DFS-BFS\Find-The-Root\bin\Debug\Find-The-Root.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\5. Tree-Traversal-DFS-BFS\Find-The-Root\obj\Debug\Find-The-Root.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\5. Tree-Traversal-DFS-BFS\Find-The-Root\obj\Debug\Find-The-Root.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\5. Tree-Traversal-DFS-BFS\Find-The-Root\obj\Debug\Find-The-Root.pdb

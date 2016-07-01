@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\5. Tree-Traversal-DFS-BFS\Ride-The-Horse\bin\Debug\Ride-The-Horse.exe.config
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\5. Tree-Traversal-DFS-BFS\Ride-The-Horse\bin\Debug\Ride-The-Horse.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\5. Tree-Traversal-DFS-BFS\Ride-The-Horse\bin\Debug\Ride-The-Horse.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\5. Tree-Traversal-DFS-BFS\Ride-The-Horse\obj\Debug\Ride-The-Horse.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\5. Tree-Traversal-DFS-BFS\Ride-The-Horse\obj\Debug\Ride-The-Horse.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\5. Tree-Traversal-DFS-BFS\Ride-The-Horse\obj\Debug\Ride-The-Horse.pdb

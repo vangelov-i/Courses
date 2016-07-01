@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\4. Trees-Tree-Like-Structures\Calculate-Expression\bin\Debug\Calculate-Expression.exe.config
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\4. Trees-Tree-Like-Structures\Calculate-Expression\bin\Debug\Calculate-Expression.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\4. Trees-Tree-Like-Structures\Calculate-Expression\bin\Debug\Calculate-Expression.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\4. Trees-Tree-Like-Structures\Calculate-Expression\obj\Debug\Calculate-Expression.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\4. Trees-Tree-Like-Structures\Calculate-Expression\obj\Debug\Calculate-Expression.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\4. Trees-Tree-Like-Structures\Calculate-Expression\obj\Debug\Calculate-Expression.pdb

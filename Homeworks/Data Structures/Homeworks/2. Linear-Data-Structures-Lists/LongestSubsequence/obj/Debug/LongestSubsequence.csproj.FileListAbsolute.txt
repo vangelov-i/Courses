@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\2. Linear-Data-Structures-Lists\LongestSubsequence\bin\Debug\LongestSubsequence.exe.config
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\2. Linear-Data-Structures-Lists\LongestSubsequence\bin\Debug\LongestSubsequence.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\2. Linear-Data-Structures-Lists\LongestSubsequence\bin\Debug\LongestSubsequence.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\2. Linear-Data-Structures-Lists\LongestSubsequence\obj\Debug\LongestSubsequence.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\2. Linear-Data-Structures-Lists\LongestSubsequence\obj\Debug\LongestSubsequence.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\2. Linear-Data-Structures-Lists\LongestSubsequence\obj\Debug\LongestSubsequence.pdb

@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\7. Collection-Data-Structures-and-Libraries\Rope-For-Efficient-String-Editting\bin\Debug\Rope-For-Efficient-String-Editting.exe.config
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\7. Collection-Data-Structures-and-Libraries\Rope-For-Efficient-String-Editting\bin\Debug\Rope-For-Efficient-String-Editting.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\7. Collection-Data-Structures-and-Libraries\Rope-For-Efficient-String-Editting\bin\Debug\Rope-For-Efficient-String-Editting.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\7. Collection-Data-Structures-and-Libraries\Rope-For-Efficient-String-Editting\bin\Debug\PowerCollections.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\7. Collection-Data-Structures-and-Libraries\Rope-For-Efficient-String-Editting\bin\Debug\PowerCollections.xml
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\7. Collection-Data-Structures-and-Libraries\Rope-For-Efficient-String-Editting\obj\Debug\Rope-For-Efficient-String-Editting.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\7. Collection-Data-Structures-and-Libraries\Rope-For-Efficient-String-Editting\obj\Debug\Rope-For-Efficient-String-Editting.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\7. Collection-Data-Structures-and-Libraries\Rope-For-Efficient-String-Editting\obj\Debug\Rope-For-Efficient-String-Editting.pdb

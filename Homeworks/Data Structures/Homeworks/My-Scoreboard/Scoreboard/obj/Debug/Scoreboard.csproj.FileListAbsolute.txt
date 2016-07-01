@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\My-Scoreboard\Scoreboard\bin\Debug\Scoreboard.exe.config
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\My-Scoreboard\Scoreboard\bin\Debug\Scoreboard.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\My-Scoreboard\Scoreboard\bin\Debug\Scoreboard.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\My-Scoreboard\Scoreboard\bin\Debug\PowerCollections.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\My-Scoreboard\Scoreboard\bin\Debug\PowerCollections.xml
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\My-Scoreboard\Scoreboard\obj\Debug\Scoreboard.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\My-Scoreboard\Scoreboard\obj\Debug\Scoreboard.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\My-Scoreboard\Scoreboard\obj\Debug\Scoreboard.pdb

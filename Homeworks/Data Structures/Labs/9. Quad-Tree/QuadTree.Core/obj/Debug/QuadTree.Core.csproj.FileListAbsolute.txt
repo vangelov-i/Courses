@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\9. Quad-Tree\QuadTree.Core\bin\Debug\QuadTree.Core.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\9. Quad-Tree\QuadTree.Core\bin\Debug\QuadTree.Core.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\9. Quad-Tree\QuadTree.Core\obj\Debug\QuadTree.Core.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\9. Quad-Tree\QuadTree.Core\obj\Debug\QuadTree.Core.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\9. Quad-Tree\QuadTree.Core\obj\Debug\QuadTree.Core.pdb

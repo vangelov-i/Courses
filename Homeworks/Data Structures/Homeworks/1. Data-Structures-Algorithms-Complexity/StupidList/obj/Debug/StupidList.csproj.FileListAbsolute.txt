@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\Data-Structures-Algorithms-Complexity\StupidList\bin\Debug\StupidList.exe.config
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\Data-Structures-Algorithms-Complexity\StupidList\obj\Debug\StupidList.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\Data-Structures-Algorithms-Complexity\StupidList\bin\Debug\StupidList.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\Data-Structures-Algorithms-Complexity\StupidList\bin\Debug\StupidList.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\Data-Structures-Algorithms-Complexity\StupidList\obj\Debug\StupidList.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\Data-Structures-Algorithms-Complexity\StupidList\obj\Debug\StupidList.pdb

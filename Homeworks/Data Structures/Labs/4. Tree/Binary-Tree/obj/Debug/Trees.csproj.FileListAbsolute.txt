@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\4. Tree\Binary-Tree\bin\Debug\Trees.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\4. Tree\Binary-Tree\bin\Debug\Trees.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\4. Tree\Binary-Tree\obj\Debug\Trees.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\4. Tree\Binary-Tree\obj\Debug\Trees.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\4. Tree\Binary-Tree\obj\Debug\Trees.pdb

@@ -1,0 +1,9 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Exams\Exam-Preparation\Shopping-Center\Shopping-Center.Tests\obj\Debug\Shopping-Center.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Exams\Exam-Preparation\Shopping-Center\Shopping-Center.Tests\bin\Debug\Shopping-Center.Tests.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Exams\Exam-Preparation\Shopping-Center\Shopping-Center.Tests\bin\Debug\Shopping-Center.Tests.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Exams\Exam-Preparation\Shopping-Center\Shopping-Center.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Exams\Exam-Preparation\Shopping-Center\Shopping-Center.Tests\bin\Debug\Shopping-Center.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Exams\Exam-Preparation\Shopping-Center\Shopping-Center.Tests\bin\Debug\PowerCollections.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Exams\Exam-Preparation\Shopping-Center\Shopping-Center.Tests\bin\Debug\Shopping-Center.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Exams\Exam-Preparation\Shopping-Center\Shopping-Center.Tests\obj\Debug\Shopping-Center.Tests.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Exams\Exam-Preparation\Shopping-Center\Shopping-Center.Tests\obj\Debug\Shopping-Center.Tests.pdb

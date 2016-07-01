@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\9. Quad-Tree\QuadTree.Tests\bin\Debug\QuadTree.Tests.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\9. Quad-Tree\QuadTree.Tests\bin\Debug\QuadTree.Tests.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\9. Quad-Tree\QuadTree.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\9. Quad-Tree\QuadTree.Tests\bin\Debug\QuadTree.Core.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\9. Quad-Tree\QuadTree.Tests\bin\Debug\QuadTree.Core.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\9. Quad-Tree\QuadTree.Tests\obj\Debug\QuadTree.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\9. Quad-Tree\QuadTree.Tests\obj\Debug\QuadTree.Tests.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\9. Quad-Tree\QuadTree.Tests\obj\Debug\QuadTree.Tests.pdb

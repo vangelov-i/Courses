@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\Collection-Of-Products\bin\Debug\Collection-Of-Products.exe.config
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\Collection-Of-Products\bin\Debug\Collection-Of-Products.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\Collection-Of-Products\bin\Debug\Collection-Of-Products.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\Collection-Of-Products\obj\Debug\Collection-Of-Products.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\Collection-Of-Products\obj\Debug\Collection-Of-Products.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\Collection-Of-Products\obj\Debug\Collection-Of-Products.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\Collection-Of-Products\bin\Debug\PowerCollections.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\Collection-Of-Products\bin\Debug\PowerCollections.xml

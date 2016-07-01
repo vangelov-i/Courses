@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\Students-And-Courses\bin\Debug\Students-And-Courses.exe.config
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\Students-And-Courses\bin\Debug\Students-And-Courses.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\Students-And-Courses\bin\Debug\Students-And-Courses.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\Students-And-Courses\bin\Debug\PowerCollections.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\Students-And-Courses\bin\Debug\PowerCollections.xml
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\Students-And-Courses\obj\Debug\Students-And-Courses.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\Students-And-Courses\obj\Debug\Students-And-Courses.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\10. Data-Structure-Efficiency\Students-And-Courses\obj\Debug\Students-And-Courses.pdb

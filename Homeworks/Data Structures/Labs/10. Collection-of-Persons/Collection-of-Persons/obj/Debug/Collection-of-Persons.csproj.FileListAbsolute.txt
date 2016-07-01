@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\10. Collection-of-Persons\Collection-of-Persons\bin\Debug\Collection-of-Persons.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\10. Collection-of-Persons\Collection-of-Persons\bin\Debug\Collection-of-Persons.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\10. Collection-of-Persons\Collection-of-Persons\bin\Debug\PowerCollections.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\10. Collection-of-Persons\Collection-of-Persons\obj\Debug\Collection-of-Persons.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\10. Collection-of-Persons\Collection-of-Persons\obj\Debug\Collection-of-Persons.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\10. Collection-of-Persons\Collection-of-Persons\obj\Debug\Collection-of-Persons.pdb

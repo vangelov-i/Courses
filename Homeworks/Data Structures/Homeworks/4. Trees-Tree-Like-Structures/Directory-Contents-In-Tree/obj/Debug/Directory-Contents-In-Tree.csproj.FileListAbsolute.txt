@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\4. Trees-Tree-Like-Structures\Directory-Contents-In-Tree\bin\Debug\Directory-Contents-In-Tree.exe.config
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\4. Trees-Tree-Like-Structures\Directory-Contents-In-Tree\bin\Debug\Directory-Contents-In-Tree.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\4. Trees-Tree-Like-Structures\Directory-Contents-In-Tree\bin\Debug\Directory-Contents-In-Tree.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\4. Trees-Tree-Like-Structures\Directory-Contents-In-Tree\obj\Debug\Directory-Contents-In-Tree.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\4. Trees-Tree-Like-Structures\Directory-Contents-In-Tree\obj\Debug\Directory-Contents-In-Tree.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\4. Trees-Tree-Like-Structures\Directory-Contents-In-Tree\obj\Debug\Directory-Contents-In-Tree.pdb

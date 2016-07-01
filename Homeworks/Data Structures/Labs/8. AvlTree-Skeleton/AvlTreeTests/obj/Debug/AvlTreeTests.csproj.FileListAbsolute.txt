@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\8. AvlTree-Skeleton\AvlTreeTests\bin\Debug\AvlTreeTests.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\8. AvlTree-Skeleton\AvlTreeTests\bin\Debug\AvlTreeTests.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\8. AvlTree-Skeleton\AvlTreeTests\bin\Debug\AvlTreeLab.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\8. AvlTree-Skeleton\AvlTreeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\8. AvlTree-Skeleton\AvlTreeTests\bin\Debug\AvlTreeLab.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\8. AvlTree-Skeleton\AvlTreeTests\obj\Debug\AvlTreeTests.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\8. AvlTree-Skeleton\AvlTreeTests\obj\Debug\AvlTreeTests.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\8. AvlTree-Skeleton\AvlTreeTests\obj\Debug\AvlTreeTests.pdb

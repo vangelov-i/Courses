@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\3. Circular-Queue\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\3. Circular-Queue\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\3. Circular-Queue\CircularQueue.Tests\bin\Debug\CircularQueue.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\3. Circular-Queue\CircularQueue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\3. Circular-Queue\CircularQueue.Tests\bin\Debug\CircularQueue.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\3. Circular-Queue\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\3. Circular-Queue\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\3. Circular-Queue\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.pdb

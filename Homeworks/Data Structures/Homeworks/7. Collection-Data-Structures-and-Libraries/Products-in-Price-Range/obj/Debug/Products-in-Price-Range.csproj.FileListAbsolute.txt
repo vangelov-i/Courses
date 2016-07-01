@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\7. Collection-Data-Structures-and-Libraries\Products-in-Price-Range\bin\Debug\Products-in-Price-Range.exe.config
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\7. Collection-Data-Structures-and-Libraries\Products-in-Price-Range\bin\Debug\Products-in-Price-Range.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\7. Collection-Data-Structures-and-Libraries\Products-in-Price-Range\bin\Debug\Products-in-Price-Range.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\7. Collection-Data-Structures-and-Libraries\Products-in-Price-Range\bin\Debug\PowerCollections.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\7. Collection-Data-Structures-and-Libraries\Products-in-Price-Range\bin\Debug\PowerCollections.xml
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\7. Collection-Data-Structures-and-Libraries\Products-in-Price-Range\obj\Debug\Products-in-Price-Range.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\7. Collection-Data-Structures-and-Libraries\Products-in-Price-Range\obj\Debug\Products-in-Price-Range.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\7. Collection-Data-Structures-and-Libraries\Products-in-Price-Range\obj\Debug\Products-in-Price-Range.pdb

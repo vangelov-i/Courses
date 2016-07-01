@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\3. Linear-Data-Structures-Stacls-Queues\Array-Based-Stack\bin\Debug\Array-Based-Stack.exe.config
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\3. Linear-Data-Structures-Stacls-Queues\Array-Based-Stack\obj\Debug\Array-Based-Stack.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\3. Linear-Data-Structures-Stacls-Queues\Array-Based-Stack\bin\Debug\Array-Based-Stack.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\3. Linear-Data-Structures-Stacls-Queues\Array-Based-Stack\bin\Debug\Array-Based-Stack.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\3. Linear-Data-Structures-Stacls-Queues\Array-Based-Stack\obj\Debug\Array-Based-Stack.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\3. Linear-Data-Structures-Stacls-Queues\Array-Based-Stack\obj\Debug\Array-Based-Stack.pdb

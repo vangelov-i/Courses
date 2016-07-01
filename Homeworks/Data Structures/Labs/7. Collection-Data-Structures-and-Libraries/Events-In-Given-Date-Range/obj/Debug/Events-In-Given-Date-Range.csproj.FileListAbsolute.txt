@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\7. Collection-Data-Structures-and-Libraries\Events-In-Given-Date-Range\bin\Debug\Events-In-Given-Date-Range.exe.config
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\7. Collection-Data-Structures-and-Libraries\Events-In-Given-Date-Range\bin\Debug\Events-In-Given-Date-Range.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\7. Collection-Data-Structures-and-Libraries\Events-In-Given-Date-Range\bin\Debug\Events-In-Given-Date-Range.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\7. Collection-Data-Structures-and-Libraries\Events-In-Given-Date-Range\bin\Debug\PowerCollections.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\7. Collection-Data-Structures-and-Libraries\Events-In-Given-Date-Range\bin\Debug\PowerCollections.xml
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\7. Collection-Data-Structures-and-Libraries\Events-In-Given-Date-Range\obj\Debug\Events-In-Given-Date-Range.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\7. Collection-Data-Structures-and-Libraries\Events-In-Given-Date-Range\obj\Debug\Events-In-Given-Date-Range.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Labs\7. Collection-Data-Structures-and-Libraries\Events-In-Given-Date-Range\obj\Debug\Events-In-Given-Date-Range.pdb

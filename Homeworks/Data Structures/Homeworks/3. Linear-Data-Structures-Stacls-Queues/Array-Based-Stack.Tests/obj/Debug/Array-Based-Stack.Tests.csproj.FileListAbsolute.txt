@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\3. Linear-Data-Structures-Stacls-Queues\Array-Based-Stack.Tests\obj\Debug\Array-Based-Stack.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\3. Linear-Data-Structures-Stacls-Queues\Array-Based-Stack.Tests\bin\Debug\Array-Based-Stack.Tests.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\3. Linear-Data-Structures-Stacls-Queues\Array-Based-Stack.Tests\bin\Debug\Array-Based-Stack.Tests.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\3. Linear-Data-Structures-Stacls-Queues\Array-Based-Stack.Tests\bin\Debug\Array-Based-Stack.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\3. Linear-Data-Structures-Stacls-Queues\Array-Based-Stack.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\3. Linear-Data-Structures-Stacls-Queues\Array-Based-Stack.Tests\bin\Debug\Array-Based-Stack.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\3. Linear-Data-Structures-Stacls-Queues\Array-Based-Stack.Tests\obj\Debug\Array-Based-Stack.Tests.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\3. Linear-Data-Structures-Stacls-Queues\Array-Based-Stack.Tests\obj\Debug\Array-Based-Stack.Tests.pdb

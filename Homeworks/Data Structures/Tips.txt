@@ -1,0 +1,16 @@
+Locality of reference (how data is stored, localized in the memory)
+Cuckoo hashing algorithm (interesting & efficient one)
+
+Trees:
+*Binary Search Trees:
+	AVL Tree vs RedBlack Tree
+	*AVL
+		-> strictly balanced -> faster look-up O(logN)
+		-> slower add/remove because of the strict balance rules
+	*RedBlack
+		-> less strictly balanced -> slower look-up O(logN)
+		-> faster add/remove because of the less strinct balance rules
+	===> AVL -> more appropriate when we don't frequenty add/remove nodes but we expect to look-up frequently.
+	===> RedBlack -> more appropriate when we frequently add/remove nodes and don't look-up too much (because of the slower look-up performance compared to AVL)
+
+*B-Tree -> appropriate when we work with HDD database because it can hold nodes containing a lot of keys so they can fit in a single block in the HDD which helps improve performance when avoiding reading multiple blocks (reading from the HDD is way way slower than reading from the memory (1000x+ slower))

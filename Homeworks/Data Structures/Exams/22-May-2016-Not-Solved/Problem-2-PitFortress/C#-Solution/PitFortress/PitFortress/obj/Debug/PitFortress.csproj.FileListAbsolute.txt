@@ -1,0 +1,22 @@
+G:\SoftUni\SoftUni Work\DataStructures\DataStructureRetakeExam18May2016\DSRetakeExam22May2016\DSRetakeExam22May2016\bin\Debug\PitFortress.exe.config
+G:\SoftUni\SoftUni Work\DataStructures\DataStructureRetakeExam18May2016\DSRetakeExam22May2016\DSRetakeExam22May2016\bin\Debug\PitFortress.exe
+G:\SoftUni\SoftUni Work\DataStructures\DataStructureRetakeExam18May2016\DSRetakeExam22May2016\DSRetakeExam22May2016\bin\Debug\PitFortress.pdb
+G:\SoftUni\SoftUni Work\DataStructures\DataStructureRetakeExam18May2016\DSRetakeExam22May2016\DSRetakeExam22May2016\obj\Debug\PitFortress.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\DataStructures\DataStructureRetakeExam18May2016\DSRetakeExam22May2016\DSRetakeExam22May2016\obj\Debug\PitFortress.exe
+G:\SoftUni\SoftUni Work\DataStructures\DataStructureRetakeExam18May2016\DSRetakeExam22May2016\DSRetakeExam22May2016\obj\Debug\PitFortress.pdb
+G:\SoftUni\SoftUni Work\DataStructures\DataStructureRetakeExam18May2016\DSRetakeExam22May2016\DSRetakeExam22May2016\bin\Debug\PowerCollections.dll
+G:\SoftUni\SoftUni Work\DataStructures\DataStructureRetakeExam18May2016\DSRetakeExam22May2016\DSRetakeExam22May2016\bin\Debug\PowerCollections.xml
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\DSRetakeExam22May2016\DSRetakeExam22May2016\bin\Debug\PitFortress.exe.config
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\DSRetakeExam22May2016\DSRetakeExam22May2016\bin\Debug\PitFortress.exe
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\DSRetakeExam22May2016\DSRetakeExam22May2016\bin\Debug\PitFortress.pdb
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\DSRetakeExam22May2016\DSRetakeExam22May2016\bin\Debug\PowerCollections.dll
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\DSRetakeExam22May2016\DSRetakeExam22May2016\bin\Debug\PowerCollections.xml
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\DSRetakeExam22May2016\DSRetakeExam22May2016\obj\Debug\PitFortress.exe
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\DSRetakeExam22May2016\DSRetakeExam22May2016\obj\Debug\PitFortress.pdb
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\DSRetakeExam22May2016\DSRetakeExam22May2016\obj\Debug\PitFortress.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\Solutions\PitFortress\DSRetakeExam22May2016\bin\Debug\PitFortress.exe.config
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\Solutions\PitFortress\DSRetakeExam22May2016\obj\Debug\PitFortress.exe
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\Solutions\PitFortress\DSRetakeExam22May2016\obj\Debug\PitFortress.pdb
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\Solutions\PitFortress\PitFortress\bin\Debug\PitFortress.exe.config
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\Solutions\PitFortress\PitFortress\obj\Debug\PitFortress.exe
+E:\Soft Uni\Soft Uni Problems\DS\DataStructureRetakeExam18May2016\Solutions\PitFortress\PitFortress\obj\Debug\PitFortress.pdb

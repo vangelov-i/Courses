@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\3. Linear-Data-Structures-Stacls-Queues\ShortestOperationsSequence\bin\Debug\ShortestOperationsSequence.exe.config
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\3. Linear-Data-Structures-Stacls-Queues\ShortestOperationsSequence\bin\Debug\ShortestOperationsSequence.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\3. Linear-Data-Structures-Stacls-Queues\ShortestOperationsSequence\bin\Debug\ShortestOperationsSequence.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\3. Linear-Data-Structures-Stacls-Queues\ShortestOperationsSequence\obj\Debug\ShortestOperationsSequence.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\3. Linear-Data-Structures-Stacls-Queues\ShortestOperationsSequence\obj\Debug\ShortestOperationsSequence.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\3. Linear-Data-Structures-Stacls-Queues\ShortestOperationsSequence\obj\Debug\ShortestOperationsSequence.pdb

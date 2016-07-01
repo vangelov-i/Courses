@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\2. Linear-Data-Structures-Lists\CountOfOccurrences\bin\Debug\CountOfOccurrences.exe.config
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\2. Linear-Data-Structures-Lists\CountOfOccurrences\bin\Debug\CountOfOccurrences.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\2. Linear-Data-Structures-Lists\CountOfOccurrences\bin\Debug\CountOfOccurrences.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\2. Linear-Data-Structures-Lists\CountOfOccurrences\obj\Debug\CountOfOccurrences.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\2. Linear-Data-Structures-Lists\CountOfOccurrences\obj\Debug\CountOfOccurrences.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\2. Linear-Data-Structures-Lists\CountOfOccurrences\obj\Debug\CountOfOccurrences.pdb

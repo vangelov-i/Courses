@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Exams\Exam-Preparation\My-Shopping-Center\Shopping-Center\bin\Debug\Shopping-Center.exe.config
+C:\Users\Iliyan\Dropbox\Data Structures\Exams\Exam-Preparation\My-Shopping-Center\Shopping-Center\obj\Debug\Shopping-Center.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Exams\Exam-Preparation\My-Shopping-Center\Shopping-Center\bin\Debug\Shopping-Center.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Exams\Exam-Preparation\My-Shopping-Center\Shopping-Center\bin\Debug\Shopping-Center.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Exams\Exam-Preparation\My-Shopping-Center\Shopping-Center\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Exams\Exam-Preparation\My-Shopping-Center\Shopping-Center\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+C:\Users\Iliyan\Dropbox\Data Structures\Exams\Exam-Preparation\My-Shopping-Center\Shopping-Center\obj\Debug\Shopping-Center.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Exams\Exam-Preparation\My-Shopping-Center\Shopping-Center\obj\Debug\Shopping-Center.pdb

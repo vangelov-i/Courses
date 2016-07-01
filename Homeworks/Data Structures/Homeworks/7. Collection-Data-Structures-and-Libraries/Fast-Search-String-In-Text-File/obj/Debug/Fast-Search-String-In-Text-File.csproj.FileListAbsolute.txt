@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\7. Collection-Data-Structures-and-Libraries\Fast-Search-String-In-Text-File\bin\Debug\Fast-Search-String-In-Text-File.exe.config
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\7. Collection-Data-Structures-and-Libraries\Fast-Search-String-In-Text-File\bin\Debug\Fast-Search-String-In-Text-File.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\7. Collection-Data-Structures-and-Libraries\Fast-Search-String-In-Text-File\bin\Debug\Fast-Search-String-In-Text-File.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\7. Collection-Data-Structures-and-Libraries\Fast-Search-String-In-Text-File\bin\Debug\PowerCollections.dll
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\7. Collection-Data-Structures-and-Libraries\Fast-Search-String-In-Text-File\bin\Debug\PowerCollections.xml
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\7. Collection-Data-Structures-and-Libraries\Fast-Search-String-In-Text-File\obj\Debug\Fast-Search-String-In-Text-File.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\7. Collection-Data-Structures-and-Libraries\Fast-Search-String-In-Text-File\obj\Debug\Fast-Search-String-In-Text-File.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\7. Collection-Data-Structures-and-Libraries\Fast-Search-String-In-Text-File\obj\Debug\Fast-Search-String-In-Text-File.pdb

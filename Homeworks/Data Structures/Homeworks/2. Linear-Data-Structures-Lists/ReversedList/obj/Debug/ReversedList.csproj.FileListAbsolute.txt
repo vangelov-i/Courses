@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\2. Linear-Data-Structures-Lists\ReversedList\bin\Debug\ReversedList.exe.config
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\2. Linear-Data-Structures-Lists\ReversedList\bin\Debug\ReversedList.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\2. Linear-Data-Structures-Lists\ReversedList\bin\Debug\ReversedList.pdb
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\2. Linear-Data-Structures-Lists\ReversedList\obj\Debug\ReversedList.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\2. Linear-Data-Structures-Lists\ReversedList\obj\Debug\ReversedList.exe
+C:\Users\Iliyan\Dropbox\Data Structures\Homeworks\2. Linear-Data-Structures-Lists\ReversedList\obj\Debug\ReversedList.pdb
