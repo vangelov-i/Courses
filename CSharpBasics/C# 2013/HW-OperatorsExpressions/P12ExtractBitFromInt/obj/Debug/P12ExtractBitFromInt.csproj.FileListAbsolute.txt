@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P12ExtractBitFromInt\bin\Debug\P12ExtractBitFromInt.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P12ExtractBitFromInt\bin\Debug\P12ExtractBitFromInt.exe
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P12ExtractBitFromInt\bin\Debug\P12ExtractBitFromInt.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P12ExtractBitFromInt\obj\Debug\P12ExtractBitFromInt.exe
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P12ExtractBitFromInt\obj\Debug\P12ExtractBitFromInt.pdb

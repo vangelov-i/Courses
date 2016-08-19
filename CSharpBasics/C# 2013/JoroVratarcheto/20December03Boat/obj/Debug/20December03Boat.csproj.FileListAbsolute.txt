@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\20December03Boat\bin\Debug\20December03Boat.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\20December03Boat\bin\Debug\20December03Boat.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\20December03Boat\bin\Debug\20December03Boat.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\20December03Boat\obj\Debug\20December03Boat.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\20December03Boat\obj\Debug\20December03Boat.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\20December03Boat\obj\Debug\20December03Boat.pdb

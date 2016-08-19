@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilMorning03Sunglasses\bin\Debug\10AprilMorning03Sunglasses.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilMorning03Sunglasses\bin\Debug\10AprilMorning03Sunglasses.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilMorning03Sunglasses\bin\Debug\10AprilMorning03Sunglasses.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilMorning03Sunglasses\obj\Debug\10AprilMorning03Sunglasses.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilMorning03Sunglasses\obj\Debug\10AprilMorning03Sunglasses.pdb

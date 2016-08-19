@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Conditional Statements [HW]\03CheckForAPlayCard\bin\Debug\03CheckForAPlayCard.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Conditional Statements [HW]\03CheckForAPlayCard\bin\Debug\03CheckForAPlayCard.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Conditional Statements [HW]\03CheckForAPlayCard\bin\Debug\03CheckForAPlayCard.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Conditional Statements [HW]\03CheckForAPlayCard\obj\Debug\03CheckForAPlayCard.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Conditional Statements [HW]\03CheckForAPlayCard\obj\Debug\03CheckForAPlayCard.pdb

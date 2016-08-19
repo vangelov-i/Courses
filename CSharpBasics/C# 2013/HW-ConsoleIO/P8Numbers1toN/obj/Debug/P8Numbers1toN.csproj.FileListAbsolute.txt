@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P8Numbers1toN\bin\Debug\P8Numbers1toN.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P8Numbers1toN\bin\Debug\P8Numbers1toN.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P8Numbers1toN\bin\Debug\P8Numbers1toN.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P8Numbers1toN\obj\Debug\P8Numbers1toN.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P8Numbers1toN\obj\Debug\P8Numbers1toN.pdb

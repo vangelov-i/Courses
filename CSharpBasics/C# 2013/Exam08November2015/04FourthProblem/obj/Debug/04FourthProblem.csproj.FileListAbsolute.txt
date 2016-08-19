@@ -1,0 +1,6 @@
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\04FourthProblem\bin\Debug\04FourthProblem.exe.config
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\04FourthProblem\bin\Debug\04FourthProblem.exe
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\04FourthProblem\bin\Debug\04FourthProblem.pdb
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\04FourthProblem\obj\Debug\04FourthProblem.csprojResolveAssemblyReference.cache
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\04FourthProblem\obj\Debug\04FourthProblem.exe
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\04FourthProblem\obj\Debug\04FourthProblem.pdb

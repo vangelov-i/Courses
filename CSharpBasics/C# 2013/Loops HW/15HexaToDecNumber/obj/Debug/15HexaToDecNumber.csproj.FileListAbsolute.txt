@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops HW\15HexaToDecNumber\bin\Debug\15HexaToDecNumber.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops HW\15HexaToDecNumber\bin\Debug\15HexaToDecNumber.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops HW\15HexaToDecNumber\bin\Debug\15HexaToDecNumber.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops HW\15HexaToDecNumber\obj\Debug\15HexaToDecNumber.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops HW\15HexaToDecNumber\obj\Debug\15HexaToDecNumber.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops HW\15HexaToDecNumber\obj\Debug\15HexaToDecNumber.pdb

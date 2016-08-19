@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\26August04WinningNums\bin\Debug\26August04WinningNums.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\26August04WinningNums\bin\Debug\26August04WinningNums.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\26August04WinningNums\bin\Debug\26August04WinningNums.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\26August04WinningNums\obj\Debug\26August04WinningNums.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\26August04WinningNums\obj\Debug\26August04WinningNums.pdb

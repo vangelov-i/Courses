@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\12July02DetectiveBoev\bin\Debug\12July02DetectiveBoev.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\12July02DetectiveBoev\bin\Debug\12July02DetectiveBoev.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\12July02DetectiveBoev\bin\Debug\12July02DetectiveBoev.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\12July02DetectiveBoev\obj\Debug\12July02DetectiveBoev.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\12July02DetectiveBoev\obj\Debug\12July02DetectiveBoev.pdb

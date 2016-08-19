@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P10FibonacciNumbers\bin\Debug\P10FibonacciNumbers.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P10FibonacciNumbers\bin\Debug\P10FibonacciNumbers.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P10FibonacciNumbers\bin\Debug\P10FibonacciNumbers.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P10FibonacciNumbers\obj\Debug\P10FibonacciNumbers.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P10FibonacciNumbers\obj\Debug\P10FibonacciNumbers.pdb

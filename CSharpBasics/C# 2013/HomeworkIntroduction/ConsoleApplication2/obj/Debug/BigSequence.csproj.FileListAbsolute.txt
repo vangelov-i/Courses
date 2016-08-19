@@ -1,0 +1,9 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HomeworkIntroduction\ConsoleApplication2\obj\Debug\BigSequence.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HomeworkIntroduction\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HomeworkIntroduction\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HomeworkIntroduction\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HomeworkIntroduction\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HomeworkIntroduction\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\HomeworkIntroduction\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\HomeworkIntroduction\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Iliyan\Dropbox\C# 2013\HomeworkIntroduction\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

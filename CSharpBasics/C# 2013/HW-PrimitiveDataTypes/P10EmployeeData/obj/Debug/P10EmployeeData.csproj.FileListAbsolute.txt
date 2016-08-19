@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P10EmployeeData\bin\Debug\P10EmployeeData.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P10EmployeeData\obj\Debug\P10EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P10EmployeeData\bin\Debug\P10EmployeeData.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P10EmployeeData\bin\Debug\P10EmployeeData.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P10EmployeeData\obj\Debug\P10EmployeeData.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P10EmployeeData\obj\Debug\P10EmployeeData.pdb

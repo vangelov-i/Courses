@@ -1,0 +1,10 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\03CirclePerimeterAndArea\bin\Debug\03CirclePerimeterAndArea.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\03CirclePerimeterAndArea\bin\Debug\03CirclePerimeterAndArea.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\03CirclePerimeterAndArea\bin\Debug\03CirclePerimeterAndArea.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\03CirclePerimeterAndArea\obj\Debug\03CirclePerimeterAndArea.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\03CirclePerimeterAndArea\obj\Debug\03CirclePerimeterAndArea.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Console Input Output [HW]\03CirclePerimeterAndArea\bin\Debug\03CirclePerimeterAndArea.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\Console Input Output [HW]\03CirclePerimeterAndArea\obj\Debug\03CirclePerimeterAndArea.exe
+C:\Users\Iliyan\Dropbox\C# 2013\Console Input Output [HW]\03CirclePerimeterAndArea\obj\Debug\03CirclePerimeterAndArea.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Console Input Output [HW]\03CirclePerimeterAndArea\bin\Debug\03CirclePerimeterAndArea.exe
+C:\Users\Iliyan\Dropbox\C# 2013\Console Input Output [HW]\03CirclePerimeterAndArea\bin\Debug\03CirclePerimeterAndArea.pdb

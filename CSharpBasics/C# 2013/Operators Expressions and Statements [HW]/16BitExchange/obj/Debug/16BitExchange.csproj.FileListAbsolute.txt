@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\16BitExchange\bin\Debug\16BitExchange.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\16BitExchange\bin\Debug\16BitExchange.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\16BitExchange\bin\Debug\16BitExchange.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\16BitExchange\obj\Debug\16BitExchange.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\16BitExchange\obj\Debug\16BitExchange.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\16BitExchange\obj\Debug\16BitExchange.pdb

@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\14ModifyBitAtGivenP\bin\Debug\14ModifyBitAtGivenP.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\14ModifyBitAtGivenP\bin\Debug\14ModifyBitAtGivenP.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\14ModifyBitAtGivenP\bin\Debug\14ModifyBitAtGivenP.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\14ModifyBitAtGivenP\obj\Debug\14ModifyBitAtGivenP.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\14ModifyBitAtGivenP\obj\Debug\14ModifyBitAtGivenP.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\14ModifyBitAtGivenP\obj\Debug\14ModifyBitAtGivenP.pdb

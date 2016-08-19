@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\28April03Disk\bin\Debug\28April03Disk.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\28April03Disk\bin\Debug\28April03Disk.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\28April03Disk\bin\Debug\28April03Disk.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\28April03Disk\obj\Debug\28April03Disk.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\28April03Disk\obj\Debug\28April03Disk.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\28April03Disk\obj\Debug\28April03Disk.pdb

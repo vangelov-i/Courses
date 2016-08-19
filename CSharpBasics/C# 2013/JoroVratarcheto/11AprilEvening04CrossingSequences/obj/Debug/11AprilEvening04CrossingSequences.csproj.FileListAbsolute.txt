@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\11AprilEvening04CrossingSequences\bin\Debug\11AprilEvening04CrossingSequences.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\11AprilEvening04CrossingSequences\bin\Debug\11AprilEvening04CrossingSequences.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\11AprilEvening04CrossingSequences\bin\Debug\11AprilEvening04CrossingSequences.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\11AprilEvening04CrossingSequences\obj\Debug\11AprilEvening04CrossingSequences.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\11AprilEvening04CrossingSequences\obj\Debug\11AprilEvening04CrossingSequences.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\11AprilEvening04CrossingSequences\obj\Debug\11AprilEvening04CrossingSequences.pdb

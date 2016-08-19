@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning01MelonsAndWatermelons\bin\Debug\25JulyMorning01MelonsAndWatermelons.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning01MelonsAndWatermelons\bin\Debug\25JulyMorning01MelonsAndWatermelons.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning01MelonsAndWatermelons\bin\Debug\25JulyMorning01MelonsAndWatermelons.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning01MelonsAndWatermelons\obj\Debug\25JulyMorning01MelonsAndWatermelons.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning01MelonsAndWatermelons\obj\Debug\25JulyMorning01MelonsAndWatermelons.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning01MelonsAndWatermelons\obj\Debug\25JulyMorning01MelonsAndWatermelons.csprojResolveAssemblyReference.cache

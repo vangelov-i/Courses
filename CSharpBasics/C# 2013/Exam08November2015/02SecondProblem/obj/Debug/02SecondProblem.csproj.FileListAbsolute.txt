@@ -1,0 +1,5 @@
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\02SecondProblem\bin\Debug\02SecondProblem.exe.config
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\02SecondProblem\bin\Debug\02SecondProblem.exe
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\02SecondProblem\bin\Debug\02SecondProblem.pdb
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\02SecondProblem\obj\Debug\02SecondProblem.exe
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\02SecondProblem\obj\Debug\02SecondProblem.pdb

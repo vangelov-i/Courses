@@ -1,0 +1,9 @@
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P7FirstBit\bin\Debug\P7FirstBit.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P7FirstBit\bin\Debug\P7FirstBit.exe
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P7FirstBit\bin\Debug\P7FirstBit.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P7FirstBit\obj\Debug\P7FirstBit.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P7FirstBit\obj\Debug\P7FirstBit.exe
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P7FirstBit\obj\Debug\P7FirstBit.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P7FirstBit\bin\Debug\P7FirstBit.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P7FirstBit\obj\Debug\P7FirstBit.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P7FirstBit\obj\Debug\P7FirstBit.pdb

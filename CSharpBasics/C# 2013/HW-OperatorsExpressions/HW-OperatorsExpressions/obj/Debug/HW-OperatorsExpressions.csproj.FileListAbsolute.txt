@@ -1,0 +1,9 @@
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\HW-OperatorsExpressions\bin\Debug\HW-OperatorsExpressions.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\HW-OperatorsExpressions\bin\Debug\HW-OperatorsExpressions.exe
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\HW-OperatorsExpressions\bin\Debug\HW-OperatorsExpressions.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\HW-OperatorsExpressions\obj\Debug\HW-OperatorsExpressions.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\HW-OperatorsExpressions\obj\Debug\HW-OperatorsExpressions.exe
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\HW-OperatorsExpressions\obj\Debug\HW-OperatorsExpressions.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\HW-OperatorsExpressions\bin\Debug\HW-OperatorsExpressions.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\HW-OperatorsExpressions\obj\Debug\HW-OperatorsExpressions.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\HW-OperatorsExpressions\obj\Debug\HW-OperatorsExpressions.pdb

@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P11IntervalDividableByGivenNumber\bin\Debug\P11IntervalDividableByGivenNumber.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P11IntervalDividableByGivenNumber\bin\Debug\P11IntervalDividableByGivenNumber.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P11IntervalDividableByGivenNumber\bin\Debug\P11IntervalDividableByGivenNumber.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P11IntervalDividableByGivenNumber\obj\Debug\P11IntervalDividableByGivenNumber.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P11IntervalDividableByGivenNumber\obj\Debug\P11IntervalDividableByGivenNumber.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P11IntervalDividableByGivenNumber\obj\Debug\P11IntervalDividableByGivenNumber.pdb

@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\02GravitationOnTheMoon\bin\Debug\02GravitationOnTheMoon.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\02GravitationOnTheMoon\bin\Debug\02GravitationOnTheMoon.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\02GravitationOnTheMoon\bin\Debug\02GravitationOnTheMoon.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\02GravitationOnTheMoon\obj\Debug\02GravitationOnTheMoon.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\02GravitationOnTheMoon\obj\Debug\02GravitationOnTheMoon.pdb

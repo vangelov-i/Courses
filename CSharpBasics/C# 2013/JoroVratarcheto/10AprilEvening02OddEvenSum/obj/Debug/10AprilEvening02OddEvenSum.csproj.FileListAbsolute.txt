@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilEvening02OddEvenSum\bin\Debug\10AprilEvening02OddEvenSum.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilEvening02OddEvenSum\bin\Debug\10AprilEvening02OddEvenSum.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilEvening02OddEvenSum\bin\Debug\10AprilEvening02OddEvenSum.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilEvening02OddEvenSum\obj\Debug\10AprilEvening02OddEvenSum.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilEvening02OddEvenSum\obj\Debug\10AprilEvening02OddEvenSum.pdb

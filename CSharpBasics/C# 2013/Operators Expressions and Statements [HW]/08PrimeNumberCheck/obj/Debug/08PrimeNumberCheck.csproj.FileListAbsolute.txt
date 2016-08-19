@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\08PrimeNumberCheck\obj\Debug\08PrimeNumberCheck.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\08PrimeNumberCheck\obj\Debug\08PrimeNumberCheck.pdb

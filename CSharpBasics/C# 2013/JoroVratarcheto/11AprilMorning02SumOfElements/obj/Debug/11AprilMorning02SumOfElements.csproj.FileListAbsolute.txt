@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\11AprilMorning02SumOfElements\bin\Debug\11AprilMorning02SumOfElements.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\11AprilMorning02SumOfElements\bin\Debug\11AprilMorning02SumOfElements.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\11AprilMorning02SumOfElements\bin\Debug\11AprilMorning02SumOfElements.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\11AprilMorning02SumOfElements\obj\Debug\11AprilMorning02SumOfElements.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\11AprilMorning02SumOfElements\obj\Debug\11AprilMorning02SumOfElements.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\11AprilMorning02SumOfElements\obj\Debug\11AprilMorning02SumOfElements.pdb

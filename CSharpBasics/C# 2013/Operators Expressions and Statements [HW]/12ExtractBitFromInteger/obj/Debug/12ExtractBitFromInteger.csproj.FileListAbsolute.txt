@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\12ExtractBitFromInteger\bin\Debug\12ExtractBitFromInteger.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\12ExtractBitFromInteger\bin\Debug\12ExtractBitFromInteger.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\12ExtractBitFromInteger\bin\Debug\12ExtractBitFromInteger.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\12ExtractBitFromInteger\obj\Debug\12ExtractBitFromInteger.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\12ExtractBitFromInteger\obj\Debug\12ExtractBitFromInteger.pdb

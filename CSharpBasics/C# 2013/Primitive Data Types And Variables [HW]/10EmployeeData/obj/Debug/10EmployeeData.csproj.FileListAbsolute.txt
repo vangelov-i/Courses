@@ -1,0 +1,9 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\10EmployeeData\bin\Debug\10EmployeeData.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\10EmployeeData\bin\Debug\10EmployeeData.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\10EmployeeData\bin\Debug\10EmployeeData.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\10EmployeeData\obj\Debug\10EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\10EmployeeData\obj\Debug\10EmployeeData.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\10EmployeeData\obj\Debug\10EmployeeData.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\10EmployeeData\bin\Debug\10EmployeeData.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\10EmployeeData\obj\Debug\10EmployeeData.exe
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\10EmployeeData\obj\Debug\10EmployeeData.pdb

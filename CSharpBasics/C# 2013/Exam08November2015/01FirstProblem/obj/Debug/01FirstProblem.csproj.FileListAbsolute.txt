@@ -1,0 +1,8 @@
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\01FirstProblem\bin\Debug\01FirstProblem.exe.config
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\01FirstProblem\bin\Debug\01FirstProblem.exe
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\01FirstProblem\bin\Debug\01FirstProblem.pdb
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\01FirstProblem\obj\Debug\01FirstProblem.exe
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\01FirstProblem\obj\Debug\01FirstProblem.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Exam08November2015\01FirstProblem\bin\Debug\01FirstProblem.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Exam08November2015\01FirstProblem\obj\Debug\01FirstProblem.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Exam08November2015\01FirstProblem\obj\Debug\01FirstProblem.pdb

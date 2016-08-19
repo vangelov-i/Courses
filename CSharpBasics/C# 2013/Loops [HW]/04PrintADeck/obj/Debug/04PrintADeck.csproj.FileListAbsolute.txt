@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\04PrintADeck\bin\Debug\04PrintADeck.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\04PrintADeck\bin\Debug\04PrintADeck.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\04PrintADeck\bin\Debug\04PrintADeck.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\04PrintADeck\obj\Debug\04PrintADeck.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\04PrintADeck\obj\Debug\04PrintADeck.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Loops [HW]\04PrintADeck\bin\Debug\04PrintADeck.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\Loops [HW]\04PrintADeck\obj\Debug\04PrintADeck.exe
+C:\Users\Iliyan\Dropbox\C# 2013\Loops [HW]\04PrintADeck\obj\Debug\04PrintADeck.pdb

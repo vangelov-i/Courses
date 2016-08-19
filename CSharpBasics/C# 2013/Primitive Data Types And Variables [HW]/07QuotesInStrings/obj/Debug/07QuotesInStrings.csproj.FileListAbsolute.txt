@@ -1,0 +1,9 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\07QuotesInStrings\bin\Debug\07QuotesInStrings.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\07QuotesInStrings\bin\Debug\07QuotesInStrings.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\07QuotesInStrings\bin\Debug\07QuotesInStrings.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\07QuotesInStrings\obj\Debug\07QuotesInStrings.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\07QuotesInStrings\obj\Debug\07QuotesInStrings.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\07QuotesInStrings\obj\Debug\07QuotesInStrings.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\07QuotesInStrings\bin\Debug\07QuotesInStrings.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\07QuotesInStrings\obj\Debug\07QuotesInStrings.exe
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\07QuotesInStrings\obj\Debug\07QuotesInStrings.pdb

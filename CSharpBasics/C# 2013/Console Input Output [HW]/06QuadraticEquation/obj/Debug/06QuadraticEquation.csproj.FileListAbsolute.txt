@@ -1,0 +1,11 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\06QuadraticEquation\bin\Debug\06QuadraticEquation.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\06QuadraticEquation\obj\Debug\06QuadraticEquation.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\06QuadraticEquation\obj\Debug\06QuadraticEquation.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Console Input Output [HW]\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\Console Input Output [HW]\06QuadraticEquation\obj\Debug\06QuadraticEquation.exe
+C:\Users\Iliyan\Dropbox\C# 2013\Console Input Output [HW]\06QuadraticEquation\obj\Debug\06QuadraticEquation.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Console Input Output [HW]\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe
+C:\Users\Iliyan\Dropbox\C# 2013\Console Input Output [HW]\06QuadraticEquation\bin\Debug\06QuadraticEquation.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Console Input Output [HW]\06QuadraticEquation\obj\Debug\06QuadraticEquation.csprojResolveAssemblyReference.cache

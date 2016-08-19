@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyEvening05ChangeEvenBits\bin\Debug\25JulyEvening05ChangeEvenBits.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyEvening05ChangeEvenBits\bin\Debug\25JulyEvening05ChangeEvenBits.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyEvening05ChangeEvenBits\bin\Debug\25JulyEvening05ChangeEvenBits.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyEvening05ChangeEvenBits\obj\Debug\25JulyEvening05ChangeEvenBits.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyEvening05ChangeEvenBits\obj\Debug\25JulyEvening05ChangeEvenBits.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyEvening05ChangeEvenBits\obj\Debug\25JulyEvening05ChangeEvenBits.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\25JulyEvening05ChangeEvenBits\bin\Debug\25JulyEvening05ChangeEvenBits.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\25JulyEvening05ChangeEvenBits\obj\Debug\25JulyEvening05ChangeEvenBits.exe
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\25JulyEvening05ChangeEvenBits\obj\Debug\25JulyEvening05ChangeEvenBits.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\25JulyEvening05ChangeEvenBits\bin\Debug\25JulyEvening05ChangeEvenBits.exe
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\25JulyEvening05ChangeEvenBits\bin\Debug\25JulyEvening05ChangeEvenBits.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\25JulyEvening05ChangeEvenBits\obj\Debug\25JulyEvening05ChangeEvenBits.csprojResolveAssemblyReference.cache

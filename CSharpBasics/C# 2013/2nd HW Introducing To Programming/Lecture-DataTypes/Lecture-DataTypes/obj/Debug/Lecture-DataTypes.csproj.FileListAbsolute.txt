@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\C# 2013\2nd HW Introducing To Programming\Lecture-DataTypes\Lecture-DataTypes\bin\Debug\Lecture-DataTypes.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\2nd HW Introducing To Programming\Lecture-DataTypes\Lecture-DataTypes\bin\Debug\Lecture-DataTypes.exe
+C:\Users\Iliyan\Dropbox\C# 2013\2nd HW Introducing To Programming\Lecture-DataTypes\Lecture-DataTypes\bin\Debug\Lecture-DataTypes.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\2nd HW Introducing To Programming\Lecture-DataTypes\Lecture-DataTypes\obj\Debug\Lecture-DataTypes.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\C# 2013\2nd HW Introducing To Programming\Lecture-DataTypes\Lecture-DataTypes\obj\Debug\Lecture-DataTypes.exe
+C:\Users\Iliyan\Dropbox\C# 2013\2nd HW Introducing To Programming\Lecture-DataTypes\Lecture-DataTypes\obj\Debug\Lecture-DataTypes.pdb

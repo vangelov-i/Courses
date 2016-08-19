@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\P4N-NthDigit\bin\Debug\P4N-NthDigit.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\P4N-NthDigit\bin\Debug\P4N-NthDigit.exe
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\P4N-NthDigit\bin\Debug\P4N-NthDigit.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\P4N-NthDigit\obj\Debug\P4N-NthDigit.exe
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\P4N-NthDigit\obj\Debug\P4N-NthDigit.pdb

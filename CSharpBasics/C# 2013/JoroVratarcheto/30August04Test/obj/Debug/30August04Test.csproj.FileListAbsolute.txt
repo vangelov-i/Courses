@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\30August04Test\bin\Debug\30August04Test.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\30August04Test\bin\Debug\30August04Test.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\30August04Test\bin\Debug\30August04Test.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\30August04Test\obj\Debug\30August04Test.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\30August04Test\obj\Debug\30August04Test.pdb

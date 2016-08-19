@@ -1,0 +1,11 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\02.BonusScore\bin\Debug\02.BonusScore.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\02.BonusScore\bin\Debug\02.BonusScore.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\02.BonusScore\bin\Debug\02.BonusScore.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\02.BonusScore\obj\Debug\02.BonusScore.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\02.BonusScore\obj\Debug\02.BonusScore.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Conditional Statements HW\02.BonusScore\bin\Debug\02.BonusScore.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\Conditional Statements HW\02.BonusScore\obj\Debug\02.BonusScore.exe
+C:\Users\Iliyan\Dropbox\C# 2013\Conditional Statements HW\02.BonusScore\obj\Debug\02.BonusScore.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Conditional Statements HW\02.BonusScore\obj\Debug\02.BonusScore.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\C# 2013\Conditional Statements HW\02.BonusScore\bin\Debug\02.BonusScore.exe
+C:\Users\Iliyan\Dropbox\C# 2013\Conditional Statements HW\02.BonusScore\bin\Debug\02.BonusScore.pdb

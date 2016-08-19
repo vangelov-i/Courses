@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\P9BitDestroyer\bin\Debug\P9BitDestroyer.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\P9BitDestroyer\bin\Debug\P9BitDestroyer.exe
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\P9BitDestroyer\bin\Debug\P9BitDestroyer.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\P9BitDestroyer\obj\Debug\P9BitDestroyer.exe
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\P9BitDestroyer\obj\Debug\P9BitDestroyer.pdb

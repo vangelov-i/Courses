@@ -1,0 +1,9 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\07.Sort3NumbersWithNestedIfs\bin\Debug\07.Sort3NumbersWithNestedIfs.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\07.Sort3NumbersWithNestedIfs\bin\Debug\07.Sort3NumbersWithNestedIfs.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\07.Sort3NumbersWithNestedIfs\bin\Debug\07.Sort3NumbersWithNestedIfs.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\07.Sort3NumbersWithNestedIfs\obj\Debug\07.Sort3NumbersWithNestedIfs.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\07.Sort3NumbersWithNestedIfs\obj\Debug\07.Sort3NumbersWithNestedIfs.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\07.Sort3NumbersWithNestedIfs\obj\Debug\07.Sort3NumbersWithNestedIfs.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Conditional Statements HW\07.Sort3NumbersWithNestedIfs\bin\Debug\07.Sort3NumbersWithNestedIfs.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Conditional Statements HW\07.Sort3NumbersWithNestedIfs\obj\Debug\07.Sort3NumbersWithNestedIfs.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Conditional Statements HW\07.Sort3NumbersWithNestedIfs\obj\Debug\07.Sort3NumbersWithNestedIfs.pdb

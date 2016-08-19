@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\09.PlayWithIntDoubleString\obj\Debug\09.PlayWithIntDoubleString.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\09.PlayWithIntDoubleString\obj\Debug\09.PlayWithIntDoubleString.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Conditional Statements HW\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Conditional Statements HW\09.PlayWithIntDoubleString\obj\Debug\09.PlayWithIntDoubleString.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Conditional Statements HW\09.PlayWithIntDoubleString\obj\Debug\09.PlayWithIntDoubleString.pdb

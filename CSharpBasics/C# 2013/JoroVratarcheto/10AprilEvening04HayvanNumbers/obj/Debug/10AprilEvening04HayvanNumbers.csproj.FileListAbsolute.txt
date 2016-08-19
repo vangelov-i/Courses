@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilEvening04HayvanNumbers\bin\Debug\10AprilEvening04HayvanNumbers.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilEvening04HayvanNumbers\bin\Debug\10AprilEvening04HayvanNumbers.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilEvening04HayvanNumbers\bin\Debug\10AprilEvening04HayvanNumbers.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilEvening04HayvanNumbers\obj\Debug\10AprilEvening04HayvanNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilEvening04HayvanNumbers\obj\Debug\10AprilEvening04HayvanNumbers.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilEvening04HayvanNumbers\obj\Debug\10AprilEvening04HayvanNumbers.pdb

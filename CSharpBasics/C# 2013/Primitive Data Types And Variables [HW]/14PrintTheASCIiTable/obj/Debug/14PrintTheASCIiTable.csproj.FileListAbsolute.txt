@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\14PrintTheASCIiTable\bin\Debug\14PrintTheASCIiTable.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\14PrintTheASCIiTable\bin\Debug\14PrintTheASCIiTable.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\14PrintTheASCIiTable\bin\Debug\14PrintTheASCIiTable.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\14PrintTheASCIiTable\obj\Debug\14PrintTheASCIiTable.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\14PrintTheASCIiTable\obj\Debug\14PrintTheASCIiTable.pdb

@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P2GravitationMoon\bin\Debug\P2GravitationMoon.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P2GravitationMoon\bin\Debug\P2GravitationMoon.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P2GravitationMoon\bin\Debug\P2GravitationMoon.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P2GravitationMoon\obj\Debug\P2GravitationMoon.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P2GravitationMoon\obj\Debug\P2GravitationMoon.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P2GravitationMoon\obj\Debug\P2GravitationMoon.pdb

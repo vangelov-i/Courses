@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P10PointInACircleAndoutsideRectangle\bin\Debug\P10PointInACircleAndoutsideRectangle.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P10PointInACircleAndoutsideRectangle\bin\Debug\P10PointInACircleAndoutsideRectangle.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P10PointInACircleAndoutsideRectangle\bin\Debug\P10PointInACircleAndoutsideRectangle.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P10PointInACircleAndoutsideRectangle\obj\Debug\P10PointInACircleAndoutsideRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P10PointInACircleAndoutsideRectangle\obj\Debug\P10PointInACircleAndoutsideRectangle.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P10PointInACircleAndoutsideRectangle\obj\Debug\P10PointInACircleAndoutsideRectangle.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P10PointInACircleAndoutsideRectangle\bin\Debug\P10PointInACircleAndoutsideRectangle.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P10PointInACircleAndoutsideRectangle\obj\Debug\P10PointInACircleAndoutsideRectangle.exe
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P10PointInACircleAndoutsideRectangle\obj\Debug\P10PointInACircleAndoutsideRectangle.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P10PointInACircleAndoutsideRectangle\bin\Debug\P10PointInACircleAndoutsideRectangle.exe
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P10PointInACircleAndoutsideRectangle\bin\Debug\P10PointInACircleAndoutsideRectangle.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P10PointInACircleAndoutsideRectangle\obj\Debug\P10PointInACircleAndoutsideRectangle.csprojResolveAssemblyReference.cache

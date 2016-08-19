@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HomeworkIntroduction\CurrentDateTime\bin\Debug\CurrentDateTime.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HomeworkIntroduction\CurrentDateTime\bin\Debug\CurrentDateTime.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HomeworkIntroduction\CurrentDateTime\bin\Debug\CurrentDateTime.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HomeworkIntroduction\CurrentDateTime\obj\Debug\CurrentDateTime.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HomeworkIntroduction\CurrentDateTime\obj\Debug\CurrentDateTime.pdb

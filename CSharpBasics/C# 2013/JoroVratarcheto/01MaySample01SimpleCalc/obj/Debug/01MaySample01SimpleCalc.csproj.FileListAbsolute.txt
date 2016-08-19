@@ -1,0 +1,9 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\01MaySample01SimpleCalc\bin\Debug\01MaySample01SimpleCalc.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\01MaySample01SimpleCalc\bin\Debug\01MaySample01SimpleCalc.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\01MaySample01SimpleCalc\bin\Debug\01MaySample01SimpleCalc.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\01MaySample01SimpleCalc\obj\Debug\01MaySample01SimpleCalc.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\01MaySample01SimpleCalc\obj\Debug\01MaySample01SimpleCalc.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\01MaySample01SimpleCalc\obj\Debug\01MaySample01SimpleCalc.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\01MaySample01SimpleCalc\bin\Debug\01MaySample01SimpleCalc.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\01MaySample01SimpleCalc\obj\Debug\01MaySample01SimpleCalc.exe
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\01MaySample01SimpleCalc\obj\Debug\01MaySample01SimpleCalc.pdb

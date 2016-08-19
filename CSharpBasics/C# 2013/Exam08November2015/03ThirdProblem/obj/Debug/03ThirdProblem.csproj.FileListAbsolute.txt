@@ -1,0 +1,9 @@
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\03ThirdProblem\bin\Debug\03ThirdProblem.exe.config
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\03ThirdProblem\bin\Debug\03ThirdProblem.exe
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\03ThirdProblem\bin\Debug\03ThirdProblem.pdb
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\03ThirdProblem\obj\Debug\03ThirdProblem.csprojResolveAssemblyReference.cache
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\03ThirdProblem\obj\Debug\03ThirdProblem.exe
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\03ThirdProblem\obj\Debug\03ThirdProblem.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Exam08November2015\03ThirdProblem\bin\Debug\03ThirdProblem.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Exam08November2015\03ThirdProblem\obj\Debug\03ThirdProblem.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Exam08November2015\03ThirdProblem\obj\Debug\03ThirdProblem.pdb

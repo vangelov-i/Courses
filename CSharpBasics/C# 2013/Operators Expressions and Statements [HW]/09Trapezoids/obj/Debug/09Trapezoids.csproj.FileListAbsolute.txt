@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\09Trapezoids\bin\Debug\09Trapezoids.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\09Trapezoids\bin\Debug\09Trapezoids.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\09Trapezoids\bin\Debug\09Trapezoids.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\09Trapezoids\obj\Debug\09Trapezoids.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\09Trapezoids\obj\Debug\09Trapezoids.pdb

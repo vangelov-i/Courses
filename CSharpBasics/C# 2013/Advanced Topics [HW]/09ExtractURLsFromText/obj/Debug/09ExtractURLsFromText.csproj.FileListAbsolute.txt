@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Advanced Topics [HW]\09ExtractURLsFromText\bin\Debug\09ExtractURLsFromText.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Advanced Topics [HW]\09ExtractURLsFromText\bin\Debug\09ExtractURLsFromText.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Advanced Topics [HW]\09ExtractURLsFromText\bin\Debug\09ExtractURLsFromText.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Advanced Topics [HW]\09ExtractURLsFromText\obj\Debug\09ExtractURLsFromText.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Advanced Topics [HW]\09ExtractURLsFromText\obj\Debug\09ExtractURLsFromText.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Advanced Topics [HW]\09ExtractURLsFromText\obj\Debug\09ExtractURLsFromText.pdb

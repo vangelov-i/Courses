@@ -1,0 +1,9 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\08IsoscalesTriangle\bin\Debug\08IsoscalesTriangle.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\08IsoscalesTriangle\bin\Debug\08IsoscalesTriangle.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\08IsoscalesTriangle\bin\Debug\08IsoscalesTriangle.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\08IsoscalesTriangle\obj\Debug\08IsoscalesTriangle.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\08IsoscalesTriangle\obj\Debug\08IsoscalesTriangle.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\08IsoscalesTriangle\bin\Debug\08IsoscalesTriangle.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\08IsoscalesTriangle\obj\Debug\08IsoscalesTriangle.exe
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\08IsoscalesTriangle\obj\Debug\08IsoscalesTriangle.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\08IsoscalesTriangle\obj\Debug\08IsoscalesTriangle.csprojResolveAssemblyReference.cache

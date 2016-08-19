@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P3CirclePerimeterAndArea\bin\Debug\P3CirclePerimeterAndArea.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P3CirclePerimeterAndArea\obj\Debug\P3CirclePerimeterAndArea.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P3CirclePerimeterAndArea\bin\Debug\P3CirclePerimeterAndArea.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P3CirclePerimeterAndArea\bin\Debug\P3CirclePerimeterAndArea.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P3CirclePerimeterAndArea\obj\Debug\P3CirclePerimeterAndArea.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P3CirclePerimeterAndArea\obj\Debug\P3CirclePerimeterAndArea.pdb

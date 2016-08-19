@@ -1,0 +1,5 @@
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\03SecondTry\bin\Debug\03SecondTry.exe.config
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\03SecondTry\bin\Debug\03SecondTry.exe
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\03SecondTry\bin\Debug\03SecondTry.pdb
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\03SecondTry\obj\Debug\03SecondTry.exe
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\03SecondTry\obj\Debug\03SecondTry.pdb

@@ -1,0 +1,9 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\11AprilEvening01Cinema\bin\Debug\11AprilEvening01Cinema.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\11AprilEvening01Cinema\bin\Debug\11AprilEvening01Cinema.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\11AprilEvening01Cinema\bin\Debug\11AprilEvening01Cinema.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\11AprilEvening01Cinema\obj\Debug\11AprilEvening01Cinema.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\11AprilEvening01Cinema\obj\Debug\11AprilEvening01Cinema.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\11AprilEvening01Cinema\obj\Debug\11AprilEvening01Cinema.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\11AprilEvening01Cinema\bin\Debug\11AprilEvening01Cinema.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\11AprilEvening01Cinema\obj\Debug\11AprilEvening01Cinema.exe
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\11AprilEvening01Cinema\obj\Debug\11AprilEvening01Cinema.pdb

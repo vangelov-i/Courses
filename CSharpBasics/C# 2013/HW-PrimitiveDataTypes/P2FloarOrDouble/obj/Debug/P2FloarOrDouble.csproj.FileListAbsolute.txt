@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P2FloarOrDouble\bin\Debug\P2FloarOrDouble.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P2FloarOrDouble\bin\Debug\P2FloarOrDouble.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P2FloarOrDouble\bin\Debug\P2FloarOrDouble.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P2FloarOrDouble\obj\Debug\P2FloarOrDouble.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P2FloarOrDouble\obj\Debug\P2FloarOrDouble.pdb

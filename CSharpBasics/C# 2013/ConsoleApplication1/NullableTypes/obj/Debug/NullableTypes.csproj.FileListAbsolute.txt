@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\ConsoleApplication1\NullableTypes\bin\Debug\NullableTypes.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\ConsoleApplication1\NullableTypes\bin\Debug\NullableTypes.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\ConsoleApplication1\NullableTypes\bin\Debug\NullableTypes.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\ConsoleApplication1\NullableTypes\obj\Debug\NullableTypes.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\ConsoleApplication1\NullableTypes\obj\Debug\NullableTypes.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\ConsoleApplication1\NullableTypes\obj\Debug\NullableTypes.csprojResolveAssemblyReference.cache

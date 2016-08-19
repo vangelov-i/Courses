@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\C# 2013\2nd HW Introducing To Programming\PrintMyName\P9PrintASequence\bin\Debug\P9PrintASequence.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\2nd HW Introducing To Programming\PrintMyName\P9PrintASequence\bin\Debug\P9PrintASequence.exe
+C:\Users\Iliyan\Dropbox\C# 2013\2nd HW Introducing To Programming\PrintMyName\P9PrintASequence\bin\Debug\P9PrintASequence.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\2nd HW Introducing To Programming\PrintMyName\P9PrintASequence\obj\Debug\P9PrintASequence.exe
+C:\Users\Iliyan\Dropbox\C# 2013\2nd HW Introducing To Programming\PrintMyName\P9PrintASequence\obj\Debug\P9PrintASequence.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\2nd HW Introducing To Programming\PrintMyName\P9PrintASequence\obj\Debug\P9PrintASequence.csprojResolveAssemblyReference.cache

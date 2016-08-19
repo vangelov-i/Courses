@@ -1,0 +1,9 @@
+c:\users\iliyan\documents\visual studio 2013\Projects\JoroVratarcheto\Jorkata\bin\Debug\Jorkata.exe.config
+c:\users\iliyan\documents\visual studio 2013\Projects\JoroVratarcheto\Jorkata\obj\Debug\Jorkata.csprojResolveAssemblyReference.cache
+c:\users\iliyan\documents\visual studio 2013\Projects\JoroVratarcheto\Jorkata\bin\Debug\Jorkata.exe
+c:\users\iliyan\documents\visual studio 2013\Projects\JoroVratarcheto\Jorkata\bin\Debug\Jorkata.pdb
+c:\users\iliyan\documents\visual studio 2013\Projects\JoroVratarcheto\Jorkata\obj\Debug\Jorkata.exe
+c:\users\iliyan\documents\visual studio 2013\Projects\JoroVratarcheto\Jorkata\obj\Debug\Jorkata.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\Jorkata\bin\Debug\Jorkata.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\Jorkata\obj\Debug\Jorkata.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\Jorkata\obj\Debug\Jorkata.pdb

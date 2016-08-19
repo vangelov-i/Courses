@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P14PrintASCIiTable\bin\Debug\P14PrintASCIiTable.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P14PrintASCIiTable\bin\Debug\P14PrintASCIiTable.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P14PrintASCIiTable\bin\Debug\P14PrintASCIiTable.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P14PrintASCIiTable\obj\Debug\P14PrintASCIiTable.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P14PrintASCIiTable\obj\Debug\P14PrintASCIiTable.pdb

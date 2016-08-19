@@ -1,0 +1,9 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\01SumOf3Numbers\bin\Debug\01SumOf3Numbers.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\01SumOf3Numbers\bin\Debug\01SumOf3Numbers.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\01SumOf3Numbers\bin\Debug\01SumOf3Numbers.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\01SumOf3Numbers\obj\Debug\01SumOf3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\01SumOf3Numbers\obj\Debug\01SumOf3Numbers.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\01SumOf3Numbers\obj\Debug\01SumOf3Numbers.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Console Input Output [HW]\01SumOf3Numbers\bin\Debug\01SumOf3Numbers.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\Console Input Output [HW]\01SumOf3Numbers\obj\Debug\01SumOf3Numbers.exe
+C:\Users\Iliyan\Dropbox\C# 2013\Console Input Output [HW]\01SumOf3Numbers\obj\Debug\01SumOf3Numbers.pdb

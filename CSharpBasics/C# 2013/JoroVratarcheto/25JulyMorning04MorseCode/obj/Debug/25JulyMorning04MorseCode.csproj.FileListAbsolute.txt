@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning04MorseCode\bin\Debug\25JulyMorning04MorseCode.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning04MorseCode\bin\Debug\25JulyMorning04MorseCode.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning04MorseCode\bin\Debug\25JulyMorning04MorseCode.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning04MorseCode\obj\Debug\25JulyMorning04MorseCode.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning04MorseCode\obj\Debug\25JulyMorning04MorseCode.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning04MorseCode\obj\Debug\25JulyMorning04MorseCode.csprojResolveAssemblyReference.cache

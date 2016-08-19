@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P7QuotesInStrings\bin\Debug\P7QuotesInStrings.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P7QuotesInStrings\bin\Debug\P7QuotesInStrings.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P7QuotesInStrings\bin\Debug\P7QuotesInStrings.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P7QuotesInStrings\obj\Debug\P7QuotesInStrings.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P7QuotesInStrings\obj\Debug\P7QuotesInStrings.pdb

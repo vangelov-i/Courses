@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\12AprilMorningTriangle\bin\Debug\12AprilMorningTriangle.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\12AprilMorningTriangle\bin\Debug\12AprilMorningTriangle.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\12AprilMorningTriangle\bin\Debug\12AprilMorningTriangle.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\12AprilMorningTriangle\obj\Debug\12AprilMorningTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\12AprilMorningTriangle\obj\Debug\12AprilMorningTriangle.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\12AprilMorningTriangle\obj\Debug\12AprilMorningTriangle.pdb

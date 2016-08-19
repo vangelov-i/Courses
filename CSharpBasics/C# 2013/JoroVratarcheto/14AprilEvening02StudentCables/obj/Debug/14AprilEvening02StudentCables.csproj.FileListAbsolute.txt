@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilEvening02StudentCables\bin\Debug\14AprilEvening02StudentCables.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilEvening02StudentCables\bin\Debug\14AprilEvening02StudentCables.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilEvening02StudentCables\bin\Debug\14AprilEvening02StudentCables.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilEvening02StudentCables\obj\Debug\14AprilEvening02StudentCables.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilEvening02StudentCables\obj\Debug\14AprilEvening02StudentCables.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilEvening02StudentCables\obj\Debug\14AprilEvening02StudentCables.pdb

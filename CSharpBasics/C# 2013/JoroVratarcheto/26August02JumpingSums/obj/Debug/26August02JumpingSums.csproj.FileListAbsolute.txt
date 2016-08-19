@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\26August02JumpingSums\bin\Debug\26August02JumpingSums.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\26August02JumpingSums\bin\Debug\26August02JumpingSums.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\26August02JumpingSums\bin\Debug\26August02JumpingSums.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\26August02JumpingSums\obj\Debug\26August02JumpingSums.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\26August02JumpingSums\obj\Debug\26August02JumpingSums.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\26August02JumpingSums\obj\Debug\26August02JumpingSums.pdb

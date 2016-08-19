@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P13CheckAbitAtP\bin\Debug\P13CheckAbitAtP.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P13CheckAbitAtP\bin\Debug\P13CheckAbitAtP.exe
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P13CheckAbitAtP\bin\Debug\P13CheckAbitAtP.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P13CheckAbitAtP\obj\Debug\P13CheckAbitAtP.exe
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P13CheckAbitAtP\obj\Debug\P13CheckAbitAtP.pdb

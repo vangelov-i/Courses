@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\09SumOfNnumbers\bin\Debug\09SumOfNnumbers.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\09SumOfNnumbers\bin\Debug\09SumOfNnumbers.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\09SumOfNnumbers\bin\Debug\09SumOfNnumbers.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\09SumOfNnumbers\obj\Debug\09SumOfNnumbers.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\09SumOfNnumbers\obj\Debug\09SumOfNnumbers.pdb

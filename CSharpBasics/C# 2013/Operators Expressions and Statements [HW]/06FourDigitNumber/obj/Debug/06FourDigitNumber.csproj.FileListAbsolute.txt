@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\06FourDigitNumber\bin\Debug\06FourDigitNumber.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\06FourDigitNumber\obj\Debug\06FourDigitNumber.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\06FourDigitNumber\obj\Debug\06FourDigitNumber.pdb

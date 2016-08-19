@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P4UnicodeChar\bin\Debug\P4UnicodeChar.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P4UnicodeChar\bin\Debug\P4UnicodeChar.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P4UnicodeChar\bin\Debug\P4UnicodeChar.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P4UnicodeChar\obj\Debug\P4UnicodeChar.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-PrimitiveDataTypes\P4UnicodeChar\obj\Debug\P4UnicodeChar.pdb

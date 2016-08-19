@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.exe
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.pdb

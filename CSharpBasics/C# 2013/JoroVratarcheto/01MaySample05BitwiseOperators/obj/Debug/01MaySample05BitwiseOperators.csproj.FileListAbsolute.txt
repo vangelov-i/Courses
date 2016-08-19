@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\01MaySample05BitwiseOperators\bin\Debug\01MaySample05BitwiseOperators.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\01MaySample05BitwiseOperators\bin\Debug\01MaySample05BitwiseOperators.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\01MaySample05BitwiseOperators\bin\Debug\01MaySample05BitwiseOperators.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\01MaySample05BitwiseOperators\obj\Debug\01MaySample05BitwiseOperators.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\01MaySample05BitwiseOperators\obj\Debug\01MaySample05BitwiseOperators.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\01MaySample05BitwiseOperators\obj\Debug\01MaySample05BitwiseOperators.pdb

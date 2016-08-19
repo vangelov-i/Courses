@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P8p-thBit\bin\Debug\P8p-thBit.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P8p-thBit\bin\Debug\P8p-thBit.exe
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P8p-thBit\bin\Debug\P8p-thBit.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P8p-thBit\obj\Debug\P8p-thBit.exe
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P8p-thBit\obj\Debug\P8p-thBit.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P8p-thBit\bin\Debug\P8p-thBit.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P8p-thBit\obj\Debug\P8p-thBit.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P8p-thBit\obj\Debug\P8p-thBit.pdb

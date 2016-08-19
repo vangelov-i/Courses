@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\02NumbersNotDivisibleBy3And7\bin\Debug\02NumbersNotDivisibleBy3And7.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\02NumbersNotDivisibleBy3And7\bin\Debug\02NumbersNotDivisibleBy3And7.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\02NumbersNotDivisibleBy3And7\bin\Debug\02NumbersNotDivisibleBy3And7.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\02NumbersNotDivisibleBy3And7\obj\Debug\02NumbersNotDivisibleBy3And7.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\02NumbersNotDivisibleBy3And7\obj\Debug\02NumbersNotDivisibleBy3And7.pdb

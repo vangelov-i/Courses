@@ -1,0 +1,9 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilMorning01FruitMarket\bin\Debug\14AprilMorning01FruitMarket.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilMorning01FruitMarket\obj\Debug\14AprilMorning01FruitMarket.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilMorning01FruitMarket\bin\Debug\14AprilMorning01FruitMarket.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilMorning01FruitMarket\bin\Debug\14AprilMorning01FruitMarket.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilMorning01FruitMarket\obj\Debug\14AprilMorning01FruitMarket.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilMorning01FruitMarket\obj\Debug\14AprilMorning01FruitMarket.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\14AprilMorning01FruitMarket\bin\Debug\14AprilMorning01FruitMarket.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\14AprilMorning01FruitMarket\obj\Debug\14AprilMorning01FruitMarket.exe
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\14AprilMorning01FruitMarket\obj\Debug\14AprilMorning01FruitMarket.pdb

@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\15BitsExchange\bin\Debug\15BitsExchange.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\15BitsExchange\bin\Debug\15BitsExchange.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\15BitsExchange\bin\Debug\15BitsExchange.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\15BitsExchange\obj\Debug\15BitsExchange.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\15BitsExchange\obj\Debug\15BitsExchange.pdb

@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\02FloatOrDouble\bin\Debug\02FloatOrDouble.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\02FloatOrDouble\obj\Debug\02FloatOrDouble.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\02FloatOrDouble\obj\Debug\02FloatOrDouble.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\02FloatOrDouble\obj\Debug\02FloatOrDouble.exe
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\02FloatOrDouble\obj\Debug\02FloatOrDouble.pdb

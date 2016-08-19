@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HomeworkIntroduction\After10Years\bin\Debug\After10Years.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HomeworkIntroduction\After10Years\obj\Debug\After10Years.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HomeworkIntroduction\After10Years\bin\Debug\After10Years.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HomeworkIntroduction\After10Years\bin\Debug\After10Years.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HomeworkIntroduction\After10Years\obj\Debug\After10Years.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HomeworkIntroduction\After10Years\obj\Debug\After10Years.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\HomeworkIntroduction\After10Years\bin\Debug\After10Years.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\HomeworkIntroduction\After10Years\obj\Debug\After10Years.exe
+C:\Users\Iliyan\Dropbox\C# 2013\HomeworkIntroduction\After10Years\obj\Debug\After10Years.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\HomeworkIntroduction\After10Years\bin\Debug\After10Years.exe
+C:\Users\Iliyan\Dropbox\C# 2013\HomeworkIntroduction\After10Years\bin\Debug\After10Years.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\HomeworkIntroduction\After10Years\obj\Debug\After10Years.csprojResolveAssemblyReference.cache

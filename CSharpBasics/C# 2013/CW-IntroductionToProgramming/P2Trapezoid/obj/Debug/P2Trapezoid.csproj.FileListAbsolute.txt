@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\P2Trapezoid\bin\Debug\P2Trapezoid.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\P2Trapezoid\bin\Debug\P2Trapezoid.exe
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\P2Trapezoid\bin\Debug\P2Trapezoid.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\P2Trapezoid\obj\Debug\P2Trapezoid.exe
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\P2Trapezoid\obj\Debug\P2Trapezoid.pdb

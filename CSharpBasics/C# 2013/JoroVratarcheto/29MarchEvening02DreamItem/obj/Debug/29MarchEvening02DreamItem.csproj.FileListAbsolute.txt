@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\29MarchEvening02DreamItem\bin\Debug\29MarchEvening02DreamItem.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\29MarchEvening02DreamItem\bin\Debug\29MarchEvening02DreamItem.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\29MarchEvening02DreamItem\bin\Debug\29MarchEvening02DreamItem.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\29MarchEvening02DreamItem\obj\Debug\29MarchEvening02DreamItem.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\29MarchEvening02DreamItem\obj\Debug\29MarchEvening02DreamItem.pdb

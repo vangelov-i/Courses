@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\01MaySample02SimpleLoops\bin\Debug\01MaySample02SimpleLoops.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\01MaySample02SimpleLoops\bin\Debug\01MaySample02SimpleLoops.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\01MaySample02SimpleLoops\bin\Debug\01MaySample02SimpleLoops.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\01MaySample02SimpleLoops\obj\Debug\01MaySample02SimpleLoops.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\01MaySample02SimpleLoops\obj\Debug\01MaySample02SimpleLoops.pdb

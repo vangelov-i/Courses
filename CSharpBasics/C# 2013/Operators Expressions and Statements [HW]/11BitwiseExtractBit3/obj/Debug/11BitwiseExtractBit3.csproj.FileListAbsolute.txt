@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\11BitwiseExtractBit3\bin\Debug\11BitwiseExtractBit3.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\11BitwiseExtractBit3\bin\Debug\11BitwiseExtractBit3.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\11BitwiseExtractBit3\bin\Debug\11BitwiseExtractBit3.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\11BitwiseExtractBit3\obj\Debug\11BitwiseExtractBit3.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Operators Expressions and Statements [HW]\11BitwiseExtractBit3\obj\Debug\11BitwiseExtractBit3.pdb

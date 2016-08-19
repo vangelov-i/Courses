@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P8PrimesCheck\bin\Debug\P8PrimesCheck.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P8PrimesCheck\bin\Debug\P8PrimesCheck.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P8PrimesCheck\bin\Debug\P8PrimesCheck.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P8PrimesCheck\obj\Debug\P8PrimesCheck.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P8PrimesCheck\obj\Debug\P8PrimesCheck.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P8PrimesCheck\obj\Debug\P8PrimesCheck.pdb

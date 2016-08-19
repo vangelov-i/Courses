@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\12AprilEveningArrow\bin\Debug\12AprilEveningArrow.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\12AprilEveningArrow\obj\Debug\12AprilEveningArrow.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\12AprilEveningArrow\bin\Debug\12AprilEveningArrow.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\12AprilEveningArrow\bin\Debug\12AprilEveningArrow.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\12AprilEveningArrow\obj\Debug\12AprilEveningArrow.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\12AprilEveningArrow\obj\Debug\12AprilEveningArrow.pdb

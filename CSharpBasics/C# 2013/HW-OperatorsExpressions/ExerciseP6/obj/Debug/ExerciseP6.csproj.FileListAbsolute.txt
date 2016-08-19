@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\ExerciseP6\bin\Debug\ExerciseP6.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\ExerciseP6\bin\Debug\ExerciseP6.exe
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\ExerciseP6\bin\Debug\ExerciseP6.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\ExerciseP6\obj\Debug\ExerciseP6.exe
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\ExerciseP6\obj\Debug\ExerciseP6.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\ExerciseP6\bin\Debug\ExerciseP6.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\ExerciseP6\obj\Debug\ExerciseP6.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\ExerciseP6\obj\Debug\ExerciseP6.pdb

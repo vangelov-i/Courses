@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\13ComparingFloats\bin\Debug\13ComparingFloats.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\13ComparingFloats\bin\Debug\13ComparingFloats.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\13ComparingFloats\bin\Debug\13ComparingFloats.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\13ComparingFloats\obj\Debug\13ComparingFloats.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\13ComparingFloats\obj\Debug\13ComparingFloats.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\13ComparingFloats\obj\Debug\13ComparingFloats.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\13ComparingFloats\bin\Debug\13ComparingFloats.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\13ComparingFloats\obj\Debug\13ComparingFloats.exe
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\13ComparingFloats\obj\Debug\13ComparingFloats.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\13ComparingFloats\bin\Debug\13ComparingFloats.exe
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\13ComparingFloats\bin\Debug\13ComparingFloats.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\13ComparingFloats\obj\Debug\13ComparingFloats.csprojResolveAssemblyReference.cache

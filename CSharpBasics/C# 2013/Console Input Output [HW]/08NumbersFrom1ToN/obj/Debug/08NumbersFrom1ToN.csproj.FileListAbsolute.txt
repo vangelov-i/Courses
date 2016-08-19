@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\08NumbersFrom1ToN\bin\Debug\08NumbersFrom1ToN.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\08NumbersFrom1ToN\bin\Debug\08NumbersFrom1ToN.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\08NumbersFrom1ToN\bin\Debug\08NumbersFrom1ToN.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\08NumbersFrom1ToN\obj\Debug\08NumbersFrom1ToN.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Console Input Output [HW]\08NumbersFrom1ToN\obj\Debug\08NumbersFrom1ToN.pdb

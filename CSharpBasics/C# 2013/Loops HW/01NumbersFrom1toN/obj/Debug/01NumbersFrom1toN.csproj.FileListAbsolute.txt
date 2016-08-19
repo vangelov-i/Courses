@@ -1,0 +1,9 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops HW\01NumbersFrom1toN\bin\Debug\01NumbersFrom1toN.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops HW\01NumbersFrom1toN\obj\Debug\01NumbersFrom1toN.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops HW\01NumbersFrom1toN\bin\Debug\01NumbersFrom1toN.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops HW\01NumbersFrom1toN\bin\Debug\01NumbersFrom1toN.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops HW\01NumbersFrom1toN\obj\Debug\01NumbersFrom1toN.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops HW\01NumbersFrom1toN\obj\Debug\01NumbersFrom1toN.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Loops HW\01NumbersFrom1toN\bin\Debug\01NumbersFrom1toN.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\Loops HW\01NumbersFrom1toN\obj\Debug\01NumbersFrom1toN.exe
+C:\Users\Iliyan\Dropbox\C# 2013\Loops HW\01NumbersFrom1toN\obj\Debug\01NumbersFrom1toN.pdb

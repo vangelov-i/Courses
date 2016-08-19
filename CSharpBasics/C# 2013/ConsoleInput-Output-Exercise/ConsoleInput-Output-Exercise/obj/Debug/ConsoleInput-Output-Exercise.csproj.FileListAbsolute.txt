@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\ConsoleInput-Output-Exercise\ConsoleInput-Output-Exercise\bin\Debug\ConsoleInput-Output-Exercise.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\ConsoleInput-Output-Exercise\ConsoleInput-Output-Exercise\bin\Debug\ConsoleInput-Output-Exercise.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\ConsoleInput-Output-Exercise\ConsoleInput-Output-Exercise\bin\Debug\ConsoleInput-Output-Exercise.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\ConsoleInput-Output-Exercise\ConsoleInput-Output-Exercise\obj\Debug\ConsoleInput-Output-Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\ConsoleInput-Output-Exercise\ConsoleInput-Output-Exercise\obj\Debug\ConsoleInput-Output-Exercise.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\ConsoleInput-Output-Exercise\ConsoleInput-Output-Exercise\obj\Debug\ConsoleInput-Output-Exercise.pdb

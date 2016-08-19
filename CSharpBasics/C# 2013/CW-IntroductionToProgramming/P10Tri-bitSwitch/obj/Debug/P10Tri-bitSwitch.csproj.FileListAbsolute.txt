@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\P10Tri-bitSwitch\bin\Debug\P10Tri-bitSwitch.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\P10Tri-bitSwitch\bin\Debug\P10Tri-bitSwitch.exe
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\P10Tri-bitSwitch\bin\Debug\P10Tri-bitSwitch.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\P10Tri-bitSwitch\obj\Debug\P10Tri-bitSwitch.exe
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\P10Tri-bitSwitch\obj\Debug\P10Tri-bitSwitch.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\P10Tri-bitSwitch\obj\Debug\P10Tri-bitSwitch.csprojResolveAssemblyReference.cache

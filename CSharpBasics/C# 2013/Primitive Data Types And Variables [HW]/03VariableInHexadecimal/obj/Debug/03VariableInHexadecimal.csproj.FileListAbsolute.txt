@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\03VariableInHexadecimal\bin\Debug\03VariableInHexadecimal.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\03VariableInHexadecimal\bin\Debug\03VariableInHexadecimal.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\03VariableInHexadecimal\bin\Debug\03VariableInHexadecimal.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\03VariableInHexadecimal\obj\Debug\03VariableInHexadecimal.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\03VariableInHexadecimal\obj\Debug\03VariableInHexadecimal.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\03VariableInHexadecimal\bin\Debug\03VariableInHexadecimal.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\03VariableInHexadecimal\obj\Debug\03VariableInHexadecimal.exe
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\03VariableInHexadecimal\obj\Debug\03VariableInHexadecimal.pdb

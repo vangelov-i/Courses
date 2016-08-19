@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning03PandaFlag\bin\Debug\25JulyMorning03PandaFlag.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning03PandaFlag\bin\Debug\25JulyMorning03PandaFlag.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning03PandaFlag\bin\Debug\25JulyMorning03PandaFlag.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning03PandaFlag\obj\Debug\25JulyMorning03PandaFlag.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning03PandaFlag\obj\Debug\25JulyMorning03PandaFlag.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning03PandaFlag\obj\Debug\25JulyMorning03PandaFlag.pdb

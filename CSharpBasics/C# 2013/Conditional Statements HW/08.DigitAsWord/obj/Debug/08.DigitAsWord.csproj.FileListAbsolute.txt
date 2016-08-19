@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\08.DigitAsWord\bin\Debug\08.DigitAsWord.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Conditional Statements HW\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Conditional Statements HW\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Conditional Statements HW\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb

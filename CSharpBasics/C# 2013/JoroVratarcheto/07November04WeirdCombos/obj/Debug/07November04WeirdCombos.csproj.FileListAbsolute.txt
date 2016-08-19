@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\07November04WeirdCombos\bin\Debug\07November04WeirdCombos.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\07November04WeirdCombos\bin\Debug\07November04WeirdCombos.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\07November04WeirdCombos\bin\Debug\07November04WeirdCombos.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\07November04WeirdCombos\obj\Debug\07November04WeirdCombos.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\07November04WeirdCombos\obj\Debug\07November04WeirdCombos.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\07November04WeirdCombos\obj\Debug\07November04WeirdCombos.pdb

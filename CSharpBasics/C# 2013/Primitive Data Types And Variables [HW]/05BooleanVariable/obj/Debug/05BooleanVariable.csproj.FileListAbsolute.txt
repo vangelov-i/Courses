@@ -1,0 +1,9 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\05BooleanVariable\bin\Debug\05BooleanVariable.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\05BooleanVariable\bin\Debug\05BooleanVariable.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\05BooleanVariable\bin\Debug\05BooleanVariable.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\05BooleanVariable\obj\Debug\05BooleanVariable.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\05BooleanVariable\obj\Debug\05BooleanVariable.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\05BooleanVariable\bin\Debug\05BooleanVariable.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\05BooleanVariable\obj\Debug\05BooleanVariable.exe
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\05BooleanVariable\obj\Debug\05BooleanVariable.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\05BooleanVariable\obj\Debug\05BooleanVariable.csprojResolveAssemblyReference.cache

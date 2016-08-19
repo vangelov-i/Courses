@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\10OddAndEvenProduct\obj\Debug\10OddAndEvenProduct.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\10OddAndEvenProduct\obj\Debug\10OddAndEvenProduct.pdb

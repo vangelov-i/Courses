@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P2PrintCompanyInfo\bin\Debug\P2PrintCompanyInfo.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P2PrintCompanyInfo\bin\Debug\P2PrintCompanyInfo.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P2PrintCompanyInfo\bin\Debug\P2PrintCompanyInfo.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P2PrintCompanyInfo\obj\Debug\P2PrintCompanyInfo.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P2PrintCompanyInfo\obj\Debug\P2PrintCompanyInfo.pdb

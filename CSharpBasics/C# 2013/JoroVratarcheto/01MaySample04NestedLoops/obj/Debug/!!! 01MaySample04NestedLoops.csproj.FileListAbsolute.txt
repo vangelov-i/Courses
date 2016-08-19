@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\01MaySample04NestedLoops\bin\Debug\01MaySample04NestedLoops.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\01MaySample04NestedLoops\obj\Debug\01MaySample04NestedLoops.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\01MaySample04NestedLoops\obj\Debug\01MaySample04NestedLoops.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\01MaySample04NestedLoops\bin\Debug\01MaySample04NestedLoops.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\01MaySample04NestedLoops\bin\Debug\01MaySample04NestedLoops.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\01MaySample04NestedLoops\obj\Debug\!!! 01MaySample04NestedLoops.csprojResolveAssemblyReference.cache

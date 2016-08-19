@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilEvening03ProgrammerDNA\bin\Debug\14AprilEvening03ProgrammerDNA.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilEvening03ProgrammerDNA\obj\Debug\14AprilEvening03ProgrammerDNA.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilEvening03ProgrammerDNA\obj\Debug\14AprilEvening03ProgrammerDNA.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilEvening03ProgrammerDNA\bin\Debug\14AprilEvening03ProgrammerDNA.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilEvening03ProgrammerDNA\bin\Debug\14AprilEvening03ProgrammerDNA.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilEvening03ProgrammerDNA\obj\Debug\!!!!14AprilEvening03ProgrammerDNA.csprojResolveAssemblyReference.cache

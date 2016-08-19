@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\06.TheBiggestOf5Numbers\bin\Debug\06.TheBiggestOf5Numbers.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\06.TheBiggestOf5Numbers\bin\Debug\06.TheBiggestOf5Numbers.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\06.TheBiggestOf5Numbers\bin\Debug\06.TheBiggestOf5Numbers.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\06.TheBiggestOf5Numbers\obj\Debug\06.TheBiggestOf5Numbers.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\06.TheBiggestOf5Numbers\obj\Debug\06.TheBiggestOf5Numbers.pdb

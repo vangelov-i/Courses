@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\CW-IntroductionToProgramming\bin\Debug\CW-IntroductionToProgramming.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\CW-IntroductionToProgramming\obj\Debug\CW-IntroductionToProgramming.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\CW-IntroductionToProgramming\bin\Debug\CW-IntroductionToProgramming.exe
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\CW-IntroductionToProgramming\bin\Debug\CW-IntroductionToProgramming.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\CW-IntroductionToProgramming\obj\Debug\CW-IntroductionToProgramming.exe
+C:\Users\Iliyan\Dropbox\C# 2013\CW-IntroductionToProgramming\CW-IntroductionToProgramming\obj\Debug\CW-IntroductionToProgramming.pdb

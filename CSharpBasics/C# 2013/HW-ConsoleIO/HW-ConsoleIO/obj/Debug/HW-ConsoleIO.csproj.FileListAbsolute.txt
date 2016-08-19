@@ -1,0 +1,9 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\HW-ConsoleIO\bin\Debug\HW-ConsoleIO.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\HW-ConsoleIO\bin\Debug\HW-ConsoleIO.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\HW-ConsoleIO\bin\Debug\HW-ConsoleIO.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\HW-ConsoleIO\obj\Debug\HW-ConsoleIO.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\HW-ConsoleIO\obj\Debug\HW-ConsoleIO.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\HW-ConsoleIO\obj\Debug\HW-ConsoleIO.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-ConsoleIO\HW-ConsoleIO\bin\Debug\HW-ConsoleIO.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-ConsoleIO\HW-ConsoleIO\obj\Debug\HW-ConsoleIO.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-ConsoleIO\HW-ConsoleIO\obj\Debug\HW-ConsoleIO.pdb

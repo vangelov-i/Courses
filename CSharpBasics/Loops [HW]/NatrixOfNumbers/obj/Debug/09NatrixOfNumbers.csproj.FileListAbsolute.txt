@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\NatrixOfNumbers\bin\Debug\NatrixOfNumbers.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\NatrixOfNumbers\bin\Debug\NatrixOfNumbers.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\NatrixOfNumbers\bin\Debug\NatrixOfNumbers.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\NatrixOfNumbers\obj\Debug\NatrixOfNumbers.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\NatrixOfNumbers\obj\Debug\NatrixOfNumbers.pdb

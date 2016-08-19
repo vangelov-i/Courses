@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops HW\17CalculateGCD\bin\Debug\17CalculateGCD.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops HW\17CalculateGCD\bin\Debug\17CalculateGCD.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops HW\17CalculateGCD\bin\Debug\17CalculateGCD.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops HW\17CalculateGCD\obj\Debug\17CalculateGCD.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops HW\17CalculateGCD\obj\Debug\17CalculateGCD.pdb

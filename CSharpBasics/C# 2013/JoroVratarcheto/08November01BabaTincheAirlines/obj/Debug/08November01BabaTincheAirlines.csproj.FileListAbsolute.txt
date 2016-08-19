@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\08November01BabaTincheAirlines\bin\Debug\08November01BabaTincheAirlines.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\08November01BabaTincheAirlines\bin\Debug\08November01BabaTincheAirlines.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\08November01BabaTincheAirlines\bin\Debug\08November01BabaTincheAirlines.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\08November01BabaTincheAirlines\obj\Debug\08November01BabaTincheAirlines.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\08November01BabaTincheAirlines\obj\Debug\08November01BabaTincheAirlines.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\08November01BabaTincheAirlines\obj\Debug\08November01BabaTincheAirlines.pdb

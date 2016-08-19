@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\13BinaryToDecimalNumber\bin\Debug\13BinaryToDecimalNumber.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\13BinaryToDecimalNumber\bin\Debug\13BinaryToDecimalNumber.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\13BinaryToDecimalNumber\bin\Debug\13BinaryToDecimalNumber.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\13BinaryToDecimalNumber\obj\Debug\13BinaryToDecimalNumber.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\13BinaryToDecimalNumber\obj\Debug\13BinaryToDecimalNumber.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Loops [HW]\13BinaryToDecimalNumber\bin\Debug\13BinaryToDecimalNumber.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\Loops [HW]\13BinaryToDecimalNumber\obj\Debug\13BinaryToDecimalNumber.exe
+C:\Users\Iliyan\Dropbox\C# 2013\Loops [HW]\13BinaryToDecimalNumber\obj\Debug\13BinaryToDecimalNumber.pdb

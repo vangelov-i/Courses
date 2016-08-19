@@ -1,0 +1,9 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\ConsoleApplication1\ConsoleApplication1\obj\Debug\PrimitiveDataTypesandVar.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

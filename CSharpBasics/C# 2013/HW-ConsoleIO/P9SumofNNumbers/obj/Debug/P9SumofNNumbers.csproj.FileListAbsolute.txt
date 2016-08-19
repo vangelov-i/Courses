@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P9SumofNNumbers\bin\Debug\P9SumofNNumbers.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P9SumofNNumbers\obj\Debug\P9SumofNNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P9SumofNNumbers\bin\Debug\P9SumofNNumbers.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P9SumofNNumbers\bin\Debug\P9SumofNNumbers.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P9SumofNNumbers\obj\Debug\P9SumofNNumbers.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P9SumofNNumbers\obj\Debug\P9SumofNNumbers.pdb

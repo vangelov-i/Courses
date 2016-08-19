@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\12July01FourFactorsC\bin\Debug\12July01FourFactorsC.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\12July01FourFactorsC\bin\Debug\12July01FourFactorsC.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\12July01FourFactorsC\bin\Debug\12July01FourFactorsC.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\12July01FourFactorsC\obj\Debug\12July01FourFactorsC.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\12July01FourFactorsC\obj\Debug\12July01FourFactorsC.pdb

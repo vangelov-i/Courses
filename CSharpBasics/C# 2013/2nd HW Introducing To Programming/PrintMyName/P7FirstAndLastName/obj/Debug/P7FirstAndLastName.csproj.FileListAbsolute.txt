@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Dropbox\C# 2013\2nd HW Introducing To Programming\PrintMyName\P7FirstAndLastName\bin\Debug\P7FirstAndLastName.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\2nd HW Introducing To Programming\PrintMyName\P7FirstAndLastName\bin\Debug\P7FirstAndLastName.exe
+C:\Users\Iliyan\Dropbox\C# 2013\2nd HW Introducing To Programming\PrintMyName\P7FirstAndLastName\bin\Debug\P7FirstAndLastName.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\2nd HW Introducing To Programming\PrintMyName\P7FirstAndLastName\obj\Debug\P7FirstAndLastName.exe
+C:\Users\Iliyan\Dropbox\C# 2013\2nd HW Introducing To Programming\PrintMyName\P7FirstAndLastName\obj\Debug\P7FirstAndLastName.pdb

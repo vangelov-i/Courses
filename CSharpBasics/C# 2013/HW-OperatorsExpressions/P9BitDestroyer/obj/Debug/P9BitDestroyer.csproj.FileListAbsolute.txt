@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P9BitDestroyer\bin\Debug\P9BitDestroyer.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P9BitDestroyer\bin\Debug\P9BitDestroyer.exe
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P9BitDestroyer\bin\Debug\P9BitDestroyer.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P9BitDestroyer\obj\Debug\P9BitDestroyer.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P9BitDestroyer\obj\Debug\P9BitDestroyer.exe
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P9BitDestroyer\obj\Debug\P9BitDestroyer.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P9BitDestroyer\bin\Debug\P9BitDestroyer.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P9BitDestroyer\obj\Debug\P9BitDestroyer.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P9BitDestroyer\obj\Debug\P9BitDestroyer.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P9BitDestroyer\bin\Debug\P9BitDestroyer.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P9BitDestroyer\bin\Debug\P9BitDestroyer.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P9BitDestroyer\obj\Debug\P9BitDestroyer.csprojResolveAssemblyReference.cache

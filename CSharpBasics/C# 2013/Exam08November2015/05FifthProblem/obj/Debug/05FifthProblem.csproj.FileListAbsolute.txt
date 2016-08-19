@@ -1,0 +1,6 @@
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\05FifthProblem\bin\Debug\05FifthProblem.exe.config
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\05FifthProblem\bin\Debug\05FifthProblem.exe
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\05FifthProblem\bin\Debug\05FifthProblem.pdb
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\05FifthProblem\obj\Debug\05FifthProblem.exe
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\05FifthProblem\obj\Debug\05FifthProblem.pdb
+c:\users\iliyan\documents\visual studio 2013\Projects\Exam08November2015\05FifthProblem\obj\Debug\05FifthProblem.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P6FourDigitNumber\bin\Debug\P6FourDigitNumber.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P6FourDigitNumber\bin\Debug\P6FourDigitNumber.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P6FourDigitNumber\bin\Debug\P6FourDigitNumber.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P6FourDigitNumber\obj\Debug\P6FourDigitNumber.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\P6FourDigitNumber\obj\Debug\P6FourDigitNumber.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P6FourDigitNumber\bin\Debug\P6FourDigitNumber.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P6FourDigitNumber\obj\Debug\P6FourDigitNumber.exe
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\P6FourDigitNumber\obj\Debug\P6FourDigitNumber.pdb

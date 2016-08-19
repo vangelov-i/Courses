@@ -1,0 +1,3 @@
+C:\Users\Iliyan\Dropbox\C# 2013\2nd HW Introducing To Programming\PrintMyName\Problem6\bin\Debug\Problem6.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\2nd HW Introducing To Programming\PrintMyName\Problem6\obj\Debug\Problem6.exe
+C:\Users\Iliyan\Dropbox\C# 2013\2nd HW Introducing To Programming\PrintMyName\Problem6\obj\Debug\Problem6.pdb

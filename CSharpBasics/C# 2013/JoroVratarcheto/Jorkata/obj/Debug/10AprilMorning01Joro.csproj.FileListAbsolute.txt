@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\Jorkata\bin\Debug\Jorkata.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\Jorkata\obj\Debug\Jorkata.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\Jorkata\obj\Debug\Jorkata.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\Jorkata\bin\Debug\Jorkata.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\Jorkata\obj\Debug\Jorkata.exe
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\Jorkata\obj\Debug\Jorkata.pdb

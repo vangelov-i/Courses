@@ -1,0 +1,11 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\11BankAccountData\bin\Debug\11BankAccountData.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\11BankAccountData\bin\Debug\11BankAccountData.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\11BankAccountData\bin\Debug\11BankAccountData.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\11BankAccountData\obj\Debug\11BankAccountData.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\11BankAccountData\obj\Debug\11BankAccountData.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\11BankAccountData\bin\Debug\11BankAccountData.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\11BankAccountData\obj\Debug\11BankAccountData.exe
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\11BankAccountData\obj\Debug\11BankAccountData.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\11BankAccountData\bin\Debug\11BankAccountData.exe
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\11BankAccountData\bin\Debug\11BankAccountData.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Primitive Data Types And Variables [HW]\11BankAccountData\obj\Debug\11BankAccountData.csprojResolveAssemblyReference.cache

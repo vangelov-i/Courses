@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilMorning05BitShooter\bin\Debug\14AprilMorning05BitShooter.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilMorning05BitShooter\bin\Debug\14AprilMorning05BitShooter.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilMorning05BitShooter\bin\Debug\14AprilMorning05BitShooter.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilMorning05BitShooter\obj\Debug\14AprilMorning05BitShooter.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilMorning05BitShooter\obj\Debug\14AprilMorning05BitShooter.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\14AprilMorning05BitShooter\obj\Debug\14AprilMorning05BitShooter.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\14AprilMorning05BitShooter\bin\Debug\14AprilMorning05BitShooter.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\14AprilMorning05BitShooter\obj\Debug\14AprilMorning05BitShooter.exe
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\14AprilMorning05BitShooter\obj\Debug\14AprilMorning05BitShooter.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\14AprilMorning05BitShooter\bin\Debug\14AprilMorning05BitShooter.exe
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\14AprilMorning05BitShooter\bin\Debug\14AprilMorning05BitShooter.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\14AprilMorning05BitShooter\obj\Debug\14AprilMorning05BitShooter.csprojResolveAssemblyReference.cache

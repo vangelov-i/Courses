@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilMorning02HalfSum\bin\Debug\10AprilMorning02HalfSum.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilMorning02HalfSum\bin\Debug\10AprilMorning02HalfSum.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilMorning02HalfSum\bin\Debug\10AprilMorning02HalfSum.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilMorning02HalfSum\obj\Debug\10AprilMorning02HalfSum.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilMorning02HalfSum\obj\Debug\10AprilMorning02HalfSum.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilMorning02HalfSum\obj\Debug\10AprilMorning02HalfSum.pdb

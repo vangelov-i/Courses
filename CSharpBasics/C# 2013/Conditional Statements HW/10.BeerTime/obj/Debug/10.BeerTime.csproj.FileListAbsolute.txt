@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\10.BeerTime\bin\Debug\10.BeerTime.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\10.BeerTime\bin\Debug\10.BeerTime.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\10.BeerTime\bin\Debug\10.BeerTime.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\10.BeerTime\obj\Debug\10.BeerTime.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\10.BeerTime\obj\Debug\10.BeerTime.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Conditional Statements HW\10.BeerTime\bin\Debug\10.BeerTime.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Conditional Statements HW\10.BeerTime\obj\Debug\10.BeerTime.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Conditional Statements HW\10.BeerTime\obj\Debug\10.BeerTime.pdb

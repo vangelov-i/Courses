@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\28April01FitBoxInBox\bin\Debug\28April01FitBoxInBox.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\28April01FitBoxInBox\bin\Debug\28April01FitBoxInBox.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\28April01FitBoxInBox\bin\Debug\28April01FitBoxInBox.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\28April01FitBoxInBox\obj\Debug\28April01FitBoxInBox.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\28April01FitBoxInBox\obj\Debug\28April01FitBoxInBox.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\28April01FitBoxInBox\obj\Debug\28April01FitBoxInBox.pdb

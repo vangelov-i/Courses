@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\29MatchMorning05GameOfBits\bin\Debug\29MatchMorning05GameOfBits.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\29MatchMorning05GameOfBits\bin\Debug\29MatchMorning05GameOfBits.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\29MatchMorning05GameOfBits\bin\Debug\29MatchMorning05GameOfBits.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\29MatchMorning05GameOfBits\obj\Debug\29MatchMorning05GameOfBits.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\29MatchMorning05GameOfBits\obj\Debug\29MatchMorning05GameOfBits.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\29MatchMorning05GameOfBits\obj\Debug\29MatchMorning05GameOfBits.pdb

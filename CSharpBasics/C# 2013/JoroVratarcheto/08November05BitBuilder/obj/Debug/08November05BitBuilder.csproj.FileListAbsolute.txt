@@ -1,0 +1,9 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\08November05BitBuilder\bin\Debug\08November05BitBuilder.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\08November05BitBuilder\bin\Debug\08November05BitBuilder.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\08November05BitBuilder\bin\Debug\08November05BitBuilder.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\08November05BitBuilder\obj\Debug\08November05BitBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\08November05BitBuilder\obj\Debug\08November05BitBuilder.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\08November05BitBuilder\obj\Debug\08November05BitBuilder.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\08November05BitBuilder\bin\Debug\08November05BitBuilder.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\08November05BitBuilder\obj\Debug\08November05BitBuilder.exe
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\08November05BitBuilder\obj\Debug\08November05BitBuilder.pdb

@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\ExerciseP5\bin\Debug\ExerciseP5.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\ExerciseP5\bin\Debug\ExerciseP5.exe
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\ExerciseP5\bin\Debug\ExerciseP5.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\ExerciseP5\obj\Debug\ExerciseP5.exe
+C:\Users\Iliyan\Dropbox\C# 2013\HW-OperatorsExpressions\ExerciseP5\obj\Debug\ExerciseP5.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\ExerciseP5\bin\Debug\ExerciseP5.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\ExerciseP5\obj\Debug\ExerciseP5.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-OperatorsExpressions\ExerciseP5\obj\Debug\ExerciseP5.pdb

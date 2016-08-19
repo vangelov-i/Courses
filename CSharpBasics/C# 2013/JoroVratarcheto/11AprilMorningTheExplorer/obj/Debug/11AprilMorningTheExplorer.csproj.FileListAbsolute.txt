@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\11AprilMorningTheExplorer\bin\Debug\11AprilMorningTheExplorer.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\11AprilMorningTheExplorer\bin\Debug\11AprilMorningTheExplorer.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\11AprilMorningTheExplorer\bin\Debug\11AprilMorningTheExplorer.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\11AprilMorningTheExplorer\obj\Debug\11AprilMorningTheExplorer.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\11AprilMorningTheExplorer\obj\Debug\11AprilMorningTheExplorer.pdb

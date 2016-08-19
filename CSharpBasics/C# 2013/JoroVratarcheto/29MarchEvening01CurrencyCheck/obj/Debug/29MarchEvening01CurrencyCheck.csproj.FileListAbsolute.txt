@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\29MarchEvening01CurrencyCheck\bin\Debug\29MarchEvening01CurrencyCheck.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\29MarchEvening01CurrencyCheck\bin\Debug\29MarchEvening01CurrencyCheck.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\29MarchEvening01CurrencyCheck\bin\Debug\29MarchEvening01CurrencyCheck.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\29MarchEvening01CurrencyCheck\obj\Debug\29MarchEvening01CurrencyCheck.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\29MarchEvening01CurrencyCheck\obj\Debug\29MarchEvening01CurrencyCheck.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\29MarchEvening01CurrencyCheck\obj\Debug\29MarchEvening01CurrencyCheck.pdb

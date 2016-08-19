@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P7SumOf5Numbers2nd\bin\Debug\P7SumOf5Numbers2nd.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P7SumOf5Numbers2nd\obj\Debug\P7SumOf5Numbers2nd.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P7SumOf5Numbers2nd\bin\Debug\P7SumOf5Numbers2nd.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P7SumOf5Numbers2nd\bin\Debug\P7SumOf5Numbers2nd.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P7SumOf5Numbers2nd\obj\Debug\P7SumOf5Numbers2nd.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\HW-ConsoleIO\P7SumOf5Numbers2nd\obj\Debug\P7SumOf5Numbers2nd.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-ConsoleIO\P7SumOf5Numbers2nd\bin\Debug\P7SumOf5Numbers2nd.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-ConsoleIO\P7SumOf5Numbers2nd\obj\Debug\P7SumOf5Numbers2nd.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-ConsoleIO\P7SumOf5Numbers2nd\obj\Debug\P7SumOf5Numbers2nd.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-ConsoleIO\P7SumOf5Numbers2nd\bin\Debug\P7SumOf5Numbers2nd.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-ConsoleIO\P7SumOf5Numbers2nd\bin\Debug\P7SumOf5Numbers2nd.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\HW-ConsoleIO\P7SumOf5Numbers2nd\obj\Debug\P7SumOf5Numbers2nd.csprojResolveAssemblyReference.cache

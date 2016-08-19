@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\29MarchEvening03MagicWand\bin\Debug\29MarchEvening03MagicWand.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\29MarchEvening03MagicWand\bin\Debug\29MarchEvening03MagicWand.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\29MarchEvening03MagicWand\bin\Debug\29MarchEvening03MagicWand.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\29MarchEvening03MagicWand\obj\Debug\29MarchEvening03MagicWand.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\29MarchEvening03MagicWand\obj\Debug\29MarchEvening03MagicWand.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\29MarchEvening03MagicWand\obj\Debug\29MarchEvening03MagicWand.pdb

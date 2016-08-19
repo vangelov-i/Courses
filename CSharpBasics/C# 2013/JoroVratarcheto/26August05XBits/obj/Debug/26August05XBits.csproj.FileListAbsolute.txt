@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\26August05XBits\bin\Debug\26August05XBits.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\26August05XBits\bin\Debug\26August05XBits.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\26August05XBits\bin\Debug\26August05XBits.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\26August05XBits\obj\Debug\26August05XBits.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\26August05XBits\obj\Debug\26August05XBits.pdb

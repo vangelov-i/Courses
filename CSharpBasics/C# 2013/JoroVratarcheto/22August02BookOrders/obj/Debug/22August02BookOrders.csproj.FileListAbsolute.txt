@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\22August02BookOrders\bin\Debug\22August02BookOrders.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\22August02BookOrders\bin\Debug\22August02BookOrders.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\22August02BookOrders\bin\Debug\22August02BookOrders.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\22August02BookOrders\obj\Debug\22August02BookOrders.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\22August02BookOrders\obj\Debug\22August02BookOrders.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\22August02BookOrders\obj\Debug\22August02BookOrders.pdb

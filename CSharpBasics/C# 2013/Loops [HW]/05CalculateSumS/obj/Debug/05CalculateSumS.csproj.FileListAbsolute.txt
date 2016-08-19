@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\05CalculateSumS\bin\Debug\05CalculateSumS.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\05CalculateSumS\bin\Debug\05CalculateSumS.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\05CalculateSumS\bin\Debug\05CalculateSumS.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\05CalculateSumS\obj\Debug\05CalculateSumS.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\Loops [HW]\05CalculateSumS\obj\Debug\05CalculateSumS.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\Loops [HW]\05CalculateSumS\bin\Debug\05CalculateSumS.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\Loops [HW]\05CalculateSumS\obj\Debug\05CalculateSumS.exe
+C:\Users\Iliyan\Dropbox\C# 2013\Loops [HW]\05CalculateSumS\obj\Debug\05CalculateSumS.pdb

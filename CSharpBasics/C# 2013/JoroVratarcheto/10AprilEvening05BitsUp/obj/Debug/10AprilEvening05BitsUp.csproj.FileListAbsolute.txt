@@ -1,0 +1,9 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilEvening05BitsUp\bin\Debug\10AprilEvening05BitsUp.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilEvening05BitsUp\bin\Debug\10AprilEvening05BitsUp.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilEvening05BitsUp\bin\Debug\10AprilEvening05BitsUp.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilEvening05BitsUp\obj\Debug\10AprilEvening05BitsUp.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilEvening05BitsUp\obj\Debug\10AprilEvening05BitsUp.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\10AprilEvening05BitsUp\obj\Debug\10AprilEvening05BitsUp.pdb
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\10AprilEvening05BitsUp\bin\Debug\10AprilEvening05BitsUp.exe.config
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\10AprilEvening05BitsUp\obj\Debug\10AprilEvening05BitsUp.exe
+C:\Users\Iliyan\Dropbox\C# 2013\JoroVratarcheto\10AprilEvening05BitsUp\obj\Debug\10AprilEvening05BitsUp.pdb

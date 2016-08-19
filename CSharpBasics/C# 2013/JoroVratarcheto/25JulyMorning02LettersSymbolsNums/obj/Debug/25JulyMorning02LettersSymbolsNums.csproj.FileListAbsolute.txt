@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning02LettersSymbolsNums\bin\Debug\25JulyMorning02LettersSymbolsNums.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning02LettersSymbolsNums\bin\Debug\25JulyMorning02LettersSymbolsNums.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning02LettersSymbolsNums\bin\Debug\25JulyMorning02LettersSymbolsNums.pdb
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning02LettersSymbolsNums\obj\Debug\25JulyMorning02LettersSymbolsNums.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning02LettersSymbolsNums\obj\Debug\25JulyMorning02LettersSymbolsNums.exe
+C:\Users\Iliyan\Desktop\Dropbox\C# 2013\JoroVratarcheto\25JulyMorning02LettersSymbolsNums\obj\Debug\25JulyMorning02LettersSymbolsNums.pdb

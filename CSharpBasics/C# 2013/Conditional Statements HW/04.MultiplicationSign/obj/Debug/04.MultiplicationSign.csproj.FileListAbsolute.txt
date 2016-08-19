@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe.config
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.pdb
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
+C:\Users\Iliyan\Desktop\C# work-folder\C# 2013\Conditional Statements HW\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb
