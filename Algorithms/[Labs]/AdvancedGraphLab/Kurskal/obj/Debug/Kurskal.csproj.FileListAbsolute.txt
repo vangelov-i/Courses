@@ -1,0 +1,7 @@
+C:\Users\Iliyan\Dropbox\Algorithms\AdvancedGraphLab\Kurskal\bin\Debug\Kurskal.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\AdvancedGraphLab\Kurskal\bin\Debug\Kurskal.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\AdvancedGraphLab\Kurskal\bin\Debug\Kurskal.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\AdvancedGraphLab\Kurskal\bin\Debug\Kurskal.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\AdvancedGraphLab\Kurskal\obj\Debug\Kurskal.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\AdvancedGraphLab\Kurskal\obj\Debug\Kurskal.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\AdvancedGraphLab\Kurskal\obj\Debug\Kurskal.pdb

@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateSubsetsOfStringArray\bin\Debug\GenerateSubsetsOfStringArray.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateSubsetsOfStringArray\bin\Debug\GenerateSubsetsOfStringArray.exe
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateSubsetsOfStringArray\bin\Debug\GenerateSubsetsOfStringArray.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateSubsetsOfStringArray\obj\Debug\GenerateSubsetsOfStringArray.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateSubsetsOfStringArray\obj\Debug\GenerateSubsetsOfStringArray.exe
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateSubsetsOfStringArray\obj\Debug\GenerateSubsetsOfStringArray.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\GenerateSubsetsOfStringArray\bin\Debug\GenerateSubsetsOfStringArray.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\GenerateSubsetsOfStringArray\obj\Debug\GenerateSubsetsOfStringArray.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\GenerateSubsetsOfStringArray\obj\Debug\GenerateSubsetsOfStringArray.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\GenerateSubsetsOfStringArray\bin\Debug\GenerateSubsetsOfStringArray.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\GenerateSubsetsOfStringArray\bin\Debug\GenerateSubsetsOfStringArray.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\GenerateSubsetsOfStringArray\obj\Debug\GenerateSubsetsOfStringArray.csprojResolveAssemblyReference.cache

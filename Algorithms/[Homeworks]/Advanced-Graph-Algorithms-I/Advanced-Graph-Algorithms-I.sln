@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendCableNetwork", "ExtendCableNetwork\ExtendCableNetwork.csproj", "{644AA6FD-853E-4F64-9DDA-6B9E2D3A3C86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModifiedKruskal", "ModifiedKruskal\ModifiedKruskal.csproj", "{7574EA80-D576-4188-8428-87B139A5A549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostReliablePathDijkstra", "MostReliablePathDijkstra\MostReliablePathDijkstra.csproj", "{BAC3CE30-A313-4F8B-8390-99DF3A8CE583}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortestPathsBtwAllNodes", "ShortestPathsBtwAllNodes\ShortestPathsBtwAllNodes.csproj", "{42417735-1375-4880-A95A-C027DCC2F33D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuclidGCD", "EuclidGCD\EuclidGCD.csproj", "{9EF03711-57AA-4DB0-9AB4-4E269429A52C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{644AA6FD-853E-4F64-9DDA-6B9E2D3A3C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644AA6FD-853E-4F64-9DDA-6B9E2D3A3C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644AA6FD-853E-4F64-9DDA-6B9E2D3A3C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644AA6FD-853E-4F64-9DDA-6B9E2D3A3C86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7574EA80-D576-4188-8428-87B139A5A549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7574EA80-D576-4188-8428-87B139A5A549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7574EA80-D576-4188-8428-87B139A5A549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7574EA80-D576-4188-8428-87B139A5A549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAC3CE30-A313-4F8B-8390-99DF3A8CE583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC3CE30-A313-4F8B-8390-99DF3A8CE583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC3CE30-A313-4F8B-8390-99DF3A8CE583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC3CE30-A313-4F8B-8390-99DF3A8CE583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42417735-1375-4880-A95A-C027DCC2F33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42417735-1375-4880-A95A-C027DCC2F33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42417735-1375-4880-A95A-C027DCC2F33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42417735-1375-4880-A95A-C027DCC2F33D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EF03711-57AA-4DB0-9AB4-4E269429A52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF03711-57AA-4DB0-9AB4-4E269429A52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF03711-57AA-4DB0-9AB4-4E269429A52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF03711-57AA-4DB0-9AB4-4E269429A52C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateCombosWithRepetition\bin\Debug\GenerateCombosWithRepetition.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateCombosWithRepetition\bin\Debug\GenerateCombosWithRepetition.exe
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateCombosWithRepetition\bin\Debug\GenerateCombosWithRepetition.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateCombosWithRepetition\obj\Debug\GenerateCombosWithRepetition.exe
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateCombosWithRepetition\obj\Debug\GenerateCombosWithRepetition.pdb

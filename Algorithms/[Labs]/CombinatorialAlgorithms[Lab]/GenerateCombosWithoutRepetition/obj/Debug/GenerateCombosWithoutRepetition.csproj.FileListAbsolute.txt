@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateCombosWithoutRepetition\bin\Debug\GenerateCombosWithoutRepetition.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateCombosWithoutRepetition\bin\Debug\GenerateCombosWithoutRepetition.exe
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateCombosWithoutRepetition\bin\Debug\GenerateCombosWithoutRepetition.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateCombosWithoutRepetition\obj\Debug\GenerateCombosWithoutRepetition.exe
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateCombosWithoutRepetition\obj\Debug\GenerateCombosWithoutRepetition.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms[Lab]\GenerateCombosWithoutRepetition\bin\Debug\GenerateCombosWithoutRepetition.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms[Lab]\GenerateCombosWithoutRepetition\obj\Debug\GenerateCombosWithoutRepetition.exe
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms[Lab]\GenerateCombosWithoutRepetition\obj\Debug\GenerateCombosWithoutRepetition.pdb

@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll.config
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Data.pdb
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Model.dll
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Model.pdb
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.Data\obj\Debug\StudentSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.Data\obj\Debug\StudentSystem.Data.dll
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.Data\obj\Debug\StudentSystem.Data.pdb

@@ -1,0 +1,10 @@
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\Entity-Framework-Homework\NorthwindDb\bin\Debug\NorthwindDb.exe.config
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\Entity-Framework-Homework\NorthwindDb\bin\Debug\NorthwindDb.exe
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\Entity-Framework-Homework\NorthwindDb\bin\Debug\NorthwindDb.pdb
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\Entity-Framework-Homework\NorthwindDb\bin\Debug\EntityFramework.dll
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\Entity-Framework-Homework\NorthwindDb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\Entity-Framework-Homework\NorthwindDb\bin\Debug\EntityFramework.xml
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\Entity-Framework-Homework\NorthwindDb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\Entity-Framework-Homework\NorthwindDb\obj\Debug\NorthwindDb.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\Entity-Framework-Homework\NorthwindDb\obj\Debug\NorthwindDb.exe
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\Entity-Framework-Homework\NorthwindDb\obj\Debug\NorthwindDb.pdb

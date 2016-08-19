@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateCombinationsIteratively\bin\Debug\GenerateCombinationsIteratively.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateCombinationsIteratively\bin\Debug\GenerateCombinationsIteratively.exe
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateCombinationsIteratively\bin\Debug\GenerateCombinationsIteratively.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateCombinationsIteratively\obj\Debug\GenerateCombinationsIteratively.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateCombinationsIteratively\obj\Debug\GenerateCombinationsIteratively.exe
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateCombinationsIteratively\obj\Debug\GenerateCombinationsIteratively.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\GenerateCombinationsIteratively\bin\Debug\GenerateCombinationsIteratively.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\GenerateCombinationsIteratively\obj\Debug\GenerateCombinationsIteratively.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\GenerateCombinationsIteratively\obj\Debug\GenerateCombinationsIteratively.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\GenerateCombinationsIteratively\bin\Debug\GenerateCombinationsIteratively.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\GenerateCombinationsIteratively\bin\Debug\GenerateCombinationsIteratively.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\GenerateCombinationsIteratively\obj\Debug\GenerateCombinationsIteratively.csprojResolveAssemblyReference.cache

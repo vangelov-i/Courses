@@ -1,0 +1,10 @@
+C:\Users\Iliyan\Dropbox\Algorithms\Recursion\CombinationsWithoutRepetitions\bin\Debug\CombinationsWithoutRepetitions.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\Recursion\CombinationsWithoutRepetitions\bin\Debug\CombinationsWithoutRepetitions.exe
+C:\Users\Iliyan\Dropbox\Algorithms\Recursion\CombinationsWithoutRepetitions\bin\Debug\CombinationsWithoutRepetitions.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\Recursion\CombinationsWithoutRepetitions\obj\Debug\CombinationsWithoutRepetitions.exe
+C:\Users\Iliyan\Dropbox\Algorithms\Recursion\CombinationsWithoutRepetitions\obj\Debug\CombinationsWithoutRepetitions.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Recursion\CombinationsWithoutRepetitions\bin\Debug\CombinationsWithoutRepetitions.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Recursion\CombinationsWithoutRepetitions\obj\Debug\CombinationsWithoutRepetitions.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Recursion\CombinationsWithoutRepetitions\obj\Debug\CombinationsWithoutRepetitions.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Recursion\CombinationsWithoutRepetitions\bin\Debug\CombinationsWithoutRepetitions.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Recursion\CombinationsWithoutRepetitions\bin\Debug\CombinationsWithoutRepetitions.pdb

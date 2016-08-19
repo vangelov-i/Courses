@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming[Lab]\Knapsack-Problem.Tests\bin\Debug\Knapsack-Problem.Tests.dll
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming[Lab]\Knapsack-Problem.Tests\bin\Debug\Knapsack-Problem.Tests.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming[Lab]\Knapsack-Problem.Tests\bin\Debug\Knapsack-Problem.exe
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming[Lab]\Knapsack-Problem.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming[Lab]\Knapsack-Problem.Tests\bin\Debug\Knapsack-Problem.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming[Lab]\Knapsack-Problem.Tests\obj\Debug\Knapsack-Problem.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming[Lab]\Knapsack-Problem.Tests\obj\Debug\Knapsack-Problem.Tests.dll
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming[Lab]\Knapsack-Problem.Tests\obj\Debug\Knapsack-Problem.Tests.pdb

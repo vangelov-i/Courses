@@ -1,0 +1,7 @@
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming\DividingPresents\bin\Debug\DividingPresents.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\DividingPresents\bin\Debug\DividingPresents.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\DividingPresents\bin\Debug\DividingPresents.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\DividingPresents\bin\Debug\DividingPresents.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\DividingPresents\obj\Debug\DividingPresents.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\DividingPresents\obj\Debug\DividingPresents.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\DividingPresents\obj\Debug\DividingPresents.pdb

@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Dropbox\Algorithms\Recursion\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\Recursion\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.exe
+C:\Users\Iliyan\Dropbox\Algorithms\Recursion\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\Recursion\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.exe
+C:\Users\Iliyan\Dropbox\Algorithms\Recursion\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\Recursion\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Recursion\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Recursion\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Recursion\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Recursion\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Recursion\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Recursion\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.csprojResolveAssemblyReference.cache

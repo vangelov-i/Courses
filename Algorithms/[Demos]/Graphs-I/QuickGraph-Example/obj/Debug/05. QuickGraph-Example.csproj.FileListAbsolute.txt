@@ -1,0 +1,13 @@
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Graphs-I\QuickGraph-Example\bin\Debug\ExternalLibrary.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Graphs-I\QuickGraph-Example\bin\Debug\ExternalLibrary.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Graphs-I\QuickGraph-Example\bin\Debug\QuickGraph.Data.dll
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Graphs-I\QuickGraph-Example\bin\Debug\QuickGraph.dll
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Graphs-I\QuickGraph-Example\bin\Debug\QuickGraph.Graphviz.dll
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Graphs-I\QuickGraph-Example\bin\Debug\QuickGraph.Serialization.dll
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Graphs-I\QuickGraph-Example\bin\Debug\QuickGraph.xml
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Graphs-I\QuickGraph-Example\bin\Debug\QuickGraph.Data.xml
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Graphs-I\QuickGraph-Example\bin\Debug\QuickGraph.Graphviz.xml
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Graphs-I\QuickGraph-Example\bin\Debug\QuickGraph.Serialization.xml
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Graphs-I\QuickGraph-Example\obj\Debug\05. QuickGraph-Example.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Graphs-I\QuickGraph-Example\obj\Debug\ExternalLibrary.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Graphs-I\QuickGraph-Example\obj\Debug\ExternalLibrary.pdb

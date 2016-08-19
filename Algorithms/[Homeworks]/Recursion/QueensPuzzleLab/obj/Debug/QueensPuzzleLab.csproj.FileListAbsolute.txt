@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Dropbox\Algorithms\Recursion\QueensPuzzleLab\bin\Debug\QueensPuzzleLab.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\Recursion\QueensPuzzleLab\bin\Debug\QueensPuzzleLab.exe
+C:\Users\Iliyan\Dropbox\Algorithms\Recursion\QueensPuzzleLab\bin\Debug\QueensPuzzleLab.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\Recursion\QueensPuzzleLab\obj\Debug\QueensPuzzleLab.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\Recursion\QueensPuzzleLab\obj\Debug\QueensPuzzleLab.exe
+C:\Users\Iliyan\Dropbox\Algorithms\Recursion\QueensPuzzleLab\obj\Debug\QueensPuzzleLab.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Recursion\QueensPuzzleLab\bin\Debug\QueensPuzzleLab.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Recursion\QueensPuzzleLab\obj\Debug\QueensPuzzleLab.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Recursion\QueensPuzzleLab\obj\Debug\QueensPuzzleLab.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Recursion\QueensPuzzleLab\bin\Debug\QueensPuzzleLab.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Recursion\QueensPuzzleLab\bin\Debug\QueensPuzzleLab.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Recursion\QueensPuzzleLab\obj\Debug\QueensPuzzleLab.csprojResolveAssemblyReference.cache

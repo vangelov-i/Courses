@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming\SubssetSumWithRepeatsRecovery\bin\Debug\SubssetSumWithRepeatsRecovery.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming\SubssetSumWithRepeatsRecovery\bin\Debug\SubssetSumWithRepeatsRecovery.exe
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming\SubssetSumWithRepeatsRecovery\bin\Debug\SubssetSumWithRepeatsRecovery.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming\SubssetSumWithRepeatsRecovery\obj\Debug\SubssetSumWithRepeatsRecovery.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming\SubssetSumWithRepeatsRecovery\obj\Debug\SubssetSumWithRepeatsRecovery.exe
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming\SubssetSumWithRepeatsRecovery\obj\Debug\SubssetSumWithRepeatsRecovery.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\SubssetSumWithRepeatsRecovery\bin\Debug\SubssetSumWithRepeatsRecovery.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\SubssetSumWithRepeatsRecovery\obj\Debug\SubssetSumWithRepeatsRecovery.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\SubssetSumWithRepeatsRecovery\obj\Debug\SubssetSumWithRepeatsRecovery.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\SubssetSumWithRepeatsRecovery\bin\Debug\SubssetSumWithRepeatsRecovery.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\SubssetSumWithRepeatsRecovery\bin\Debug\SubssetSumWithRepeatsRecovery.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\SubssetSumWithRepeatsRecovery\obj\Debug\SubssetSumWithRepeatsRecovery.csprojResolveAssemblyReference.cache

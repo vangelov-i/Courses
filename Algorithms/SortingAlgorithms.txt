@@ -1,0 +1,18 @@
+Използваме стабилен алгоритъм за сортиране, само ако ни трябва стабилност.
+
+*InsertionSort -> (n^2) най- бърз за колекции до 20-30 елемента! [стабилен]
+
+Следните 3 са най- използваните!
+	*QuickSort -> най- използваният (подходящ за n < 1000) [стабилен/нестабилен]
+	*MergeSort -> n*log(n) при n > 1000 - [стабилен]
+	*HeapSort -> n*log(n) [нестабилен]
+
+Searching Algo
+	*Linear
+	*Binary
+	*Inerpolation
+	
+*Fisher Yates -> shuffle algo (simple and effective)
+"when what sorting algorithm to use" - stackoverflow
+	
+Задача за решаване -> Data Structures - Advanced Tree Structures-Part II Problem 2. Sweep and Prune

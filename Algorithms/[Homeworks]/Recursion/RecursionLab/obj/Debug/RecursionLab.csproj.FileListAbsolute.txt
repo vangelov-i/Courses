@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Dropbox\Algorithms\Recursion\RecursionLab\bin\Debug\RecursionLab.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\Recursion\RecursionLab\bin\Debug\RecursionLab.exe
+C:\Users\Iliyan\Dropbox\Algorithms\Recursion\RecursionLab\bin\Debug\RecursionLab.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\Recursion\RecursionLab\obj\Debug\RecursionLab.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\Recursion\RecursionLab\obj\Debug\RecursionLab.exe
+C:\Users\Iliyan\Dropbox\Algorithms\Recursion\RecursionLab\obj\Debug\RecursionLab.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Recursion\RecursionLab\bin\Debug\RecursionLab.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Recursion\RecursionLab\obj\Debug\RecursionLab.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Recursion\RecursionLab\obj\Debug\RecursionLab.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Recursion\RecursionLab\bin\Debug\RecursionLab.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Recursion\RecursionLab\bin\Debug\RecursionLab.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Recursion\RecursionLab\obj\Debug\RecursionLab.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Graphs-I\Salaries\bin\Debug\Salaries.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Graphs-I\Salaries\bin\Debug\Salaries.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Graphs-I\Salaries\bin\Debug\Salaries.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Graphs-I\Salaries\obj\Debug\Salaries.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Graphs-I\Salaries\obj\Debug\Salaries.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Graphs-I\Salaries\obj\Debug\Salaries.pdb

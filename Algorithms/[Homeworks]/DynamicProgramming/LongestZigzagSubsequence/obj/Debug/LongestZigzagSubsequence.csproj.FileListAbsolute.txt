@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming\LongestZigzagSubsequence\bin\Debug\LongestZigzagSubsequence.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming\LongestZigzagSubsequence\bin\Debug\LongestZigzagSubsequence.exe
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming\LongestZigzagSubsequence\bin\Debug\LongestZigzagSubsequence.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming\LongestZigzagSubsequence\obj\Debug\LongestZigzagSubsequence.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming\LongestZigzagSubsequence\obj\Debug\LongestZigzagSubsequence.exe
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming\LongestZigzagSubsequence\obj\Debug\LongestZigzagSubsequence.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\LongestZigzagSubsequence\bin\Debug\LongestZigzagSubsequence.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\LongestZigzagSubsequence\bin\Debug\LongestZigzagSubsequence.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\LongestZigzagSubsequence\bin\Debug\LongestZigzagSubsequence.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\LongestZigzagSubsequence\obj\Debug\LongestZigzagSubsequence.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\LongestZigzagSubsequence\obj\Debug\LongestZigzagSubsequence.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\LongestZigzagSubsequence\obj\Debug\LongestZigzagSubsequence.pdb

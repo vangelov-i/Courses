@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\AdvancedGraphLab\Dijkstra.Tests\bin\Debug\Dijkstra.Tests.dll
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\AdvancedGraphLab\Dijkstra.Tests\bin\Debug\Dijkstra.Tests.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\AdvancedGraphLab\Dijkstra.Tests\bin\Debug\Dijkstra.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\AdvancedGraphLab\Dijkstra.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\AdvancedGraphLab\Dijkstra.Tests\bin\Debug\Dijkstra.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\AdvancedGraphLab\Dijkstra.Tests\obj\Debug\Dijkstra.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\AdvancedGraphLab\Dijkstra.Tests\obj\Debug\Dijkstra.Tests.dll
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\AdvancedGraphLab\Dijkstra.Tests\obj\Debug\Dijkstra.Tests.pdb

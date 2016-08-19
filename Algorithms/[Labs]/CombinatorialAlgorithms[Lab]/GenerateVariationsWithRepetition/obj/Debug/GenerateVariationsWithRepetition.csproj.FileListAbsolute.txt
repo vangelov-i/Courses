@@ -1,0 +1,9 @@
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateVariationsWithRepetition\bin\Debug\GenerateVariationsWithRepetition.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateVariationsWithRepetition\bin\Debug\GenerateVariationsWithRepetition.exe
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateVariationsWithRepetition\bin\Debug\GenerateVariationsWithRepetition.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateVariationsWithRepetition\obj\Debug\GenerateVariationsWithRepetition.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateVariationsWithRepetition\obj\Debug\GenerateVariationsWithRepetition.exe
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\GenerateVariationsWithRepetition\obj\Debug\GenerateVariationsWithRepetition.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms[Lab]\GenerateVariationsWithRepetition\bin\Debug\GenerateVariationsWithRepetition.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms[Lab]\GenerateVariationsWithRepetition\obj\Debug\GenerateVariationsWithRepetition.exe
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms[Lab]\GenerateVariationsWithRepetition\obj\Debug\GenerateVariationsWithRepetition.pdb

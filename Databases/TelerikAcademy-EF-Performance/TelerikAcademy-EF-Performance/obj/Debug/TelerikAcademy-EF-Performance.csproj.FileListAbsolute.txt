@@ -1,0 +1,10 @@
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\TelerikAcademy\TelerikAcademy-EF-Performance\bin\Debug\TelerikAcademy-EF-Performance.exe.config
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\TelerikAcademy\TelerikAcademy-EF-Performance\bin\Debug\TelerikAcademy-EF-Performance.exe
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\TelerikAcademy\TelerikAcademy-EF-Performance\bin\Debug\TelerikAcademy-EF-Performance.pdb
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\TelerikAcademy\TelerikAcademy-EF-Performance\bin\Debug\EntityFramework.dll
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\TelerikAcademy\TelerikAcademy-EF-Performance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\TelerikAcademy\TelerikAcademy-EF-Performance\bin\Debug\EntityFramework.xml
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\TelerikAcademy\TelerikAcademy-EF-Performance\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\TelerikAcademy\TelerikAcademy-EF-Performance\obj\Debug\TelerikAcademy-EF-Performance.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\TelerikAcademy\TelerikAcademy-EF-Performance\obj\Debug\TelerikAcademy-EF-Performance.exe
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\TelerikAcademy\TelerikAcademy-EF-Performance\obj\Debug\TelerikAcademy-EF-Performance.pdb

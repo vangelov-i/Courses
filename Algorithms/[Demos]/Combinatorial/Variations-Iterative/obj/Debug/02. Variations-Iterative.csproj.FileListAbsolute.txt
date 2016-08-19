@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Combinatorial\Variations-Iterative\bin\Debug\Variations-Iterative.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Combinatorial\Variations-Iterative\bin\Debug\Variations-Iterative.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Combinatorial\Variations-Iterative\obj\Debug\02. Variations-Iterative.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Combinatorial\Variations-Iterative\obj\Debug\Variations-Iterative.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Combinatorial\Variations-Iterative\obj\Debug\Variations-Iterative.pdb

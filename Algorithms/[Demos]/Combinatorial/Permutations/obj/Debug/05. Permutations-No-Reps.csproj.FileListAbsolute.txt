@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Combinatorial\Permutations\bin\Debug\Permutations.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Combinatorial\Permutations\bin\Debug\Permutations.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Combinatorial\Permutations\obj\Debug\05. Permutations-No-Reps.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Combinatorial\Permutations\obj\Debug\Permutations.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Combinatorial\Permutations\obj\Debug\Permutations.pdb

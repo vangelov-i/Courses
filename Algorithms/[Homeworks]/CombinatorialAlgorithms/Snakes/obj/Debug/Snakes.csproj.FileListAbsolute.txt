@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\Snakes\bin\Debug\Snakes.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\Snakes\bin\Debug\Snakes.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\Snakes\bin\Debug\Snakes.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\Snakes\obj\Debug\Snakes.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\Snakes\obj\Debug\Snakes.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\Snakes\obj\Debug\Snakes.pdb

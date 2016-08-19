@@ -1,0 +1,16 @@
+C:\Users\Iliyan\Dropbox\Algorithms\GraphALgorithmsLabSkeleton\DFS-Graph-Traversal.Tests\bin\Debug\DFS-Graph-Traversal.Tests.dll
+C:\Users\Iliyan\Dropbox\Algorithms\GraphALgorithmsLabSkeleton\DFS-Graph-Traversal.Tests\bin\Debug\DFS-Graph-Traversal.Tests.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\GraphALgorithmsLabSkeleton\DFS-Graph-Traversal.Tests\bin\Debug\Graph-Traversal.exe
+C:\Users\Iliyan\Dropbox\Algorithms\GraphALgorithmsLabSkeleton\DFS-Graph-Traversal.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Iliyan\Dropbox\Algorithms\GraphALgorithmsLabSkeleton\DFS-Graph-Traversal.Tests\bin\Debug\Graph-Traversal.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\GraphALgorithmsLabSkeleton\DFS-Graph-Traversal.Tests\obj\Debug\2. DFS-Graph-Traversal.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\GraphALgorithmsLabSkeleton\DFS-Graph-Traversal.Tests\obj\Debug\DFS-Graph-Traversal.Tests.dll
+C:\Users\Iliyan\Dropbox\Algorithms\GraphALgorithmsLabSkeleton\DFS-Graph-Traversal.Tests\obj\Debug\DFS-Graph-Traversal.Tests.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\GraphALgorithmsLabSkeleton\DFS-Graph-Traversal.Tests\obj\Debug\2. DFS-Graph-Traversal.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\GraphALgorithmsLabSkeleton\DFS-Graph-Traversal.Tests\obj\Debug\DFS-Graph-Traversal.Tests.dll
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\GraphALgorithmsLabSkeleton\DFS-Graph-Traversal.Tests\obj\Debug\DFS-Graph-Traversal.Tests.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\GraphALgorithmsLabSkeleton\DFS-Graph-Traversal.Tests\bin\Debug\DFS-Graph-Traversal.Tests.dll
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\GraphALgorithmsLabSkeleton\DFS-Graph-Traversal.Tests\bin\Debug\DFS-Graph-Traversal.Tests.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\GraphALgorithmsLabSkeleton\DFS-Graph-Traversal.Tests\bin\Debug\Graph-Traversal.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\GraphALgorithmsLabSkeleton\DFS-Graph-Traversal.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\GraphALgorithmsLabSkeleton\DFS-Graph-Traversal.Tests\bin\Debug\Graph-Traversal.pdb

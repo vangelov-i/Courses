@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\06-Dec-2015\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\06-Dec-2015\Rectangles\bin\Debug\Rectangles.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\06-Dec-2015\Rectangles\bin\Debug\Rectangles.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\06-Dec-2015\Rectangles\obj\Debug\Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\06-Dec-2015\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\06-Dec-2015\Rectangles\obj\Debug\Rectangles.pdb

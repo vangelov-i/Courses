@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\Cubes\bin\Debug\Cubes.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\Cubes\bin\Debug\Cubes.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\Cubes\bin\Debug\Cubes.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\Cubes\obj\Debug\Cubes.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\Cubes\obj\Debug\Cubes.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\Cubes\obj\Debug\Cubes.pdb

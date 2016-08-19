@@ -1,0 +1,14 @@
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.exe.config
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.exe
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.pdb
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Data.dll
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Model.dll
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Data.pdb
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Model.pdb
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.exe
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\StudentSystem\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.pdb

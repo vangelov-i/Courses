@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\PermutationsWwithRepetition\bin\Debug\PermutationsWwithRepetition.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\PermutationsWwithRepetition\bin\Debug\PermutationsWwithRepetition.exe
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\PermutationsWwithRepetition\bin\Debug\PermutationsWwithRepetition.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\PermutationsWwithRepetition\obj\Debug\PermutationsWwithRepetition.exe
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\PermutationsWwithRepetition\obj\Debug\PermutationsWwithRepetition.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\PermutationsWwithRepetition\obj\Debug\PermutationsWithRepetition.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\PermutationsWwithRepetition\bin\Debug\PermutationsWwithRepetition.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\PermutationsWwithRepetition\obj\Debug\PermutationsWwithRepetition.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\PermutationsWwithRepetition\obj\Debug\PermutationsWwithRepetition.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\PermutationsWwithRepetition\bin\Debug\PermutationsWwithRepetition.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\PermutationsWwithRepetition\bin\Debug\PermutationsWwithRepetition.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\PermutationsWwithRepetition\obj\Debug\PermutationsWithRepetition.csprojResolveAssemblyReference.cache

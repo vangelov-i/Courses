@@ -1,0 +1,289 @@
+01 
+
+USE TheBank
+GO
+
+CREATE TABLE Persons (
+	PersonID int IDENTITY PRIMARY KEY NOT NULL,
+	FirstName nvarchar(50) NOT NULL,
+	LastName nvarchar(50) NOT NULL,
+	SSN nvarchar(50) NOT NULL
+	)
+GO
+
+CREATE TABLE Accounts (
+	AccountID int IDENTITY PRIMARY KEY NOT NULL,
+	PersonID int,
+	Balance money
+	CONSTRAINT FK_Accounts_Persons FOREIGN KEY(PersonID)
+	REFERENCES Persons(PersonID)
+	)
+GO
+
+INSERT INTO Persons
+VALUES
+	('Petkan', 'Petkanov', '001'),
+	('Djordjan', 'Djordjanov', '005'),
+	('Boiko', 'Boikov', '010'),
+	('Spaska', 'Spasova', '111')
+GO
+
+INSERT INTO Accounts
+VALUES
+	(1, 100),
+	(2, 200),
+	(3, 300)
+GO
+
+CREATE PROCEDURE usp_Users_FullName AS
+	SELECT FirstName + ' ' + LastName AS [Full Name]
+	FROM Persons
+
+------------------------------------------------------------------
+
+02
+
+CREATE PROC usp_SelectPersonsByMinimumBalance(
+	@minBalance money = 0)
+AS
+	SELECT p.FirstName, p.LastName
+	FROM Accounts a
+		JOIN Persons p
+			ON p.PersonID = a.PersonID
+	WHERE a.Balance >= @minBalance
+	
+------------------------------------------------------------------
+
+03
+
+USE TheBank
+GO
+
+CREATE FUNCTION ufn_GetInterest(
+	@sum money,
+	@yearlyInterest money,
+	@numberOfMonths int
+	)
+	RETURNS money
+AS
+BEGIN
+	RETURN @sum * ((@numberOfMonths / 12.0) * @yearlyInterest)
+END
+GO
+
+SELECT 
+	p.FirstName, 
+	a.Balance,
+	dbo.ufn_GetInterest(a.Balance, 0.10, 6) AS Interest
+FROM Persons p
+	JOIN Accounts a
+		ON a.PersonID = p.PersonID
+
+------------------------------------------------------------------
+
+04
+
+USE TheBank
+GO
+
+CREATE PROC usp_CreditBalanceWithMonthlyInterest (
+	@accountId int,
+	@interest money)
+AS
+	UPDATE Accounts
+	SET Balance = Balance + dbo.ufn_GetInterest(Balance, @interest, 1)
+	WHERE AccountID = @accountId
+GO
+
+------------------------------------------------------------------
+
+05
+
+USE TheBank
+GO
+
+CREATE PROC usp_WithdrawMoney(
+	@accountId int,
+	@amount money
+	)
+AS
+	UPDATE Accounts
+	SET Balance = Balance - @amount
+	WHERE AccountID = @accountId
+GO
+
+CREATE PROC usp_DepositMoney(
+	@accountId int,
+	@amount money
+	)
+AS
+	UPDATE Accounts
+	SET Balance = Balance + @amount
+	WHERE AccountID = @accountId
+GO
+
+------------------------------------------------------------------
+
+06
+
+USE TheBank
+GO
+
+CREATE TABLE Logs(
+	LogID int IDENTITY PRIMARY KEY,
+	AccountID int,
+	OldSum money NOT NULL,
+	NewSum money NOT NULL,
+	CONSTRAINT FK_Logs_Accounts FOREIGN KEY(AccountID)
+	REFERENCES Accounts(AccountID)
+	)
+GO
+
+CREATE TRIGGER tr_CreateLog ON Accounts AFTER UPDATE
+AS
+	INSERT INTO Logs (AccountID, OldSum, NewSum)
+	SELECT i.AccountID, d.Balance, i.Balance
+	FROM inserted i
+		JOIN deleted d 
+			ON i.AccountID = d.AccountID
+GO
+
+------------------------------------------------------------------
+
+07 ===> NOT WORKING!!! CHECK AGAIN!
+
+USE TelerikAcademy
+GO
+
+SELECT * FROM dbo.ufn_FindEmplyeesAndTownsNamesCompromisedOf('oistmiahf')
+
+--CREATE FUNCTION ufn_IsCompromised(
+--	@name nvarchar(50),
+--	@pattern nvarchar(50)
+--	)
+--	RETURNS bit
+--AS
+--BEGIN
+--	DECLARE @index int = 1
+--	DECLARE @nameLength int = LEN(@name)
+--	DECLARE @currentChar nvarchar(1)
+--	WHILE (@index <= @nameLength)
+--	BEGIN
+--		SET @currentChar = SUBSTRING(@name, @index, 1)
+--		IF (CHARINDEX(@currentChar, @pattern) <> 0)
+--		BEGIN
+--			RETURN 0
+--		END
+--		SET @index = @index + 1
+--	END
+
+--	RETURN 1
+
+--END
+
+CREATE FUNCTION ufn_FindEmplyeesAndTownsNamesCompromisedOf(
+	@pattern nvarchar(50)
+	)
+	RETURNS TABLE
+AS
+RETURN (
+	SELECT FirstName AS Name
+	FROM Employees
+	UNION
+	SELECT Name
+	FROM Towns
+	WHERE dbo.ufn_IsCompromised(Name, @pattern) = 1
+)
+
+------------------------------------------------------------------
+
+08
+
+USE TelerikAcademy
+GO
+
+DECLARE EmployeesTownsCursor CURSOR READ_ONLY FOR
+	SELECT e.FirstName, t.Name
+		FROM Employees e
+			JOIN Addresses a
+				ON e.AddressID = a.AddressID
+			JOIN Towns t
+				ON t.TownID = a.TownID
+	ORDER BY t.Name
+
+OPEN EmployeesTownsCursor
+DECLARE @firstName nvarchar(50), @town nvarchar(50);
+FETCH NEXT FROM EmployeesTownsCursor
+INTO @firstName, @town;
+
+DECLARE @prevTown nvarchar(50) = @town
+
+WHILE @@FETCH_STATUS = 0
+BEGIN
+	PRINT 'People living in ' + @town + ':';
+	WHILE @@FETCH_STATUS = 0 AND @prevTown = @town
+	BEGIN
+		PRINT @firstName;
+		FETCH NEXT FROM EmployeesTownsCursor 
+		INTO @firstName, @town;
+	END
+
+	SET @prevTown = @town
+END
+
+CLOSE EmployeesTownsCursor
+DEALLOCATE EmployeesTownsCursor
+
+------------------------------------------------------------------
+
+09
+
+USE TelerikAcademy
+GO
+
+DECLARE EmployeesTownsCursor CURSOR READ_ONLY FOR
+	SELECT e.FirstName + ' ' + e.LastName AS FullName, t.Name
+		FROM Employees e
+			JOIN Addresses a
+				ON e.AddressID = a.AddressID
+			JOIN Towns t
+				ON t.TownID = a.TownID
+	ORDER BY t.Name DESC
+
+OPEN EmployeesTownsCursor
+DECLARE @employeeNames nvarchar(50), @town nvarchar(50);
+FETCH NEXT FROM EmployeesTownsCursor
+INTO @employeeNames, @town;
+
+DECLARE @prevTown nvarchar(50);
+DECLARE @currentTownCitizens nvarchar(50);
+
+WHILE @@FETCH_STATUS = 0
+BEGIN
+	SET @currentTownCitizens = '';
+	SET @prevTown = @town
+
+	WHILE @@FETCH_STATUS = 0 AND @prevTown = @town
+	BEGIN
+		SET @currentTownCitizens = @currentTownCitizens + @employeeNames + ', ';
+		FETCH NEXT FROM EmployeesTownsCursor 
+		INTO @employeeNames, @town;
+	END
+
+	IF (RIGHT(@currentTownCitizens, 2) = ', ')
+		SET @currentTownCitizens = 
+			LEFT(@currentTownCitizens, LEN(@currentTownCitizens) - 2)
+
+	PRINT @prevTown + ' -> ' + @currentTownCitizens;
+END
+
+CLOSE EmployeesTownsCursor
+DEALLOCATE EmployeesTownsCursor
+
+------------------------------------------------------------------
+
+10
+
+
+
+------------------------------------------------------------------

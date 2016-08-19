@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\GreedyAlgorithms\AngryProfessor\bin\Debug\AngryProfessor.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\GreedyAlgorithms\AngryProfessor\bin\Debug\AngryProfessor.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\GreedyAlgorithms\AngryProfessor\bin\Debug\AngryProfessor.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\GreedyAlgorithms\AngryProfessor\obj\Debug\AngryProfessor.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\GreedyAlgorithms\AngryProfessor\obj\Debug\AngryProfessor.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\GreedyAlgorithms\AngryProfessor\obj\Debug\AngryProfessor.pdb

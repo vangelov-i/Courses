@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Advanced-Graph-Algorithms-I\ModifiedKruskal\bin\Debug\ModifiedKruskal.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Advanced-Graph-Algorithms-I\ModifiedKruskal\bin\Debug\ModifiedKruskal.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Advanced-Graph-Algorithms-I\ModifiedKruskal\bin\Debug\ModifiedKruskal.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Advanced-Graph-Algorithms-I\ModifiedKruskal\bin\Debug\ExtendCableNetwork.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Advanced-Graph-Algorithms-I\ModifiedKruskal\bin\Debug\ExtendCableNetwork.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Advanced-Graph-Algorithms-I\ModifiedKruskal\obj\Debug\ModifiedKruskal.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Advanced-Graph-Algorithms-I\ModifiedKruskal\obj\Debug\ModifiedKruskal.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\Advanced-Graph-Algorithms-I\ModifiedKruskal\obj\Debug\ModifiedKruskal.pdb

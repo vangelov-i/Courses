@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\06-Dec-2015\Sequences\bin\Debug\Sequences.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\06-Dec-2015\Sequences\bin\Debug\Sequences.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\06-Dec-2015\Sequences\bin\Debug\Sequences.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\06-Dec-2015\Sequences\obj\Debug\Sequences.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\06-Dec-2015\Sequences\obj\Debug\Sequences.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\06-Dec-2015\Sequences\obj\Debug\Sequences.pdb

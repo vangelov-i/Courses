@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\GreedyAlgorithms\TheGridSearch\bin\Debug\TheGridSearch.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\GreedyAlgorithms\TheGridSearch\bin\Debug\TheGridSearch.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\GreedyAlgorithms\TheGridSearch\bin\Debug\TheGridSearch.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\GreedyAlgorithms\TheGridSearch\obj\Debug\TheGridSearch.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\GreedyAlgorithms\TheGridSearch\obj\Debug\TheGridSearch.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\GreedyAlgorithms\TheGridSearch\obj\Debug\TheGridSearch.pdb

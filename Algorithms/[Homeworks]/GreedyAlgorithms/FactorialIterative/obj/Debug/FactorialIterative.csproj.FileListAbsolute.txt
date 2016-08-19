@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\GreedyAlgorithms\FactorialIterative\bin\Debug\FactorialIterative.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\GreedyAlgorithms\FactorialIterative\bin\Debug\FactorialIterative.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\GreedyAlgorithms\FactorialIterative\bin\Debug\FactorialIterative.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\GreedyAlgorithms\FactorialIterative\obj\Debug\FactorialIterative.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\GreedyAlgorithms\FactorialIterative\obj\Debug\FactorialIterative.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\GreedyAlgorithms\FactorialIterative\obj\Debug\FactorialIterative.pdb

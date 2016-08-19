@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\SumWithLimitedCoins\bin\Debug\SumWithLimitedCoins.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\SumWithLimitedCoins\bin\Debug\SumWithLimitedCoins.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\SumWithLimitedCoins\bin\Debug\SumWithLimitedCoins.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\SumWithLimitedCoins\obj\Debug\SumWithLimitedCoins.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\SumWithLimitedCoins\obj\Debug\SumWithLimitedCoins.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\DynamicProgramming\SumWithLimitedCoins\obj\Debug\SumWithLimitedCoins.csprojResolveAssemblyReference.cache

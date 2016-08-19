@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\AdvancedGraphLab\Kruskal.Tests\bin\Debug\Kruskal.Tests.dll
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\AdvancedGraphLab\Kruskal.Tests\bin\Debug\Kruskal.Tests.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\AdvancedGraphLab\Kruskal.Tests\bin\Debug\Kurskal.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\AdvancedGraphLab\Kruskal.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\AdvancedGraphLab\Kruskal.Tests\bin\Debug\Kurskal.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\AdvancedGraphLab\Kruskal.Tests\obj\Debug\Kruskal.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\AdvancedGraphLab\Kruskal.Tests\obj\Debug\Kruskal.Tests.dll
+C:\Users\Iliyan\Dropbox\Algorithms\[Labs]\AdvancedGraphLab\Kruskal.Tests\obj\Debug\Kruskal.Tests.pdb

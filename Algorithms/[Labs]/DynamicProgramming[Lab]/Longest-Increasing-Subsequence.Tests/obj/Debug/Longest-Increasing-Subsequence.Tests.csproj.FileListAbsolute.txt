@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming[Lab]\Longest-Increasing-Subsequence.Tests\bin\Debug\Longest-Increasing-Subsequence.Tests.dll
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming[Lab]\Longest-Increasing-Subsequence.Tests\bin\Debug\Longest-Increasing-Subsequence.Tests.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming[Lab]\Longest-Increasing-Subsequence.Tests\bin\Debug\Longest-Increasing-Subsequence.exe
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming[Lab]\Longest-Increasing-Subsequence.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming[Lab]\Longest-Increasing-Subsequence.Tests\bin\Debug\Longest-Increasing-Subsequence.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming[Lab]\Longest-Increasing-Subsequence.Tests\obj\Debug\Longest-Increasing-Subsequence.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming[Lab]\Longest-Increasing-Subsequence.Tests\obj\Debug\Longest-Increasing-Subsequence.Tests.dll
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming[Lab]\Longest-Increasing-Subsequence.Tests\obj\Debug\Longest-Increasing-Subsequence.Tests.pdb

@@ -1,0 +1,8 @@
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\VariationsWithoutRepetitions\bin\Debug\VariationsWithoutRepetitions.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\VariationsWithoutRepetitions\bin\Debug\VariationsWithoutRepetitions.exe
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\VariationsWithoutRepetitions\bin\Debug\VariationsWithoutRepetitions.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\VariationsWithoutRepetitions\obj\Debug\VariationsWithoutRepetitions.exe
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\VariationsWithoutRepetitions\obj\Debug\VariationsWithoutRepetitions.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms[Lab]\VariationsWithoutRepetitions\bin\Debug\VariationsWithoutRepetitions.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms[Lab]\VariationsWithoutRepetitions\obj\Debug\VariationsWithoutRepetitions.exe
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms[Lab]\VariationsWithoutRepetitions\obj\Debug\VariationsWithoutRepetitions.pdb

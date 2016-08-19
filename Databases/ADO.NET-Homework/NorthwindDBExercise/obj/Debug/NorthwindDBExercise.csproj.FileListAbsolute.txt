@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\ADO.NET-Homework\NorthwindDBExercise\bin\Debug\NorthwindDBExercise.exe.config
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\ADO.NET-Homework\NorthwindDBExercise\bin\Debug\NorthwindDBExercise.exe
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\ADO.NET-Homework\NorthwindDBExercise\bin\Debug\NorthwindDBExercise.pdb
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\ADO.NET-Homework\NorthwindDBExercise\obj\Debug\NorthwindDBExercise.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\ADO.NET-Homework\NorthwindDBExercise\obj\Debug\NorthwindDBExercise.exe
+C:\Users\Iliyan\Dropbox\Databases\Telerik\Homeworks\ADO.NET-Homework\NorthwindDBExercise\obj\Debug\NorthwindDBExercise.pdb

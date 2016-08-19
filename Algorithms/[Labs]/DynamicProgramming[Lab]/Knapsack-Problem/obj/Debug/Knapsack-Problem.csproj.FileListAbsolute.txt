@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming[Lab]\Knapsack-Problem\bin\Debug\Knapsack-Problem.exe
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming[Lab]\Knapsack-Problem\bin\Debug\Knapsack-Problem.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming[Lab]\Knapsack-Problem\obj\Debug\Knapsack-Problem.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming[Lab]\Knapsack-Problem\obj\Debug\Knapsack-Problem.exe
+C:\Users\Iliyan\Dropbox\Algorithms\DynamicProgramming[Lab]\Knapsack-Problem\obj\Debug\Knapsack-Problem.pdb

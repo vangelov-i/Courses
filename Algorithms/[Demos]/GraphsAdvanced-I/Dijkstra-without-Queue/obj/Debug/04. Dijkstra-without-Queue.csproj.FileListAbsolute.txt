@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\GraphsAdvanced-I\Dijkstra-without-Queue\bin\Debug\DijkstraWithoutQueue.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\GraphsAdvanced-I\Dijkstra-without-Queue\bin\Debug\DijkstraWithoutQueue.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\GraphsAdvanced-I\Dijkstra-without-Queue\obj\Debug\04. Dijkstra-without-Queue.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\GraphsAdvanced-I\Dijkstra-without-Queue\obj\Debug\DijkstraWithoutQueue.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\GraphsAdvanced-I\Dijkstra-without-Queue\obj\Debug\DijkstraWithoutQueue.pdb

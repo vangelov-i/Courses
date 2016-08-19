@@ -1,0 +1,4 @@
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Combinatorial\Variations-No-Reps-Slow\bin\Debug\Variations-No-Repetitions.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Combinatorial\Variations-No-Reps-Slow\bin\Debug\Variations-No-Repetitions.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Combinatorial\Variations-No-Reps-Slow\obj\Debug\Variations-No-Repetitions.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Demos]\Combinatorial\Variations-No-Reps-Slow\obj\Debug\Variations-No-Repetitions.pdb

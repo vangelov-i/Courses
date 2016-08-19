@@ -1,0 +1,5 @@
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\SortingAndSearchingAlgorithms[Lab]\BinaryHeap\bin\Debug\BinaryHeap.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\SortingAndSearchingAlgorithms[Lab]\BinaryHeap\bin\Debug\BinaryHeap.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\SortingAndSearchingAlgorithms[Lab]\BinaryHeap\obj\Debug\BinaryHeap.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\SortingAndSearchingAlgorithms[Lab]\BinaryHeap\obj\Debug\BinaryHeap.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\SortingAndSearchingAlgorithms[Lab]\BinaryHeap\obj\Debug\BinaryHeap.pdb

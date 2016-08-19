@@ -1,0 +1,12 @@
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\Permutations\bin\Debug\Permutations.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\Permutations\bin\Debug\Permutations.exe
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\Permutations\bin\Debug\Permutations.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\Permutations\obj\Debug\Permutations.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\Permutations\obj\Debug\Permutations.exe
+C:\Users\Iliyan\Dropbox\Algorithms\CombinatorialAlgorithms\Permutations\obj\Debug\Permutations.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\Permutations\bin\Debug\Permutations.exe.config
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\Permutations\obj\Debug\Permutations.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\Permutations\obj\Debug\Permutations.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\Permutations\bin\Debug\Permutations.exe
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\Permutations\bin\Debug\Permutations.pdb
+C:\Users\Iliyan\Dropbox\Algorithms\[Homeworks]\CombinatorialAlgorithms\Permutations\obj\Debug\Permutations.csprojResolveAssemblyReference.cache
