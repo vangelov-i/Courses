@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\Databases\Telerik\Homeworks\XML-Parsers\XmlReader-XmlWriter-Exercise\bin\Debug\XmlReader-XmlWriter-Exercise.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Databases\Telerik\Homeworks\XML-Parsers\XmlReader-XmlWriter-Exercise\bin\Debug\XmlReader-XmlWriter-Exercise.exe
+C:\Users\Iliyan\Desktop\Dropbox\Databases\Telerik\Homeworks\XML-Parsers\XmlReader-XmlWriter-Exercise\bin\Debug\XmlReader-XmlWriter-Exercise.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Databases\Telerik\Homeworks\XML-Parsers\XmlReader-XmlWriter-Exercise\obj\Debug\XmlReader-XmlWriter-Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\Databases\Telerik\Homeworks\XML-Parsers\XmlReader-XmlWriter-Exercise\obj\Debug\XmlReader-XmlWriter-Exercise.exe
+C:\Users\Iliyan\Desktop\Dropbox\Databases\Telerik\Homeworks\XML-Parsers\XmlReader-XmlWriter-Exercise\obj\Debug\XmlReader-XmlWriter-Exercise.pdb

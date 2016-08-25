@@ -1,0 +1,6 @@
+C:\Users\Iliyan\Desktop\Dropbox\Databases\Telerik\Homeworks\XML-Parsers\TransformTxtToXml\bin\Debug\TransformTxtToXml.exe.config
+C:\Users\Iliyan\Desktop\Dropbox\Databases\Telerik\Homeworks\XML-Parsers\TransformTxtToXml\bin\Debug\TransformTxtToXml.exe
+C:\Users\Iliyan\Desktop\Dropbox\Databases\Telerik\Homeworks\XML-Parsers\TransformTxtToXml\bin\Debug\TransformTxtToXml.pdb
+C:\Users\Iliyan\Desktop\Dropbox\Databases\Telerik\Homeworks\XML-Parsers\TransformTxtToXml\obj\Debug\TransformTxtToXml.csprojResolveAssemblyReference.cache
+C:\Users\Iliyan\Desktop\Dropbox\Databases\Telerik\Homeworks\XML-Parsers\TransformTxtToXml\obj\Debug\TransformTxtToXml.exe
+C:\Users\Iliyan\Desktop\Dropbox\Databases\Telerik\Homeworks\XML-Parsers\TransformTxtToXml\obj\Debug\TransformTxtToXml.pdb

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Albums>
+  <Album>
+    <Name>There's no such album</Name>
+    <Artist>Shadow</Artist>
+  </Album>
+  <Album>
+    <Name>Second Album</Name>
+    <Artist>Lil Jo</Artist>
+  </Album>
+  <Album>
+    <Name>Second Album</Name>
+    <Artist>Space Rapara</Artist>
+  </Album>
+  <Album>
+    <Name>Debut Album</Name>
+    <Artist>Space Rapara</Artist>
+  </Album>
+</Albums>

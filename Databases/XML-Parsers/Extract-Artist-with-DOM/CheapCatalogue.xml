@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalogue>
+  <album>
+    <name>There's no such album</name>
+    <artist>Shadow</artist>
+    <year>2016</year>
+    <producer>Shadow's mother</producer>
+    <price>11.53</price>
+    <song>
+      <title>The Song</title>
+      <duration>2:15</duration>
+    </song>
+  </album>
+</catalogue>

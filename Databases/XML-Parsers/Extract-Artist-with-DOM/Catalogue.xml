@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<catalogue>
+  <album>
+    <name>Debut Album</name>
+    <artist>Space Rapara</artist>
+    <year>2005</year>
+    <producer>Space Rapara- brat mu</producer>
+    <price>100.0</price>
+    <song>
+      <title>Raigras</title>
+      <duration>3:14</duration>
+    </song>
+    <song>
+      <title>Space</title>
+      <duration>4:18</duration>
+    </song>
+  </album>
+  <album>
+    <name>Second Album</name>
+    <artist>Space Rapara</artist>
+    <year>2006</year>
+    <producer>Space Rapara- brat mu</producer>
+    <price>50.0</price>
+    <song>
+      <title>Vidin Glory</title>
+      <duration>3:14</duration>
+    </song>
+    <song>
+      <title>Sunset</title>
+      <duration>4:18</duration>
+    </song>
+  </album>
+  <album>
+    <name>Second Album</name>
+    <artist>Lil Jo</artist>
+    <year>2015</year>
+    <producer>Big Jo</producer>
+    <price>99.99</price>
+    <song>
+      <title>The Brotherhood</title>
+      <duration>4:00</duration>
+    </song>
+    <song>
+      <title>To The Top</title>
+      <duration>4:13</duration>
+    </song>
+    <song>
+      <title>And Beyond</title>
+      <duration>5:55</duration>
+    </song>
+  </album>
+  <album>
+    <name>There's no such album</name>
+    <artist>Shadow</artist>
+    <year>2016</year>
+    <producer>Shadow's mother</producer>
+    <price>11.53</price>
+    <song>
+      <title>The Song</title>
+      <duration>2:15</duration>
+    </song>
+  </album>
+</catalogue>

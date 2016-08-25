@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urn:Students xmlns:urn="students">
+	<Student>
+		<Name>Pesho</Name>
+		<Gender>m</Gender>
+		<BirthDate>19-01-1990</BirthDate>
+		<PhoneNumber>+359885123456</PhoneNumber>
+		<Email>pesho@peshmail.com</Email>
+		<Course>Databases</Course>
+		<Specialty>.NET Developer</Specialty>
+		<FacultyNumber>123456</FacultyNumber>
+		<PassedExams>
+			<Exam>
+				<Name>Data Structures</Name>
+				<Tutor>IDK</Tutor>
+				<Score>90</Score>
+			</Exam>
+			<Exam>
+				<Name>High-Quality-Code</Name>
+				<Tutor>IDK</Tutor>
+				<Score>85</Score>
+			</Exam>
+		</PassedExams>
+	</Student>
+		<Student>
+		<Name>Dinko</Name>
+		<Gender>m</Gender>
+		<BirthDate>20-02-1990</BirthDate>
+		<PhoneNumber>+359885987654</PhoneNumber>
+		<Email>dinko@peshmail.com</Email>
+		<Course>Databases</Course>
+		<Specialty>Java</Specialty>
+		<FacultyNumber>23456</FacultyNumber>
+		<PassedExams>
+			<Exam>
+				<Name>Data Structures</Name>
+				<Tutor>IDK</Tutor>
+				<Score>50</Score>
+			</Exam>
+		</PassedExams>
+	</Student>
+</Students>

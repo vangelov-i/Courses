@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PhoneBook>
+  <Person id="c512fc91-8b00-4078-9476-ab0b0dbb5983">
+    <Name>Djoni Dajon</Name>
+    <Address>Rakovska 54</Address>
+    <PhoneNumber>+359882333444</PhoneNumber>
+  </Person>
+  <Person id="61e3e919-d284-4cd2-bc0c-e07e23f7210e">
+    <Name>Dragan Ivanovic</Name>
+    <Address>Vitosha 18A</Address>
+    <PhoneNumber>+359882222111</PhoneNumber>
+  </Person>
+  <Person id="88bb89db-7474-4f15-a20c-28142f7add5a">
+    <Name>Gichka Stankova</Name>
+    <Address>Simeonovsko Shose 15B</Address>
+    <PhoneNumber>+35988000000</PhoneNumber>
+  </Person>
+</PhoneBook>

@@ -1,2 +1,2 @@
 Passed courses at Software University.
-Every course consists of homeworks, exercises and past exams solutions.
+Every course consists of homeworks and past exams solutions.
