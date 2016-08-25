@@ -1,0 +1,63 @@
+GUID in MongoDb:
+When we want a field to be primary key we make it of type string with
+[BsonRepresentation(BsonType.ObjectId] attribute , in order MongoDb to assign it as Id
+
+var mongoClient = new MongoClient("connection string");
+var server = mongoClient.GetServer();
+var db = server.GetDatabase("dbName");
+	-> оттук нататък работим през db. Горните 3 реда може да се отделят в метод
+	GetDatabase(string name, string fromHost)...
+
+var logsCollection = db.GetCollecition<Log>("Logs"); // if there is no Collection (entity) "Logs" it will create it.
+
+-- Executing query:
+var filterQuery = Query<Log>
+	.Where(log => log.Text.Contains("during"));
+
+var filteredLogs = logsCollection.Find(filterQuery);
+
+-- Updating:
+var update = Update.Set("Text", "NEW TEXT"); // "Text" is a property name,
+												2nd param is value
+
+logsCollection.Update(null, update); // 1st param is Query. When we put null
+										we will affect every entity (called collections in MongoDb). Every Collection can have many documents (entries)- JSON objects
+										
+--When we have collection containing different types of documents we can operate on it through BsonDocument class.
+-> var vObjs = db.GetCollecition<BsonDocument>("Tests");
+	this way we can store variety of different objects in Tests. Still not sure how you should properly use this approach cause it seems like an anti-pattern without further knowledge.
+	
+Example:
+var log = new Log 
+		{ 
+			LogDate = DateTime.Now,
+			Text = "Some log text"
+		};
+
+// BsonDocument bsonObj = BsonDocument.Create(log); -> not working
+BsonDocument bsonObj = BsonDocument.Parse(log.ToJason());
+
+-> When we added the SDK (MongoDb from NuGet) -> automatically every object has the extention method .ToJason();
+
+Console.WriteLine(bsonObj.GetElement("Text")); // prints "Text=Some log text"
+Console.WriteLine(bsonObj.GetElement("Text").Value); // prints "Some log text"
+
+CRUD Operations:
+
+var logsCollection = db.GetCollecition<Log>("Logs");
+logsCollection.Find(query);
+logsCollection.FindAll();
+logsCollection.FindOneById(id);
+logsCollection.Update(query, update);
+logsCollection.Insert(log);
+logsCollection.InsertBatch(IEnumerable<Log>);
+logsCollection.Remove(removeQuery);
+
+var searchOldLogs = Query<Log>
+					.Where(log => log.LogDate < DateTime.Now.AddMinutes(-30));
+logsCollection.Remove(searchOldLogs); // the removal procces happens on level DB (not in the application) which means it's way faster!
+
+logsCollection.Find(searchOldLogs); // does the same job as the uglier code bellow
+
+var asd = Query.GT("LogDate", DateTime.Now.AddMinutes(-30); // finds all logs whose hour is grater than ...
+if LogDate document has it's own properties (i.e. "Hour") we can acces it with "LogDate.Hour" as the 1st param (instead of "LogDate")

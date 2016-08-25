@@ -1,0 +1,12 @@
+* INSERT INTO <table> VALUES (<value1>, <value2>,...)
+	-> inserts values into columns by their default order
+* INSERT INTO <table> (<columneName1>, <columneName2) VALUES (<value1>, <value2>,...)
+	-> inserts the values into the specified columns (the order is the same as declared in the braces)
+	
+	INSERT INTO Projects(Name, StartDate)
+	VALUES ('New project', GETDATE())
+	
+	INSERT INTO Projects (Name, StartDate)
+	SELECT Name + ' Restructuring', GETDATE()
+	FROM Departments
+	-> we take data from existing table(Departments) and insert it's updated values(<name> + ' Restructuring) from 'Name' column to Projects

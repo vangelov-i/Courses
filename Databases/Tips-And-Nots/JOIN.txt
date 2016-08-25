@@ -1,0 +1,59 @@
+TODO: learn about usage of JOIN and WHERE - how do they work, is WHERE lazy, which way is more efficient, does it have any difference?
+
+INNER:
+	-> gets all elements which match given condition
+	
+	SELECT e.LastName, d.Name AS DepartmentName
+	From Employees e
+		INNER JOIN Departments d
+			ON e.DepartmentID = d.DepartmentID
+			
+	*another way to do it:
+	SELECT e.LastName, d.Name AS DepartmentName
+	From Employees e, Departments d
+	WHERE e.DepartmentID = d.DepartmentID
+
+	SELECT e.LastName, m.EmployeeID AS MgrID, m.LastName AS MgrLastName
+	FROM Employees e
+		INNER JOIN Employees m
+			ON e.ManagerID = m.EmployeeID
+
+			
+	SELECT e.FirstName, t.Name as Towns, a.AdressText as Address
+	From Employees e
+		JOIN Adresses a
+			ON e.AdressID = a.AdressID
+		JOIN Towns t
+			ON a.TownID = t.TownID
+			
+LEFT:
+	-> gets all the elements from the column we make JOIN on (first one), which don't match the condition and after them all elements which match it.
+	
+	SELECT 
+		e.LastName AS EmpLastName, 
+		m.EmployeeID AS MgrID, 
+		m.LastName AS Mgr LastName
+	FROM Employees e 
+		LEFT OUTER JOIN Employees m
+			ON e.ManagerID = m.EmployeeID
+	
+RIGHT:
+	-> gets all the elements from the column we JOIN (second one), which don't match the condition and after them all elements which match it.
+	
+		SELECT 
+		e.LastName AS EmpLastName, 
+		m.EmployeeID AS MgrID, 
+		m.LastName AS Mgr LastName
+	FROM Employees e 
+		RIGHT OUTER JOIN Employees m
+			ON e.ManagerID = m.EmployeeID
+	-> getting all employees who don't manage anybody.
+FULL OUTER:
+	-> gets all elements from inner join as well as the result of a left and right join
+----------------------
+
+FROM Employees e
+INNER JOIN Departments d
+	ON (e.DepartmentID = d.DepartmentID)
+	AND e.HireDate > '1/1/1999'
+	AND d.Name IN ('Sales', 'Finance')

@@ -1,0 +1,31 @@
+Delete()
+	-> EntityFramework.Extended (from NuGet)
+		using EntityFramework.Extensions
+		with .Delete() extension method.
+	-> through native SQL command
+		db.Database.ExecuteSqlCommand("some command");
+
+IQueryable till the end!!!
+
+N+1 Problem:
+	-> use .Select to make projections. This way EF will make efficient single query instead of many. This way we can project only the columns we want to use. If we get all the students that means we get every single column (property) they have and we might not need all of them for what we need to do at the moment. Don't make projections through navigation properties!
+
+	good example:	
+	var products = db.Context.Products
+		.Select(product => new 
+			{
+				Name = product.ProductName,
+				Company = product.Supplier.CompanyName,
+				Category = product.Category.CategoryName
+			});
+	foreach ...
+	
+	bad example:
+	foreach (var product in dbContext.Products)
+	{
+		Console.WriteLine(
+			"Product: {0}; {1}; {2}",
+			product.ProductName, product.Supplier.CompanyName,
+			product.Category.CategoryName);
+	}
+	

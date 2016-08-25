@@ -1,0 +1,15 @@
+UPDATE Employees
+SET LastName = 'Brown'
+WHERE EmployeeID = 1
+	-> DON'T FORGET THE WHERE STATEMENT!!!
+	
+UPDATE Employees
+SET LastName = 'Brown', JobTitle = 'Senior ' + JobTitle
+WHERE DepartmentID = 3
+
+UPDATE Employees
+SET JobTitle = 'Senior ' + JobTitle
+FROM Employees e
+	JOIN Departments d
+		ON e.DepartmentID = d.DepartmentID
+WHERE d.Name = 'Sales'							!!!

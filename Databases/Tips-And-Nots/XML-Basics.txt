@@ -1,0 +1,35 @@
+www.w3schools.com/schema/
+	-> good explanation of schema
+	
+Proccessing models:
+
+DOM (Document Object Model):
+	*uses the memory. Easier to use but not appropriate for big XML files
+	*has LINQ
+	
+	*use when proccessing XMLs less than 10MB
+	*use when there's a need of flexability
+	*use when you need to modify the XML document
+SAX:
+	*Event based stream reading of the XML
+	*Appropriate for proccessing big XML documents
+StAX:
+	*Read is invoked synchronously by the developer
+	*when processing XMLs less than 1MB
+*use SAX/StAX for proccessing big documents
+*use when we need performance
+*use when there is no need to change the document
+
+XPath (XML Path Language)
+	-> a language for addresing parts of XML document
+	-> XPath expressions contain description of paths to nodes and filter  criteria
+	-> check the syntax from presentation
+/library/book[isbn='dasdfa'] => find the book in library with that isbn
+/book/chapter[3]/paragraph[last()]
+
+XSL transformations(XSLT)
+	-> allows to transform one XML doc to other XML doc with diff structure
+	-> convert between different XML formats
+	-> XSLT depends on XPath for matching parts from one doc and replacing them with another XML
+	-> XSLT can be used to transform XML doc to XHTML
+

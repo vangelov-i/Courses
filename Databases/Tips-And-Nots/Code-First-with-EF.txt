@@ -1,0 +1,115 @@
+STEP 1:
+
+Public class PostAnswer
+{
+	// When EF sees a property named like the class name + "Id" at the end (or only "Id"), it automatically makes if PK
+	public int PostAnswerID {get; set;}
+	
+	public string Content {get; set;}
+	
+	// When EF sees a property with the name of some other table + "Id", it automatically makes a relation with FK to this table
+	public int PostId {get; set;}
+	
+	// Every VIRTUAL property which corresponds to a name of another table is a navigation property to this table
+	public virtual Post Post {get; set;}
+}
+
+Virtual is neccessary for EF to apply LAZY LOADING on related objects
+
+When modeling the DB we create project ("StudentSystem.Models") with ClassLibrary - it won't execute anything. It will contain all the models in our DB
+
+GUID:
+public class Course
+{
+	private ICollection<Student> students;
+	public Course()
+	{
+		this.Id = Guid.NewGuid();
+		
+		// all collections in DB are recommended to be
+		// HashSets
+		this.students = new HashSet<Student>();
+	}
+	
+	public Guid Id { get; set; }
+	
+	public virtual ICollection<Student> Students 
+	{ 
+		get { return this.students; } 
+		set { this.students = value; }
+	}
+}
+
+--> having a PRIVATE field for the virtual properties is essential to avoid breaking the SOLID principles when inheriting the class so you will force the inheritor to create new private field and implement the virtual property on it's own. *Initializing virtual properties in the constructor is anti-pattern*
+
+STEP 2:
+
+*Creating new project StudentSystem.Data where we work with the data. Add EF from NuGet packages
+
+*Create class StudentSystemDbContext inheriting DbContext
+	-> add all tables as follows
+	public IDbSet<Student> Students;
+
+!!! When using different connection string we must create empty ctor by passing  to the base ctor the name of the connection string added in the config file.
+
+We can override OnModelCreating(DbModelBuilder modelBuilder)
+{
+	// instead of using attributes we can use this fluent API to set what we want the columns to be when creating the DB
+	
+	modelBuilder.Entity<Student>().HasRequired(t => t.Name);
+	
+	// EF doesn't have attribute [IsUnicode] but it can be set here or we can make custom attribute and use it.
+	this method of settings requirements is not that good.
+	Try to stick with attributes.
+	
+	modelBuilder.Entity<Student>()
+		.Property(s => s.Firstname)
+		.IsUnicode();
+	
+}
+
+!GOOD PRACTICE! - when the class gets bigger, split it into several classes inheriting DbContext with it's concrete functionality
+
+STEP 3:
+
+*Create new project for the client using the dbContext
+	i.e. Console Client, Web Client etc.
+Add EF from NuGet
+
+MIGRATIONS:
+
+top right searchbox: Package Manager Console
+execute commands on installed libraries
+select project with EF
+command: Enable-Migrations
+
+Configuration.cs 
+	-> make the access modifier to public
+	-> in the ctor set this.AutomaticMigrationsEnabled = true;
+	
+-> if it's set to true and we try to delete somethign from the db in the way that it forces EF to delete data related to what you deleted, it won't allow it by default. If we want to change that (in the ctor)->
+	this.AutomaticMigrationDataLossAllowed = true;
+	
+	this.CommandTimeOut .... 
+	
+-> Seed(SomeDbContext context)
+{
+	// when you run migration this method is always called. So it can be used to fill some default data.
+}
+
+some other features:
+CreateDatabaseIfNotExists (default)
+DropCreateDatabaseIfModelChanges 
+	- we lose all the data when we change the model
+DropCreateDatabaseAlways
+	- great for automated integration testing
+MigrateDatabaseToLatestVersion
+IDatabaseInitializer
+	- we can implement it if we want custom migration strategy
+	
+Sample use: 
+Database.SetInitializer(
+new MigrateDatabaseToLastVersion<StudentSystemDbContext, Configuration>()); // Database is class with static method
+
+GOOD PRACTICE:
+	the sample may be placed in the application or in the ctor of out DbContext inheritor.

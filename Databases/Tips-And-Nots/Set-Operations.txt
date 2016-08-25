@@ -1,0 +1,11 @@
+SET OPERATIONS:
+SELECT FirstName AS Name
+FROM Employees
+UNION
+SELECT LastName AS Name
+FROM Employees
+	-> combines unique elements from the columns
+
+INTERSECT -> gets only common elements from the colums
+
+EXCEPT / EXCEPT-> gets the elements which don't intersect

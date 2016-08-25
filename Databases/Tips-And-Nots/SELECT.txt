@@ -1,0 +1,92 @@
+SELECT c.CategoryName, p.PruductName
+FROM Categories c
+	JOIN Products p
+	on p.CategoryID = c.CategoryID\
+
+SELECT LastName, Salary, Salary + 300 или Salary + 300 AS SalaryWithBonus
+FROM Employees
+	-> временна безименна колона, която изкарва всички заплати с 300 отгоре
+	
+SELECT LastName, Salary, Salary + 300 AS SalaryWithBonus
+FROM Employees
+	-> временна колона "SalaryWithBonus", която изкарва всички заплати с 300 отгоре
+	
+SELECT FirstName + ' ' + LastName AS [Full Name], EmployeeID as [No.]
+FROM Employees
+
+Full Name 	| No.
+Guy Gilbert	| 1
+Kevin Brown	| 2
+
+SELECT FirstName + '''s last name is ' + LastName AS [Full Name], EmployeeID as [No.]
+FROM Employees
+
+Full Name 	| No.
+Guy's last name is Gilbert	| 1
+Kevin's last name is Brown	| 2
+
+SET OPERATIONS:
+SELECT FirstName AS Name
+FROM Employees
+UNION
+SELECT LastName AS Name
+FROM Employees
+	-> combines unique elements from the columns
+
+INTERSECT -> gets only common elements from the colums
+
+EXCEPT / EXCEPT-> gets the elements which don't intersect
+
+BETWEEN -> bool for ranges (inclusive) - a <= c && a >= d
+IN -> checks if something is among given values
+	WHERE ManagerID IN (109, 3, 16) -> gets all results which have one of these IDs
+NOT IN -> ... the oposite
+
+LIKE -> pattern for string search
+	WHERE FirstName LIKE 'S%' -> every element which starts with S and has 0 or more symbols afterwards ('%S' - elements ending with 'S')
+
+When making comparisson with null -> 	WHERE ManagerID IS NULL 
+										WHERE ManagerID IS NOT NULL
+								WRONG: WHERE ManagerID = NULL
+
+Logical checks with: AND, OR, NOT
+SELECT FirstName
+FROM Employees
+WHERE Salary >= 20000 AND LastName Like 'C%'
+
+...
+WHERE NOT (ManagerID = 3 OR ManagerID = 4) ... Can't it be with NOT IN?
+
+
+SELECT FirstName AS Name, Salary + 300 AS SalaryWithBonus
+From Employees
+WHERE ManagerID IS NOT NULL
+ORDER BY Name, SalaryWithBonus
+	-> we can use named columns in the query after it's declaration
+	
+JOIN 
+-> inner, left, right, outer
+
+INNER:
+SELECT e.LastName, d.Name AS DepartmentName
+From Employees e
+	INNER JOIN Departments d
+		ON e.DepartmentID = d.DepartmentID
+		
+SELECT e.LastName, d.Name AS DepartmentName
+From Employees e, Departments d
+WHERE e.DepartmentID = d.DepartmentID
+
+SELECT e.LastName, m.EmployeeID AS MgrID, m.LastName AS MgrLastName
+FROM Employees e
+	INNER JOIN Employees m
+		ON e.ManagerID = m.EmployeeID
+
+LEFT:
+	-> gets all elements which delight the condition and after them all the elements from the column we make JOIN on, which don't delight it.
+	
+RIGHT:
+	-> gets all elements which delight the condition and after them all the elements from the column we JOIN (second one), which don't delight it.
+	
+OUTER:
+	-> gets all elements from inner join as well as the result of a left and right join

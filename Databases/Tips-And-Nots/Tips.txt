@@ -1,0 +1,35 @@
+View - извадка, съкратен запис за изпълняване на дадена заявка (SELECT)
+
+Numeric:
+	bit (bool)
+	integer (int)
+	bigint (long)
+	float, real (double), numeric(scale, precision)
+	money (decimal)
+	
+Strings:
+	char(size)- fixed size string
+		-> generates fixed size string. If max size is not used it fills
+		the rest with spaces.
+	varchar(size)- variable size string
+		-> if varchar if size 10 is filled with only 3 symbols it won't filled
+		the rest with spaces.
+	nvarchar(size)- unicode variable size string
+		-> most used.
+	text/ntext- text data block(unlimited size)
+		-> using pointer (stored localy)
+		
+Binary data:
+	varbinary(size)- a sequence of bits
+	image- a binary block up to 1GB
+		-> using pointer (stored localy)
+		
+Data and Time:
+	datetime- minValue - 1.1.1753, maxValue - 31.12.9999. 1/300 sec precision
+	smalldatetime- 1 min precision
+
+Other types:
+	timestamp- automatically generated number  whenever a change is made
+	uniqueidentifier- GUID identifier (unique for every machine)
+		-> suiteable for users primary key
+	xml- data in XML format

@@ -1,0 +1,27 @@
+BETWEEN -> bool for ranges (inclusive) - a <= c && a >= d
+IN -> checks if something is among given values
+	WHERE ManagerID IN (109, 3, 16) -> gets all results which have one of these IDs
+NOT IN -> ... the oposite
+
+LIKE -> pattern for string search
+	WHERE FirstName LIKE 'S%' -> every element which starts with S and has 0 or more symbols afterwards ('%S' - elements ending with 'S')
+
+When making comparisson with null -> 	WHERE ManagerID IS NULL 
+										WHERE ManagerID IS NOT NULL
+								WRONG: WHERE ManagerID = NULL
+
+Logical checks with: AND, OR, NOT
+
+	SELECT FirstName
+	FROM Employees
+	WHERE Salary >= 20000 AND LastName Like 'C%'
+
+	-==-...
+	WHERE NOT (ManagerID = 3 OR ManagerID = 4) ... Can't it be with NOT IN?
+
+
+	SELECT FirstName AS Name, Salary + 300 AS SalaryWithBonus
+	From Employees
+	WHERE ManagerID IS NOT NULL
+	ORDER BY Name, SalaryWithBonus
+	-> we can use named columns in the query after it's declaration

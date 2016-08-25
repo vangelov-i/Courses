@@ -1,0 +1,6 @@
+DbContext class
+	-> holds the db connection and the entity classes
+	-> provides LINQ-based data access
+	-> Implements identity tracking, change tracking and API for CRUD (Create, Read, Update, Delete) operations
+Entity classes
+	-> each db table is mapped to a single entity (C#) class
